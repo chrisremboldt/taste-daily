@@ -7,6 +7,6 @@
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
   <item><title>Pilot</title><description>Episode 0. Banks find AI agents inside customer accounts, day two of Black October and why patching is the real bottleneck, Anthropic&#x27;s S-1, Elon Musk&#x27;s 10GW claim, the personal agent wars, whether orthogonality is false, plus a procedural New York in under a megabyte and a 150-megapixel Lagoon Nebula.</description>
-   <enclosure url="https://github.com/chrisremboldt/taste-daily/releases/download/ep-2026-10-22/taste-daily-2026-10-22.mp3" length="12750305" type="audio/mpeg"/><guid isPermaLink="false">26caa0df-a366-591b-84ae-b0aa812fcbdd</guid>
+   <enclosure url="https://chrisremboldt.github.io/taste-daily/episodes/taste-daily-2026-10-22.mp3" length="12750305" type="audio/mpeg"/><guid isPermaLink="false">c97aa680-cdac-59e2-a7a9-da7f61d5a5c0</guid>
    <pubDate>Thu, 22 Oct 2026 06:00:00 -0500</pubDate><itunes:duration>796</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
  </channel></rss>
