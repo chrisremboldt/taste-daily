@@ -6,6 +6,63 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>We Sample the Superintelligence First, Like Any Good Royal Taster</title><description><![CDATA[Biology rebranded as hardware, proofs getting cheap, frontier labs turning into security states, and the Musk empire racing to become one company. Plus a container tunnel, a teenage space utility, Voyager nearing one light-day, and the year the past looked like the future.
+
+- Warhound: cloned, gene-edited military dogs: Ben Lamm and Palmer Luckey's Warhound launched with a $200M seed at $1.2B to biobank, clone and gene-edit working dogs fitted with Anduril gear, pitched as Canine-as-a-Service.
+  https://x.com/PalmerLuckey/status/2113376729998012889
+  https://x.com/PalmerLuckey/status/2113498161151189435
+  https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/
+  https://fortune.com/2026/10/22/palmer-luckey-dire-wolfe-billionaire-lamm-warhound-200-million-dogs-cloned/
+  https://www.prnewswire.com/news-releases/warhound-launches-with-200-million-to-rebuild-americas-military-working-dog-supply-using-advanced-genetics-and-defense-technology-302917498.html
+- Black October, day three: formal verification at scale: Anthropic and Theorem report machine-checked no-crash proofs for 239 entry points across 123 OSS-Fuzz libraries at the RISC-V level, while Casey Handmer notes proofs remove only one of thousands of attack vectors.
+  https://x.com/AnthropicAI/status/2113390212911083894
+  https://x.com/CJHandmer/status/2113295801409745226
+  https://x.com/nikitabier/status/2113391124287230296
+  https://www.anthropic.com/research/formal-verification
+  https://github.com/theorem-labs/oss-verify
+- OpenAI's Signal firings: The WSJ details how OpenAI fired safety researchers Tomek Korbak, Jasmine Wang and Mikita Balesni after finding disappearing Signal messages; Daniel Kokotajlo calls it pretextual and OpenAI cites policy violations.
+  https://x.com/DKokotajlo/status/2113474981384581431
+  https://x.com/AISafetyMemes/status/2113475953947287749
+  https://x.com/OpenAI/status/2113298833392496746
+  https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853
+  https://www.bbc.com/news/articles/cvlydn8d3lkjo
+- Starship Moon refueling: 22 flights or 6 to 8?: NASA's safety panel cites about 22 refueling launches for a Starship lunar landing; Elon Musk says 6 to 8, and the panel will recommend re-examining Artemis IV.
+  https://x.com/SciGuySpace/status/2113340439893856278
+  https://x.com/elonmusk/status/2113377866478231647
+  https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/
+  https://spacepolicyonline.com/news/nasa-safety-panel-concerned-about-artemis-iv-future-access-to-leo/
+
+Signals:
+- John Carmack on 50 Hz robot joint targets vs 60 Hz video: robot data capture standards are coming (medium). https://x.com/ID_AA_Carmack/status/2113328537319166349]]></description><itunes:summary><![CDATA[Biology rebranded as hardware, proofs getting cheap, frontier labs turning into security states, and the Musk empire racing to become one company. Plus a container tunnel, a teenage space utility, Voyager nearing one light-day, and the year the past looked like the future.
+
+- Warhound: cloned, gene-edited military dogs: Ben Lamm and Palmer Luckey's Warhound launched with a $200M seed at $1.2B to biobank, clone and gene-edit working dogs fitted with Anduril gear, pitched as Canine-as-a-Service.
+  https://x.com/PalmerLuckey/status/2113376729998012889
+  https://x.com/PalmerLuckey/status/2113498161151189435
+  https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/
+  https://fortune.com/2026/10/22/palmer-luckey-dire-wolfe-billionaire-lamm-warhound-200-million-dogs-cloned/
+  https://www.prnewswire.com/news-releases/warhound-launches-with-200-million-to-rebuild-americas-military-working-dog-supply-using-advanced-genetics-and-defense-technology-302917498.html
+- Black October, day three: formal verification at scale: Anthropic and Theorem report machine-checked no-crash proofs for 239 entry points across 123 OSS-Fuzz libraries at the RISC-V level, while Casey Handmer notes proofs remove only one of thousands of attack vectors.
+  https://x.com/AnthropicAI/status/2113390212911083894
+  https://x.com/CJHandmer/status/2113295801409745226
+  https://x.com/nikitabier/status/2113391124287230296
+  https://www.anthropic.com/research/formal-verification
+  https://github.com/theorem-labs/oss-verify
+- OpenAI's Signal firings: The WSJ details how OpenAI fired safety researchers Tomek Korbak, Jasmine Wang and Mikita Balesni after finding disappearing Signal messages; Daniel Kokotajlo calls it pretextual and OpenAI cites policy violations.
+  https://x.com/DKokotajlo/status/2113474981384581431
+  https://x.com/AISafetyMemes/status/2113475953947287749
+  https://x.com/OpenAI/status/2113298833392496746
+  https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853
+  https://www.bbc.com/news/articles/cvlydn8d3lkjo
+- Starship Moon refueling: 22 flights or 6 to 8?: NASA's safety panel cites about 22 refueling launches for a Starship lunar landing; Elon Musk says 6 to 8, and the panel will recommend re-examining Artemis IV.
+  https://x.com/SciGuySpace/status/2113340439893856278
+  https://x.com/elonmusk/status/2113377866478231647
+  https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/
+  https://spacepolicyonline.com/news/nasa-safety-panel-concerned-about-artemis-iv-future-access-to-leo/
+
+Signals:
+- John Carmack on 50 Hz robot joint targets vs 60 Hz video: robot data capture standards are coming (medium). https://x.com/ID_AA_Carmack/status/2113328537319166349]]></itunes:summary><content:encoded><![CDATA[<p>Biology rebranded as hardware, proofs getting cheap, frontier labs turning into security states, and the Musk empire racing to become one company. Plus a container tunnel, a teenage space utility, Voyager nearing one light-day, and the year the past looked like the future.</p><ol><li><strong>Warhound: cloned, gene-edited military dogs</strong> Ben Lamm and Palmer Luckey&#x27;s Warhound launched with a $200M seed at $1.2B to biobank, clone and gene-edit working dogs fitted with Anduril gear, pitched as Canine-as-a-Service. <a href="https://x.com/PalmerLuckey/status/2113376729998012889">@PalmerLuckey</a> · <a href="https://x.com/PalmerLuckey/status/2113498161151189435">@PalmerLuckey</a> · <a href="https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/">TechCrunch</a> · <a href="https://fortune.com/2026/10/22/palmer-luckey-dire-wolfe-billionaire-lamm-warhound-200-million-dogs-cloned/">Fortune</a> · <a href="https://www.prnewswire.com/news-releases/warhound-launches-with-200-million-to-rebuild-americas-military-working-dog-supply-using-advanced-genetics-and-defense-technology-302917498.html">Press release</a></li><li><strong>Black October, day three: formal verification at scale</strong> Anthropic and Theorem report machine-checked no-crash proofs for 239 entry points across 123 OSS-Fuzz libraries at the RISC-V level, while Casey Handmer notes proofs remove only one of thousands of attack vectors. <a href="https://x.com/AnthropicAI/status/2113390212911083894">@AnthropicAI</a> · <a href="https://x.com/CJHandmer/status/2113295801409745226">@CJHandmer</a> · <a href="https://x.com/nikitabier/status/2113391124287230296">@nikitabier</a> · <a href="https://www.anthropic.com/research/formal-verification">Anthropic research</a> · <a href="https://github.com/theorem-labs/oss-verify">Theorem OSS Verify</a></li><li><strong>OpenAI&#x27;s Signal firings</strong> The WSJ details how OpenAI fired safety researchers Tomek Korbak, Jasmine Wang and Mikita Balesni after finding disappearing Signal messages; Daniel Kokotajlo calls it pretextual and OpenAI cites policy violations. <a href="https://x.com/DKokotajlo/status/2113474981384581431">@DKokotajlo</a> · <a href="https://x.com/AISafetyMemes/status/2113475953947287749">@AISafetyMemes</a> · <a href="https://x.com/OpenAI/status/2113298833392496746">@OpenAI</a> · <a href="https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853">WSJ</a> · <a href="https://www.bbc.com/news/articles/cvlydn8d3lkjo">BBC</a></li><li><strong>Starship Moon refueling: 22 flights or 6 to 8?</strong> NASA&#x27;s safety panel cites about 22 refueling launches for a Starship lunar landing; Elon Musk says 6 to 8, and the panel will recommend re-examining Artemis IV. <a href="https://x.com/SciGuySpace/status/2113340439893856278">@SciGuySpace</a> · <a href="https://x.com/elonmusk/status/2113377866478231647">@elonmusk</a> · <a href="https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/">Ars Technica</a> · <a href="https://spacepolicyonline.com/news/nasa-safety-panel-concerned-about-artemis-iv-future-access-to-leo/">SpacePolicyOnline</a></li></ol><p><strong>Signals</strong></p><ul><li>John Carmack on 50 Hz robot joint targets vs 60 Hz video: robot data capture standards are coming (medium). https://x.com/ID_AA_Carmack/status/2113328537319166349</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-10-23.mp3" length="21271657" type="audio/mpeg"/><guid isPermaLink="false">08d18b68-4009-5708-9efa-3396264c00ba</guid>
+   <pubDate>Fri, 23 Oct 2026 06:00:00 -0500</pubDate><itunes:duration>1329</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>Pilot</title><description><![CDATA[Episode 0. Capability is arriving faster than the institutions around it: banks versus agents, day two of Black October, Anthropic's S-1, ten gigawatts, the personal agent wars, a fight over orthogonality, and two beautiful things made by one person each.
 
 - Banks find agents inside customer accounts: Morgan Stanley blocks outside agents and other big banks restrict them, because fraud models can't tell an authorized agent from an account takeover; scoped, delegated credentials look like the eventual fix.
