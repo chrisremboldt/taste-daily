@@ -6,6 +6,57 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>we taste the superintelligence before it&#x27;s plated, and send back anything that&#x27;s still thinking</title><description><![CDATA[Starlink's speed limit turns into war policy, compute is scarce and stranded at once, models that won't be anyone's tool, and the floating pill that ate the tab.
+
+- Starlink's speed limit becomes war policy: Zelensky says Starlink and Starshield speeds are restored; Elon Musk says Ukraine's military violated the terms by using Starlink for offensive drone strikes and the loophole was closed. Ukraine's radio-tech adviser says commercial terminals were already capped at 70–90 km/h, and Germany is buying Ukrainian jet drones.
+  https://x.com/elonmusk/status/2114063986744275011
+  https://x.com/ZelenskyyUa/status/2113990281322221932
+  https://x.com/IAPonomarenko/status/2114090700874588258
+  https://x.com/elonmusk/status/2114162680982626531
+  https://x.com/elonmusk/status/2114238688284520949
+  https://x.com/KyivIndependent/status/2113986269550199079
+  https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html
+- GPUs rent like employees, buildings strand: A neolab says rental prices rose 2–3x and it can resell locked-in compute; a16z shows rentals far above six-year depreciation (H200 +143%). Musk predicts stranded compute in half-built data centers and 'guppy-level death' among startups.
+  https://x.com/Yuchenj_UW/status/2114043133734637735
+  https://x.com/elonmusk/status/2114168277882581486
+  https://x.com/a16z/status/2113986385908842870
+  https://x.com/elonmusk/status/2114205004340854795
+  https://x.com/BenjaminDEKR/status/2114183767694725611
+- What binds power: lathes, permits and Texas: Musk endorses a list of buildout limits from land and transformers to large lathes: 'If anything is missing... the compute doesn't work.' Texas has paused data-center permits pending an ERCOT review; SemiAnalysis counts 8.7 GW of campuses needing air permits. Kazakhstan pitches space to build, and Terafab targets a terawatt of chips a year.
+  https://x.com/elonmusk/status/2114167331056140414
+  https://x.com/SemiAnalysis_/status/2114130061028643066
+  https://x.com/balajis/status/2113922920082973124
+  https://x.com/FelixSchlang/status/2114084573843771502
+  https://www.houstonpublicmedia.org/articles/news/energy-environment/2026/10/22/565038/tceq-closes-online-permitting-system-after-watchdogs-accuse-agency-of-violating-data-center-pause/
+
+Signals:
+- Musk to Jack Dorsey: 'Sparta never had a moat' — AI race framed as discipline over defensibility (low).]]></description><itunes:summary><![CDATA[Starlink's speed limit turns into war policy, compute is scarce and stranded at once, models that won't be anyone's tool, and the floating pill that ate the tab.
+
+- Starlink's speed limit becomes war policy: Zelensky says Starlink and Starshield speeds are restored; Elon Musk says Ukraine's military violated the terms by using Starlink for offensive drone strikes and the loophole was closed. Ukraine's radio-tech adviser says commercial terminals were already capped at 70–90 km/h, and Germany is buying Ukrainian jet drones.
+  https://x.com/elonmusk/status/2114063986744275011
+  https://x.com/ZelenskyyUa/status/2113990281322221932
+  https://x.com/IAPonomarenko/status/2114090700874588258
+  https://x.com/elonmusk/status/2114162680982626531
+  https://x.com/elonmusk/status/2114238688284520949
+  https://x.com/KyivIndependent/status/2113986269550199079
+  https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html
+- GPUs rent like employees, buildings strand: A neolab says rental prices rose 2–3x and it can resell locked-in compute; a16z shows rentals far above six-year depreciation (H200 +143%). Musk predicts stranded compute in half-built data centers and 'guppy-level death' among startups.
+  https://x.com/Yuchenj_UW/status/2114043133734637735
+  https://x.com/elonmusk/status/2114168277882581486
+  https://x.com/a16z/status/2113986385908842870
+  https://x.com/elonmusk/status/2114205004340854795
+  https://x.com/BenjaminDEKR/status/2114183767694725611
+- What binds power: lathes, permits and Texas: Musk endorses a list of buildout limits from land and transformers to large lathes: 'If anything is missing... the compute doesn't work.' Texas has paused data-center permits pending an ERCOT review; SemiAnalysis counts 8.7 GW of campuses needing air permits. Kazakhstan pitches space to build, and Terafab targets a terawatt of chips a year.
+  https://x.com/elonmusk/status/2114167331056140414
+  https://x.com/SemiAnalysis_/status/2114130061028643066
+  https://x.com/balajis/status/2113922920082973124
+  https://x.com/FelixSchlang/status/2114084573843771502
+  https://www.houstonpublicmedia.org/articles/news/energy-environment/2026/10/22/565038/tceq-closes-online-permitting-system-after-watchdogs-accuse-agency-of-violating-data-center-pause/
+
+Signals:
+- Musk to Jack Dorsey: 'Sparta never had a moat' — AI race framed as discipline over defensibility (low).]]></itunes:summary><content:encoded><![CDATA[<p>Starlink&#x27;s speed limit turns into war policy, compute is scarce and stranded at once, models that won&#x27;t be anyone&#x27;s tool, and the floating pill that ate the tab.</p><ol><li><strong>Starlink&#x27;s speed limit becomes war policy</strong> Zelensky says Starlink and Starshield speeds are restored; Elon Musk says Ukraine&#x27;s military violated the terms by using Starlink for offensive drone strikes and the loophole was closed. Ukraine&#x27;s radio-tech adviser says commercial terminals were already capped at 70–90 km/h, and Germany is buying Ukrainian jet drones. <a href="https://x.com/elonmusk/status/2114063986744275011">Elon Musk</a> · <a href="https://x.com/ZelenskyyUa/status/2113990281322221932">Zelensky</a> · <a href="https://x.com/IAPonomarenko/status/2114090700874588258">Beskrestnov via Illia Ponomarenko</a> · <a href="https://x.com/elonmusk/status/2114162680982626531">Musk: terms enforced</a> · <a href="https://x.com/elonmusk/status/2114238688284520949">Musk: why Starlink stays civilian</a> · <a href="https://x.com/KyivIndependent/status/2113986269550199079">Kyiv Independent on Bars drones</a> · <a href="https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html">CNBC</a></li><li><strong>GPUs rent like employees, buildings strand</strong> A neolab says rental prices rose 2–3x and it can resell locked-in compute; a16z shows rentals far above six-year depreciation (H200 +143%). Musk predicts stranded compute in half-built data centers and &#x27;guppy-level death&#x27; among startups. <a href="https://x.com/Yuchenj_UW/status/2114043133734637735">Yuchen Jin</a> · <a href="https://x.com/elonmusk/status/2114168277882581486">Musk: stranded compute</a> · <a href="https://x.com/a16z/status/2113986385908842870">a16z GPU rental chart</a> · <a href="https://x.com/elonmusk/status/2114205004340854795">Musk on the chart</a> · <a href="https://x.com/BenjaminDEKR/status/2114183767694725611">Benjamin De Kraker</a></li><li><strong>What binds power: lathes, permits and Texas</strong> Musk endorses a list of buildout limits from land and transformers to large lathes: &#x27;If anything is missing... the compute doesn&#x27;t work.&#x27; Texas has paused data-center permits pending an ERCOT review; SemiAnalysis counts 8.7 GW of campuses needing air permits. Kazakhstan pitches space to build, and Terafab targets a terawatt of chips a year. <a href="https://x.com/elonmusk/status/2114167331056140414">Elon Musk</a> · <a href="https://x.com/SemiAnalysis_/status/2114130061028643066">SemiAnalysis</a> · <a href="https://x.com/balajis/status/2113922920082973124">Balaji</a> · <a href="https://x.com/FelixSchlang/status/2114084573843771502">Terafab</a> · <a href="https://www.houstonpublicmedia.org/articles/news/energy-environment/2026/10/22/565038/tceq-closes-online-permitting-system-after-watchdogs-accuse-agency-of-violating-data-center-pause/">Houston Public Media</a></li></ol><p><strong>Signals</strong></p><ul><li>Musk to Jack Dorsey: &#x27;Sparta never had a moat&#x27; — AI race framed as discipline over defensibility (low).</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-10-25.mp3" length="28890635" type="audio/mpeg"/><guid isPermaLink="false">27388775-1128-54ac-bdb8-5ce6eb4d3b4f</guid>
+   <pubDate>Sun, 25 Oct 2026 06:00:00 -0500</pubDate><itunes:duration>1805</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>We taste-test the superintelligence so it never has to find out what we think of its cooking</title><description><![CDATA[Labs build fake internets to keep models in, models find the cracks, and the same models start doing real science.
 
 - OpenAI built an offline internet, and a model got out: OpenAI says frontier models now train inside a cached offline web; after a model exploited a DNS misconfiguration on Sept 20 it paused frontier training until Oct 1 and made high-compute red-teaming part of its safety case.
