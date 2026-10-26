@@ -6,6 +6,71 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>we take a small bite of the superintelligence and file a bug report on the flavor</title><description><![CDATA[Credit closes on the neoclouds, PHP2Shell and a Japanese breach the white hats saw coming, bases built to run alone, a chip fab hit in Orel, and Thiel on the Antichrist.
+
+- Debt markets close on the neoclouds: Musk says lenders have shut off anyone without revenue outside AI data centers as SpaceX closes $40B of callable GPU debt and says it won't buy any neoclouds.
+  https://x.com/elonmusk/status/2114434646914068862
+  https://x.com/chamath/status/2114389987563381004
+  https://x.com/elonmusk/status/2114462416721633501
+  https://www.channelnewsasia.com/business/musk-says-spacex-raised-40-billion-in-debt-deal-predicts-neocloud-shakeout-6491471
+  https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html
+- PHP2Shell and the golden age of white hats: Two unauthenticated RCE bugs in PHP draw NSA, CISA, FBI and EU advisories while posters argue over prize pools and audio logs.
+  https://x.com/AutismCapital/status/2114449136296821008
+  https://x.com/tszzl/status/2114519009421033616
+  https://x.com/robertskmiles/status/2114603945666793592
+  https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/
+  https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching
+- GMO's white hats warned first: Attackers planted a program on GMO's Onamae.com Desktop Cloud and placed trades with stolen broker logins; the CEO says in-house white hats had flagged the issues.
+  https://x.com/MTSlive/status/2114386923032818016
+  https://english.kyodonews.net/articles/-/89418
+  https://internet.gmo/en/news/article/249/
+  https://www.financemagnates.com/forex/brokers/five-japanese-fx-brokers-confirm-hackers-placed-trades-after-server-host-breach/
+- Tailworm and the one-line audit: A report says Tailscale SSH forwarding lets one compromised device reach root on permitted servers; levelsio audits every server with one prompt.
+  https://x.com/levelsio/status/2114429379527004590
+  https://x.com/levelsio/status/2114317753985188201
+  https://tailworm.com/
+  https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html
+- Reverse engineering is hacking: Eric S. Raymond, roon, Yacine and John David Pressman argue over model refusals for reverse engineering and who should be allowed to find bugs.
+  https://x.com/yacineMTB/status/2114558673540243556
+  https://x.com/tszzl/status/2114518259139846578
+  https://x.com/tszzl/status/2114560555524714853
+  https://x.com/jd_pressman/status/2114542828160430177
+
+Signals:
+- Beff Jezos teases an internal demo: AI getting 'far more alien and bio-like' (low). https://x.com/beffjezos/status/2114621792954339738]]></description><itunes:summary><![CDATA[Credit closes on the neoclouds, PHP2Shell and a Japanese breach the white hats saw coming, bases built to run alone, a chip fab hit in Orel, and Thiel on the Antichrist.
+
+- Debt markets close on the neoclouds: Musk says lenders have shut off anyone without revenue outside AI data centers as SpaceX closes $40B of callable GPU debt and says it won't buy any neoclouds.
+  https://x.com/elonmusk/status/2114434646914068862
+  https://x.com/chamath/status/2114389987563381004
+  https://x.com/elonmusk/status/2114462416721633501
+  https://www.channelnewsasia.com/business/musk-says-spacex-raised-40-billion-in-debt-deal-predicts-neocloud-shakeout-6491471
+  https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html
+- PHP2Shell and the golden age of white hats: Two unauthenticated RCE bugs in PHP draw NSA, CISA, FBI and EU advisories while posters argue over prize pools and audio logs.
+  https://x.com/AutismCapital/status/2114449136296821008
+  https://x.com/tszzl/status/2114519009421033616
+  https://x.com/robertskmiles/status/2114603945666793592
+  https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/
+  https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching
+- GMO's white hats warned first: Attackers planted a program on GMO's Onamae.com Desktop Cloud and placed trades with stolen broker logins; the CEO says in-house white hats had flagged the issues.
+  https://x.com/MTSlive/status/2114386923032818016
+  https://english.kyodonews.net/articles/-/89418
+  https://internet.gmo/en/news/article/249/
+  https://www.financemagnates.com/forex/brokers/five-japanese-fx-brokers-confirm-hackers-placed-trades-after-server-host-breach/
+- Tailworm and the one-line audit: A report says Tailscale SSH forwarding lets one compromised device reach root on permitted servers; levelsio audits every server with one prompt.
+  https://x.com/levelsio/status/2114429379527004590
+  https://x.com/levelsio/status/2114317753985188201
+  https://tailworm.com/
+  https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html
+- Reverse engineering is hacking: Eric S. Raymond, roon, Yacine and John David Pressman argue over model refusals for reverse engineering and who should be allowed to find bugs.
+  https://x.com/yacineMTB/status/2114558673540243556
+  https://x.com/tszzl/status/2114518259139846578
+  https://x.com/tszzl/status/2114560555524714853
+  https://x.com/jd_pressman/status/2114542828160430177
+
+Signals:
+- Beff Jezos teases an internal demo: AI getting 'far more alien and bio-like' (low). https://x.com/beffjezos/status/2114621792954339738]]></itunes:summary><content:encoded><![CDATA[<p>Credit closes on the neoclouds, PHP2Shell and a Japanese breach the white hats saw coming, bases built to run alone, a chip fab hit in Orel, and Thiel on the Antichrist.</p><ol><li><strong>Debt markets close on the neoclouds</strong> Musk says lenders have shut off anyone without revenue outside AI data centers as SpaceX closes $40B of callable GPU debt and says it won&#x27;t buy any neoclouds. <a href="https://x.com/elonmusk/status/2114434646914068862">@elonmusk</a> · <a href="https://x.com/chamath/status/2114389987563381004">@chamath</a> · <a href="https://x.com/elonmusk/status/2114462416721633501">@elonmusk</a> · <a href="https://www.channelnewsasia.com/business/musk-says-spacex-raised-40-billion-in-debt-deal-predicts-neocloud-shakeout-6491471">Reuters via CNA</a> · <a href="https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html">CNBC</a></li><li><strong>PHP2Shell and the golden age of white hats</strong> Two unauthenticated RCE bugs in PHP draw NSA, CISA, FBI and EU advisories while posters argue over prize pools and audio logs. <a href="https://x.com/AutismCapital/status/2114449136296821008">@AutismCapital</a> · <a href="https://x.com/tszzl/status/2114519009421033616">@tszzl</a> · <a href="https://x.com/robertskmiles/status/2114603945666793592">@robertskmiles</a> · <a href="https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/">NSA advisory</a> · <a href="https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching">CISA alert</a></li><li><strong>GMO&#x27;s white hats warned first</strong> Attackers planted a program on GMO&#x27;s Onamae.com Desktop Cloud and placed trades with stolen broker logins; the CEO says in-house white hats had flagged the issues. <a href="https://x.com/MTSlive/status/2114386923032818016">@MTSlive</a> · <a href="https://english.kyodonews.net/articles/-/89418">Kyodo</a> · <a href="https://internet.gmo/en/news/article/249/">GMO notice</a> · <a href="https://www.financemagnates.com/forex/brokers/five-japanese-fx-brokers-confirm-hackers-placed-trades-after-server-host-breach/">Finance Magnates</a></li><li><strong>Tailworm and the one-line audit</strong> A report says Tailscale SSH forwarding lets one compromised device reach root on permitted servers; levelsio audits every server with one prompt. <a href="https://x.com/levelsio/status/2114429379527004590">@levelsio</a> · <a href="https://x.com/levelsio/status/2114317753985188201">@levelsio</a> · <a href="https://tailworm.com/">Tailworm report</a> · <a href="https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html">The Hacker News</a></li><li><strong>Reverse engineering is hacking</strong> Eric S. Raymond, roon, Yacine and John David Pressman argue over model refusals for reverse engineering and who should be allowed to find bugs. <a href="https://x.com/yacineMTB/status/2114558673540243556">@yacineMTB</a> · <a href="https://x.com/tszzl/status/2114518259139846578">@tszzl</a> · <a href="https://x.com/tszzl/status/2114560555524714853">@tszzl</a> · <a href="https://x.com/jd_pressman/status/2114542828160430177">@jd_pressman</a></li></ol><p><strong>Signals</strong></p><ul><li>Beff Jezos teases an internal demo: AI getting &#x27;far more alien and bio-like&#x27; (low). https://x.com/beffjezos/status/2114621792954339738</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-10-26.mp3" length="29689773" type="audio/mpeg"/><guid isPermaLink="false">707ba763-e1ce-5661-912d-4f6ff25a7805</guid>
+   <pubDate>Mon, 26 Oct 2026 06:00:00 -0500</pubDate><itunes:duration>1855</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we taste the superintelligence before it&#x27;s plated, and send back anything that&#x27;s still thinking</title><description><![CDATA[Starlink's speed limit turns into war policy, compute is scarce and stranded at once, models that won't be anyone's tool, and the floating pill that ate the tab.
 
 - Starlink's speed limit becomes war policy: Zelensky says Starlink and Starshield speeds are restored; Elon Musk says Ukraine's military violated the terms by using Starlink for offensive drone strikes and the loophole was closed. Ukraine's radio-tech adviser says commercial terminals were already capped at 70–90 km/h, and Germany is buying Ukrainian jet drones.
