@@ -6,6 +6,67 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>We lick the spoon before the superintelligence finishes the recipe</title><description><![CDATA[Anthropic files to go public with a $120B SpaceXAI compute deal and a risk factor about sentience, OpenAI claims an AI refuted the Exponential Time Hypothesis and ships GPT-6.1 Terra, GMO's ransom deadline passes, and John Carmack sets the real robot benchmark.
+
+- Anthropic files its S-1: Anthropic's IPO filing shows $16.3B in first-half revenue, $141.1B raised, about $2 of revenue per compute dollar, and a staggered lockup.
+  https://x.com/AnthropicAI/status/2114705042817110293
+  https://x.com/SemiAnalysis_/status/2114714175486279932
+  https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec
+  https://fortune.com/2026/10/26/anthropics-s1-ipo-reveals-the-inner-workings-of-its-fast-evolving-compute-strategy/
+  https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm
+- The $120B SpaceXAI compute deal: The S-1 discloses up to $120.5B of compute from SpaceXAI through 2029, alongside Microsoft, Google and Amazon commitments, while SpaceX lines up a ~$40B Apollo GPU lease.
+  https://x.com/SawyerMerritt/status/2114742917814165983
+  https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html
+- Risk factors: sentience, taxes, and the insurance industry: Anthropic warns a catastrophic incident could exceed what the insurance industry in aggregate can cover, and leaves xAI and Meta out of its competitor list.
+  https://x.com/unusual_whales/status/2114790993967132700
+  https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec
+- OpenAI's three discoveries: OpenAI says an internal model proved local smoothing in all dimensions and the existence of QCD and pure Yang–Mills, with human panels reviewing each.
+  https://x.com/gdb/status/2114860693585563907
+  https://openai.com/index/building-scientific-understanding-with-academic-communities
+- The Exponential Time Hypothesis, refuted?: A claimed AI refutation of ETH, Lean-checked, goes to an independent review led by Impagliazzo, Paturi and Ryan Williams.
+  https://x.com/Yuchenj_UW/status/2114930977218900313
+  https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills
+  https://bsky.app/profile/rrwilliams.bsky.social/post/3myspd26qjk2c
+- GPT-6.1 Terra: OpenAI's cheap, fast computer-use model at half the price of GPT-5.6 Terra, with a big drop in factual errors.
+  https://x.com/OpenAI/status/2114780717188272382
+  https://x.com/gdb/status/2114814747254432243
+  https://openai.com/index/introducing-gpt-6-1-terra
+- Hidden thinking traces: Ethan Mollick argues hiding reasoning traces pushes users from augmentation toward automation.
+  https://x.com/emollick/status/2114942007533515261
+
+Signals:
+- Peter Sellis to lead product at X (medium). https://x.com/tbpn/status/2114833192440209642 https://www.theverge.com/tech/1019134/x-has-another-new-head-of-product]]></description><itunes:summary><![CDATA[Anthropic files to go public with a $120B SpaceXAI compute deal and a risk factor about sentience, OpenAI claims an AI refuted the Exponential Time Hypothesis and ships GPT-6.1 Terra, GMO's ransom deadline passes, and John Carmack sets the real robot benchmark.
+
+- Anthropic files its S-1: Anthropic's IPO filing shows $16.3B in first-half revenue, $141.1B raised, about $2 of revenue per compute dollar, and a staggered lockup.
+  https://x.com/AnthropicAI/status/2114705042817110293
+  https://x.com/SemiAnalysis_/status/2114714175486279932
+  https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec
+  https://fortune.com/2026/10/26/anthropics-s1-ipo-reveals-the-inner-workings-of-its-fast-evolving-compute-strategy/
+  https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm
+- The $120B SpaceXAI compute deal: The S-1 discloses up to $120.5B of compute from SpaceXAI through 2029, alongside Microsoft, Google and Amazon commitments, while SpaceX lines up a ~$40B Apollo GPU lease.
+  https://x.com/SawyerMerritt/status/2114742917814165983
+  https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html
+- Risk factors: sentience, taxes, and the insurance industry: Anthropic warns a catastrophic incident could exceed what the insurance industry in aggregate can cover, and leaves xAI and Meta out of its competitor list.
+  https://x.com/unusual_whales/status/2114790993967132700
+  https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec
+- OpenAI's three discoveries: OpenAI says an internal model proved local smoothing in all dimensions and the existence of QCD and pure Yang–Mills, with human panels reviewing each.
+  https://x.com/gdb/status/2114860693585563907
+  https://openai.com/index/building-scientific-understanding-with-academic-communities
+- The Exponential Time Hypothesis, refuted?: A claimed AI refutation of ETH, Lean-checked, goes to an independent review led by Impagliazzo, Paturi and Ryan Williams.
+  https://x.com/Yuchenj_UW/status/2114930977218900313
+  https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills
+  https://bsky.app/profile/rrwilliams.bsky.social/post/3myspd26qjk2c
+- GPT-6.1 Terra: OpenAI's cheap, fast computer-use model at half the price of GPT-5.6 Terra, with a big drop in factual errors.
+  https://x.com/OpenAI/status/2114780717188272382
+  https://x.com/gdb/status/2114814747254432243
+  https://openai.com/index/introducing-gpt-6-1-terra
+- Hidden thinking traces: Ethan Mollick argues hiding reasoning traces pushes users from augmentation toward automation.
+  https://x.com/emollick/status/2114942007533515261
+
+Signals:
+- Peter Sellis to lead product at X (medium). https://x.com/tbpn/status/2114833192440209642 https://www.theverge.com/tech/1019134/x-has-another-new-head-of-product]]></itunes:summary><content:encoded><![CDATA[<p>Anthropic files to go public with a $120B SpaceXAI compute deal and a risk factor about sentience, OpenAI claims an AI refuted the Exponential Time Hypothesis and ships GPT-6.1 Terra, GMO&#x27;s ransom deadline passes, and John Carmack sets the real robot benchmark.</p><ol><li><strong>Anthropic files its S-1</strong> Anthropic&#x27;s IPO filing shows $16.3B in first-half revenue, $141.1B raised, about $2 of revenue per compute dollar, and a staggered lockup. <a href="https://x.com/AnthropicAI/status/2114705042817110293">@AnthropicAI</a> · <a href="https://x.com/SemiAnalysis_/status/2114714175486279932">@SemiAnalysis_</a> · <a href="https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec">theverge.com</a> · <a href="https://fortune.com/2026/10/26/anthropics-s1-ipo-reveals-the-inner-workings-of-its-fast-evolving-compute-strategy/">fortune.com</a> · <a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm">sec.gov</a></li><li><strong>The $120B SpaceXAI compute deal</strong> The S-1 discloses up to $120.5B of compute from SpaceXAI through 2029, alongside Microsoft, Google and Amazon commitments, while SpaceX lines up a ~$40B Apollo GPU lease. <a href="https://x.com/SawyerMerritt/status/2114742917814165983">@SawyerMerritt</a> · <a href="https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html">cnbc.com</a></li><li><strong>Risk factors: sentience, taxes, and the insurance industry</strong> Anthropic warns a catastrophic incident could exceed what the insurance industry in aggregate can cover, and leaves xAI and Meta out of its competitor list. <a href="https://x.com/unusual_whales/status/2114790993967132700">@unusual_whales</a> · <a href="https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec">theverge.com</a></li><li><strong>OpenAI&#x27;s three discoveries</strong> OpenAI says an internal model proved local smoothing in all dimensions and the existence of QCD and pure Yang–Mills, with human panels reviewing each. <a href="https://x.com/gdb/status/2114860693585563907">@gdb</a> · <a href="https://openai.com/index/building-scientific-understanding-with-academic-communities">openai.com</a></li><li><strong>The Exponential Time Hypothesis, refuted?</strong> A claimed AI refutation of ETH, Lean-checked, goes to an independent review led by Impagliazzo, Paturi and Ryan Williams. <a href="https://x.com/Yuchenj_UW/status/2114930977218900313">@Yuchenj_UW</a> · <a href="https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills">thenextweb.com</a> · <a href="https://bsky.app/profile/rrwilliams.bsky.social/post/3myspd26qjk2c">bsky.app</a></li><li><strong>GPT-6.1 Terra</strong> OpenAI&#x27;s cheap, fast computer-use model at half the price of GPT-5.6 Terra, with a big drop in factual errors. <a href="https://x.com/OpenAI/status/2114780717188272382">@OpenAI</a> · <a href="https://x.com/gdb/status/2114814747254432243">@gdb</a> · <a href="https://openai.com/index/introducing-gpt-6-1-terra">openai.com</a></li><li><strong>Hidden thinking traces</strong> Ethan Mollick argues hiding reasoning traces pushes users from augmentation toward automation. <a href="https://x.com/emollick/status/2114942007533515261">@emollick</a></li></ol><p><strong>Signals</strong></p><ul><li>Peter Sellis to lead product at X (medium). https://x.com/tbpn/status/2114833192440209642 https://www.theverge.com/tech/1019134/x-has-another-new-head-of-product</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-10-27.mp3" length="31579367" type="audio/mpeg"/><guid isPermaLink="false">98914b41-fe16-57c1-9521-fef9dfcb98a5</guid>
+   <pubDate>Tue, 27 Oct 2026 06:00:00 -0500</pubDate><itunes:duration>1973</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we take a small bite of the superintelligence and file a bug report on the flavor</title><description><![CDATA[Credit closes on the neoclouds, PHP2Shell and a Japanese breach the white hats saw coming, bases built to run alone, a chip fab hit in Orel, and Thiel on the Antichrist.
 
 - Debt markets close on the neoclouds: Musk says lenders have shut off anyone without revenue outside AI data centers as SpaceX closes $40B of callable GPU debt and says it won't buy any neoclouds.
