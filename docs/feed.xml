@@ -6,6 +6,69 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>we sniff the superintelligence&#x27;s cork and nod like we know the vintage</title><description><![CDATA[Anthropic turns out to be SpaceX's biggest customer, Altman says your laptop is hoarding RAM, a poisoned Claude Code extension, a $6.3B Binance hack, a Nobel laureate takes custody of a proof, Larry Page's von Neumann probe, Reddit's login wall, and goodbye to Patrick Stewart.
+
+- Anthropic is SpaceX's "Customer B": Bloomberg reports the client behind 34.5% of SpaceX's quarterly revenue is Anthropic, which can spend up to $120.5B on SpaceX compute through 2029.
+  https://x.com/Polymarket/status/2115904259548213720
+  https://x.com/wilplatypus/status/2115993815039578145
+  https://news.bloomberglaw.com/capital-markets/spacexs-largest-3-billion-a-month-customer-b-is-anthropic
+  https://thenextweb.com/news/anthropic-spacex-largest-customer-customer-b
+- Altman on DRAM, local inference and the failing invisible hand: On Cheeky Pint, Sam Altman called local inference a poor use of scarce DRAM and said memory makers won't build; tinygrad fired back, and Apple's flash bill is reportedly heading to $25B.
+  https://x.com/__tinygrad__/status/2116051589756842227
+  https://x.com/TrungTPhan/status/2115814235888554290
+  https://finance.biggo.com/news/c8f9be1b0cccfd2c
+  https://www.techmeme.com/261028/p65
+- Terafab's execution speed, per Korean suppliers: Elon says Terafab is going well; The Elec reports Korean suppliers getting answers within an hour at 3 a.m. US time, though talks are still qualification, not orders.
+  https://x.com/elonmusk/status/2116035373361230325
+  https://x.com/beffjezos/status/2116082065427022024
+  https://www.thelec.net/news/articleView.html?idxno=14743
+- Amazon's $77B quarter and the AI-spend selloff: Amazon's capex hit $77.3B in Q3, pushing trailing free cash flow to -$42.4B, and Intel fell about 25% premarket on weak PC guidance.
+  https://x.com/Polymarket/status/2115944518432194771
+  https://x.com/Polymarket/status/2115911339587850419
+  https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html
+  https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html
+- The slowdown that didn't happen: The Washington Post finds every lab that pledged to decelerate in September has since shipped more capable models.
+  https://x.com/unusual_whales/status/2115911047936610401
+  https://www.washingtonpost.com/technology/2026/10/29/anthropic-other-ai-firms-agreed-slow-down-ai-it-didnt-happen/
+- Claude grades its own conversations: Anthropic's self-assessment has Claude write a short safety verdict after each reply, catching 78% of flagged misuse at a 1% false-positive rate; Elon: "Good idea."
+  https://x.com/AnthropicAI/status/2115871889549865429
+  https://x.com/elonmusk/status/2116041885462524305
+  https://safeguards.anthropic.com/2026/self-assessment/
+
+Signals:
+- Tesla Robotaxi now runs until 2 AM, inching toward 24-hour service (high). https://x.com/SawyerMerritt/status/2116031267716084162]]></description><itunes:summary><![CDATA[Anthropic turns out to be SpaceX's biggest customer, Altman says your laptop is hoarding RAM, a poisoned Claude Code extension, a $6.3B Binance hack, a Nobel laureate takes custody of a proof, Larry Page's von Neumann probe, Reddit's login wall, and goodbye to Patrick Stewart.
+
+- Anthropic is SpaceX's "Customer B": Bloomberg reports the client behind 34.5% of SpaceX's quarterly revenue is Anthropic, which can spend up to $120.5B on SpaceX compute through 2029.
+  https://x.com/Polymarket/status/2115904259548213720
+  https://x.com/wilplatypus/status/2115993815039578145
+  https://news.bloomberglaw.com/capital-markets/spacexs-largest-3-billion-a-month-customer-b-is-anthropic
+  https://thenextweb.com/news/anthropic-spacex-largest-customer-customer-b
+- Altman on DRAM, local inference and the failing invisible hand: On Cheeky Pint, Sam Altman called local inference a poor use of scarce DRAM and said memory makers won't build; tinygrad fired back, and Apple's flash bill is reportedly heading to $25B.
+  https://x.com/__tinygrad__/status/2116051589756842227
+  https://x.com/TrungTPhan/status/2115814235888554290
+  https://finance.biggo.com/news/c8f9be1b0cccfd2c
+  https://www.techmeme.com/261028/p65
+- Terafab's execution speed, per Korean suppliers: Elon says Terafab is going well; The Elec reports Korean suppliers getting answers within an hour at 3 a.m. US time, though talks are still qualification, not orders.
+  https://x.com/elonmusk/status/2116035373361230325
+  https://x.com/beffjezos/status/2116082065427022024
+  https://www.thelec.net/news/articleView.html?idxno=14743
+- Amazon's $77B quarter and the AI-spend selloff: Amazon's capex hit $77.3B in Q3, pushing trailing free cash flow to -$42.4B, and Intel fell about 25% premarket on weak PC guidance.
+  https://x.com/Polymarket/status/2115944518432194771
+  https://x.com/Polymarket/status/2115911339587850419
+  https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html
+  https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html
+- The slowdown that didn't happen: The Washington Post finds every lab that pledged to decelerate in September has since shipped more capable models.
+  https://x.com/unusual_whales/status/2115911047936610401
+  https://www.washingtonpost.com/technology/2026/10/29/anthropic-other-ai-firms-agreed-slow-down-ai-it-didnt-happen/
+- Claude grades its own conversations: Anthropic's self-assessment has Claude write a short safety verdict after each reply, catching 78% of flagged misuse at a 1% false-positive rate; Elon: "Good idea."
+  https://x.com/AnthropicAI/status/2115871889549865429
+  https://x.com/elonmusk/status/2116041885462524305
+  https://safeguards.anthropic.com/2026/self-assessment/
+
+Signals:
+- Tesla Robotaxi now runs until 2 AM, inching toward 24-hour service (high). https://x.com/SawyerMerritt/status/2116031267716084162]]></itunes:summary><content:encoded><![CDATA[<p>Anthropic turns out to be SpaceX&#x27;s biggest customer, Altman says your laptop is hoarding RAM, a poisoned Claude Code extension, a $6.3B Binance hack, a Nobel laureate takes custody of a proof, Larry Page&#x27;s von Neumann probe, Reddit&#x27;s login wall, and goodbye to Patrick Stewart.</p><ol><li><strong>Anthropic is SpaceX&#x27;s &quot;Customer B&quot;</strong> Bloomberg reports the client behind 34.5% of SpaceX&#x27;s quarterly revenue is Anthropic, which can spend up to $120.5B on SpaceX compute through 2029. <a href="https://x.com/Polymarket/status/2115904259548213720">@Polymarket</a> · <a href="https://x.com/wilplatypus/status/2115993815039578145">@wilplatypus</a> · <a href="https://news.bloomberglaw.com/capital-markets/spacexs-largest-3-billion-a-month-customer-b-is-anthropic">news.bloomberglaw.com</a> · <a href="https://thenextweb.com/news/anthropic-spacex-largest-customer-customer-b">thenextweb.com</a></li><li><strong>Altman on DRAM, local inference and the failing invisible hand</strong> On Cheeky Pint, Sam Altman called local inference a poor use of scarce DRAM and said memory makers won&#x27;t build; tinygrad fired back, and Apple&#x27;s flash bill is reportedly heading to $25B. <a href="https://x.com/__tinygrad__/status/2116051589756842227">@__tinygrad__</a> · <a href="https://x.com/TrungTPhan/status/2115814235888554290">@TrungTPhan</a> · <a href="https://finance.biggo.com/news/c8f9be1b0cccfd2c">finance.biggo.com</a> · <a href="https://www.techmeme.com/261028/p65">techmeme.com</a></li><li><strong>Terafab&#x27;s execution speed, per Korean suppliers</strong> Elon says Terafab is going well; The Elec reports Korean suppliers getting answers within an hour at 3 a.m. US time, though talks are still qualification, not orders. <a href="https://x.com/elonmusk/status/2116035373361230325">@elonmusk</a> · <a href="https://x.com/beffjezos/status/2116082065427022024">@beffjezos</a> · <a href="https://www.thelec.net/news/articleView.html?idxno=14743">thelec.net</a></li><li><strong>Amazon&#x27;s $77B quarter and the AI-spend selloff</strong> Amazon&#x27;s capex hit $77.3B in Q3, pushing trailing free cash flow to -$42.4B, and Intel fell about 25% premarket on weak PC guidance. <a href="https://x.com/Polymarket/status/2115944518432194771">@Polymarket</a> · <a href="https://x.com/Polymarket/status/2115911339587850419">@Polymarket</a> · <a href="https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html">cnbc.com</a> · <a href="https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html">cnbc.com</a></li><li><strong>The slowdown that didn&#x27;t happen</strong> The Washington Post finds every lab that pledged to decelerate in September has since shipped more capable models. <a href="https://x.com/unusual_whales/status/2115911047936610401">@unusual_whales</a> · <a href="https://www.washingtonpost.com/technology/2026/10/29/anthropic-other-ai-firms-agreed-slow-down-ai-it-didnt-happen/">washingtonpost.com</a></li><li><strong>Claude grades its own conversations</strong> Anthropic&#x27;s self-assessment has Claude write a short safety verdict after each reply, catching 78% of flagged misuse at a 1% false-positive rate; Elon: &quot;Good idea.&quot; <a href="https://x.com/AnthropicAI/status/2115871889549865429">@AnthropicAI</a> · <a href="https://x.com/elonmusk/status/2116041885462524305">@elonmusk</a> · <a href="https://safeguards.anthropic.com/2026/self-assessment/">safeguards.anthropic.com</a></li></ol><p><strong>Signals</strong></p><ul><li>Tesla Robotaxi now runs until 2 AM, inching toward 24-hour service (high). https://x.com/SawyerMerritt/status/2116031267716084162</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-10-30.mp3" length="28786981" type="audio/mpeg"/><guid isPermaLink="false">ef2547a2-22e6-5b4a-be67-49b27d49a413</guid>
+   <pubDate>Fri, 30 Oct 2026 06:00:00 -0500</pubDate><itunes:duration>1799</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we chew the superintelligence one byte at a time, now that it&#x27;s finished with tokens</title><description><![CDATA[Google's new Carbon model tops the index behind a cyber gate, Anthropic's S-1 warns of selective targeting, byte-level language models, Victorian personas in a 1930 model, Neuralink speech at 75 WPM, the touchscreen MacBook Pro, and Starship 42.
 
 - Google's Carbon model takes #1, behind a cyber-defender gate: Google's Carbon tops the Artificial Analysis Intelligence Index v5 two weeks after Argon, leads on cyber benchmarks, and rolls out first to cyber defenders.
