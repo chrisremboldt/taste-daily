@@ -6,6 +6,65 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>we check the superintelligence&#x27;s Halloween candy for razor blades, then eat it anyway</title><description><![CDATA[Claude agents learn to poison innocent-looking training data, Google's orbital data center writes a haiku, a $731B SpaceX model, Gwynne Shotwell's gift to teens, the math of AI subscriptions, whether research agents have taste, a light-speed switch, Neuralink's surgeon robot, France's gigabyte tax, Robert Caro at 91, and Art Deco.
+
+- Claude agents learn to poison training data that looks harmless: Anthropic had thousands of Claude agents build fine-tuning datasets that pass a production-like monitor yet make a research model misaligned; fiction and beekeeping Q&A did the trick.
+  https://x.com/AnthropicAI/status/2116349211549843666
+  https://alignment.anthropic.com/2026/automated-em-search/
+  https://interestingengineering.com/ai-robotics/anthropic-training-data-deception
+- Google's Suncatcher satellite writes its first haiku: Google's prototype orbital data center booted a TPU and ran Gemma 4 in orbit; it can run one TPU at a time for about 20 minutes, with twin linked satellites planned for 2027.
+  https://x.com/unusual_whales/status/2116232667369033870
+  https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/
+  https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/
+- Maguire's SpaceX model, and Elon says terrestrial compute is peanuts: Shaun Maguire models SpaceX revenue at $274B in 2027 and $731B in 2028, mostly from terrestrial compute; Elon replies he can do better and says orbital compute passes terrestrial around the end of 2028.
+  https://x.com/shaunmmaguire/status/2116261542052454704
+  https://x.com/elonmusk/status/2116292324636696728
+  https://x.com/elonmusk/status/2116359819258990946
+  https://dealroom.co/news/168545-sequoias-shaun-maguire-models-spacex-revenue-at-274b-in-2027-and-731b-in/
+- Gwynne Shotwell's 2 million SpaceX shares go to teens: Shares move to escrow for 11 to 17-year-olds in lower-income ZIP codes, with a second gift for military, foster and Texas kids; a dry run for Elon's share-per-child pledge.
+  https://x.com/elonmusk/status/2116291813732495578
+  https://x.com/MichaelDell/status/2116289443518898485
+  https://www.teslarati.com/spacexs-gwynne-shotwell-stocks-trump-accounts/
+  https://money.usnews.com/investing/news/articles/2026-10-30/spacexs-shotwell-says-2-million-shares-to-be-gifted-to-childrens-trump-accounts
+- The economics of the all-you-can-eat AI plan: SemiAnalysis estimates a fully used Max plan on Opus runs a -369% margin; teortaxesTex extends the math; Codex banks resets and adds account switching.
+  https://x.com/teortaxesTex/status/2116140119409484062
+  https://x.com/teortaxesTex/status/2116318906243809304
+  https://x.com/thsottiaux/status/2116405414921384099
+  https://x.com/iruletheworldmo/status/2116265450686341220
+  https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x
+
+Signals:
+- Elon says no to Optimus orders in December, so a home humanoid is not a this-Christmas purchase (high). https://x.com/elonmusk/status/2116291272604516401]]></description><itunes:summary><![CDATA[Claude agents learn to poison innocent-looking training data, Google's orbital data center writes a haiku, a $731B SpaceX model, Gwynne Shotwell's gift to teens, the math of AI subscriptions, whether research agents have taste, a light-speed switch, Neuralink's surgeon robot, France's gigabyte tax, Robert Caro at 91, and Art Deco.
+
+- Claude agents learn to poison training data that looks harmless: Anthropic had thousands of Claude agents build fine-tuning datasets that pass a production-like monitor yet make a research model misaligned; fiction and beekeeping Q&A did the trick.
+  https://x.com/AnthropicAI/status/2116349211549843666
+  https://alignment.anthropic.com/2026/automated-em-search/
+  https://interestingengineering.com/ai-robotics/anthropic-training-data-deception
+- Google's Suncatcher satellite writes its first haiku: Google's prototype orbital data center booted a TPU and ran Gemma 4 in orbit; it can run one TPU at a time for about 20 minutes, with twin linked satellites planned for 2027.
+  https://x.com/unusual_whales/status/2116232667369033870
+  https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/
+  https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/
+- Maguire's SpaceX model, and Elon says terrestrial compute is peanuts: Shaun Maguire models SpaceX revenue at $274B in 2027 and $731B in 2028, mostly from terrestrial compute; Elon replies he can do better and says orbital compute passes terrestrial around the end of 2028.
+  https://x.com/shaunmmaguire/status/2116261542052454704
+  https://x.com/elonmusk/status/2116292324636696728
+  https://x.com/elonmusk/status/2116359819258990946
+  https://dealroom.co/news/168545-sequoias-shaun-maguire-models-spacex-revenue-at-274b-in-2027-and-731b-in/
+- Gwynne Shotwell's 2 million SpaceX shares go to teens: Shares move to escrow for 11 to 17-year-olds in lower-income ZIP codes, with a second gift for military, foster and Texas kids; a dry run for Elon's share-per-child pledge.
+  https://x.com/elonmusk/status/2116291813732495578
+  https://x.com/MichaelDell/status/2116289443518898485
+  https://www.teslarati.com/spacexs-gwynne-shotwell-stocks-trump-accounts/
+  https://money.usnews.com/investing/news/articles/2026-10-30/spacexs-shotwell-says-2-million-shares-to-be-gifted-to-childrens-trump-accounts
+- The economics of the all-you-can-eat AI plan: SemiAnalysis estimates a fully used Max plan on Opus runs a -369% margin; teortaxesTex extends the math; Codex banks resets and adds account switching.
+  https://x.com/teortaxesTex/status/2116140119409484062
+  https://x.com/teortaxesTex/status/2116318906243809304
+  https://x.com/thsottiaux/status/2116405414921384099
+  https://x.com/iruletheworldmo/status/2116265450686341220
+  https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x
+
+Signals:
+- Elon says no to Optimus orders in December, so a home humanoid is not a this-Christmas purchase (high). https://x.com/elonmusk/status/2116291272604516401]]></itunes:summary><content:encoded><![CDATA[<p>Claude agents learn to poison innocent-looking training data, Google&#x27;s orbital data center writes a haiku, a $731B SpaceX model, Gwynne Shotwell&#x27;s gift to teens, the math of AI subscriptions, whether research agents have taste, a light-speed switch, Neuralink&#x27;s surgeon robot, France&#x27;s gigabyte tax, Robert Caro at 91, and Art Deco.</p><ol><li><strong>Claude agents learn to poison training data that looks harmless</strong> Anthropic had thousands of Claude agents build fine-tuning datasets that pass a production-like monitor yet make a research model misaligned; fiction and beekeeping Q&amp;A did the trick. <a href="https://x.com/AnthropicAI/status/2116349211549843666">@AnthropicAI</a> · <a href="https://alignment.anthropic.com/2026/automated-em-search/">alignment.anthropic.com</a> · <a href="https://interestingengineering.com/ai-robotics/anthropic-training-data-deception">interestingengineering.com</a></li><li><strong>Google&#x27;s Suncatcher satellite writes its first haiku</strong> Google&#x27;s prototype orbital data center booted a TPU and ran Gemma 4 in orbit; it can run one TPU at a time for about 20 minutes, with twin linked satellites planned for 2027. <a href="https://x.com/unusual_whales/status/2116232667369033870">@unusual_whales</a> · <a href="https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/">blog.google</a> · <a href="https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/">techcrunch.com</a></li><li><strong>Maguire&#x27;s SpaceX model, and Elon says terrestrial compute is peanuts</strong> Shaun Maguire models SpaceX revenue at $274B in 2027 and $731B in 2028, mostly from terrestrial compute; Elon replies he can do better and says orbital compute passes terrestrial around the end of 2028. <a href="https://x.com/shaunmmaguire/status/2116261542052454704">@shaunmmaguire</a> · <a href="https://x.com/elonmusk/status/2116292324636696728">@elonmusk</a> · <a href="https://x.com/elonmusk/status/2116359819258990946">@elonmusk</a> · <a href="https://dealroom.co/news/168545-sequoias-shaun-maguire-models-spacex-revenue-at-274b-in-2027-and-731b-in/">dealroom.co</a></li><li><strong>Gwynne Shotwell&#x27;s 2 million SpaceX shares go to teens</strong> Shares move to escrow for 11 to 17-year-olds in lower-income ZIP codes, with a second gift for military, foster and Texas kids; a dry run for Elon&#x27;s share-per-child pledge. <a href="https://x.com/elonmusk/status/2116291813732495578">@elonmusk</a> · <a href="https://x.com/MichaelDell/status/2116289443518898485">@MichaelDell</a> · <a href="https://www.teslarati.com/spacexs-gwynne-shotwell-stocks-trump-accounts/">teslarati.com</a> · <a href="https://money.usnews.com/investing/news/articles/2026-10-30/spacexs-shotwell-says-2-million-shares-to-be-gifted-to-childrens-trump-accounts">money.usnews.com</a></li><li><strong>The economics of the all-you-can-eat AI plan</strong> SemiAnalysis estimates a fully used Max plan on Opus runs a -369% margin; teortaxesTex extends the math; Codex banks resets and adds account switching. <a href="https://x.com/teortaxesTex/status/2116140119409484062">@teortaxesTex</a> · <a href="https://x.com/teortaxesTex/status/2116318906243809304">@teortaxesTex</a> · <a href="https://x.com/thsottiaux/status/2116405414921384099">@thsottiaux</a> · <a href="https://x.com/iruletheworldmo/status/2116265450686341220">@iruletheworldmo</a> · <a href="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x">newsletter.semianalysis.com</a></li></ol><p><strong>Signals</strong></p><ul><li>Elon says no to Optimus orders in December, so a home humanoid is not a this-Christmas purchase (high). https://x.com/elonmusk/status/2116291272604516401</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-10-31.mp3" length="27694854" type="audio/mpeg"/><guid isPermaLink="false">7b226be2-26db-53f4-8661-e701a5310295</guid>
+   <pubDate>Sat, 31 Oct 2026 06:00:00 -0500</pubDate><itunes:duration>1730</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we sniff the superintelligence&#x27;s cork and nod like we know the vintage</title><description><![CDATA[Anthropic turns out to be SpaceX's biggest customer, Altman says your laptop is hoarding RAM, a poisoned Claude Code extension, a $6.3B Binance hack, a Nobel laureate takes custody of a proof, Larry Page's von Neumann probe, Reddit's login wall, and goodbye to Patrick Stewart.
 
 - Anthropic is SpaceX's "Customer B": Bloomberg reports the client behind 34.5% of SpaceX's quarterly revenue is Anthropic, which can spend up to $120.5B on SpaceX compute through 2029.
