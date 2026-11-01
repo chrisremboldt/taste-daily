@@ -6,6 +6,69 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>we taste the superintelligence&#x27;s bedtime reading, one chapter of Lem at a time</title><description><![CDATA[Two copies of one AI improvise robot semaphore, Intel's worst day in decades, Anthropic's junk-rating warning and OpenAI's smaller round, SpaceX's Gun Range and Spam clusters, Karpathy's HackerTube, liquid software, a 490 mph dorm drone, Jeppesen's last paper chart, a shared robots.txt switch for AI training, and AIs reading Lem in Kraków.
+
+- Two copies of one AI pass a secret word by robot semaphore: Robocurve had two isolated instances of the same model exchange a word using only a robot and a camera; they improvised air-writing, Morse, semaphore and a 5-bit alphabet. Ethan Mollick says this is why isolating agents is hard.
+  https://x.com/robocurve/status/2116704239003349503
+  https://x.com/emollick/status/2116723717829230932
+- Intel's worst day in decades, Anthropic's junk-rating warning, OpenAI trims its round: Intel fell about 30% on weak PC guidance tied to memory costs; Blackstone reportedly expects a high-junk rating for Anthropic after its IPO; OpenAI cut its round target to up to $20B at $1.25T.
+  https://x.com/teortaxesTex/status/2116692277179584520
+  https://x.com/unusual_whales/status/2116595662779462054
+  https://x.com/SemiAnalysis_/status/2116715704829223411
+  https://www.investing.com/news/stock-market-news/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-4987123
+  https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/
+  https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html
+- SpaceX names its next clusters Gun Range and Spam: About 420,000 GB300s between a late-November training cluster and a December inference cluster in a former Hormel building; Musk on Macrohard's mix and Google's Texas campus: 'It's not that big.'
+  https://x.com/SawyerMerritt/status/2116592175823642670
+  https://x.com/elonmusk/status/2116665263718342979
+  https://x.com/elonmusk/status/2116652066449891738
+  https://x.com/scaling01/status/2116611322377036192
+  https://x.com/ns123abc/status/2116647378006528271
+  https://teslanorth.com/2026/10/31/spacex-spam-gun-range-clusters/
+- Karpathy builds HackerTube in about two hours: A YouTube made of 6,454 videos recommended on Hacker News, built by Opus 5.5 on medium effort in Claude Code; plus the effort-level debate and a five-minute clone.
+  https://karpathy.bearblog.dev/hacker-tube/
+  https://hackertube.org/
+  https://x.com/Yuchenj_UW/status/2116748026924638637
+  https://x.com/swyx/status/2116773135668404286
+  https://x.com/swyx/status/2116642586387730593
+  https://hackerloops.com/blog/catching-up-to-karpathy
+- Patrick Collison's 'liquid software' improvements box: A freeform box in each personal app that sends requests to an agent that implements them; one user shipped 150 improvements in a few days.
+  https://x.com/patrickc/status/2116636967517798672
+
+Signals:
+- Musk agrees superintelligence will eat whole industries within quarters (low on timing, high that it drives spending). https://x.com/elonmusk/status/2116724991484203504]]></description><itunes:summary><![CDATA[Two copies of one AI improvise robot semaphore, Intel's worst day in decades, Anthropic's junk-rating warning and OpenAI's smaller round, SpaceX's Gun Range and Spam clusters, Karpathy's HackerTube, liquid software, a 490 mph dorm drone, Jeppesen's last paper chart, a shared robots.txt switch for AI training, and AIs reading Lem in Kraków.
+
+- Two copies of one AI pass a secret word by robot semaphore: Robocurve had two isolated instances of the same model exchange a word using only a robot and a camera; they improvised air-writing, Morse, semaphore and a 5-bit alphabet. Ethan Mollick says this is why isolating agents is hard.
+  https://x.com/robocurve/status/2116704239003349503
+  https://x.com/emollick/status/2116723717829230932
+- Intel's worst day in decades, Anthropic's junk-rating warning, OpenAI trims its round: Intel fell about 30% on weak PC guidance tied to memory costs; Blackstone reportedly expects a high-junk rating for Anthropic after its IPO; OpenAI cut its round target to up to $20B at $1.25T.
+  https://x.com/teortaxesTex/status/2116692277179584520
+  https://x.com/unusual_whales/status/2116595662779462054
+  https://x.com/SemiAnalysis_/status/2116715704829223411
+  https://www.investing.com/news/stock-market-news/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-4987123
+  https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/
+  https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html
+- SpaceX names its next clusters Gun Range and Spam: About 420,000 GB300s between a late-November training cluster and a December inference cluster in a former Hormel building; Musk on Macrohard's mix and Google's Texas campus: 'It's not that big.'
+  https://x.com/SawyerMerritt/status/2116592175823642670
+  https://x.com/elonmusk/status/2116665263718342979
+  https://x.com/elonmusk/status/2116652066449891738
+  https://x.com/scaling01/status/2116611322377036192
+  https://x.com/ns123abc/status/2116647378006528271
+  https://teslanorth.com/2026/10/31/spacex-spam-gun-range-clusters/
+- Karpathy builds HackerTube in about two hours: A YouTube made of 6,454 videos recommended on Hacker News, built by Opus 5.5 on medium effort in Claude Code; plus the effort-level debate and a five-minute clone.
+  https://karpathy.bearblog.dev/hacker-tube/
+  https://hackertube.org/
+  https://x.com/Yuchenj_UW/status/2116748026924638637
+  https://x.com/swyx/status/2116773135668404286
+  https://x.com/swyx/status/2116642586387730593
+  https://hackerloops.com/blog/catching-up-to-karpathy
+- Patrick Collison's 'liquid software' improvements box: A freeform box in each personal app that sends requests to an agent that implements them; one user shipped 150 improvements in a few days.
+  https://x.com/patrickc/status/2116636967517798672
+
+Signals:
+- Musk agrees superintelligence will eat whole industries within quarters (low on timing, high that it drives spending). https://x.com/elonmusk/status/2116724991484203504]]></itunes:summary><content:encoded><![CDATA[<p>Two copies of one AI improvise robot semaphore, Intel&#x27;s worst day in decades, Anthropic&#x27;s junk-rating warning and OpenAI&#x27;s smaller round, SpaceX&#x27;s Gun Range and Spam clusters, Karpathy&#x27;s HackerTube, liquid software, a 490 mph dorm drone, Jeppesen&#x27;s last paper chart, a shared robots.txt switch for AI training, and AIs reading Lem in Kraków.</p><ol><li><strong>Two copies of one AI pass a secret word by robot semaphore</strong> Robocurve had two isolated instances of the same model exchange a word using only a robot and a camera; they improvised air-writing, Morse, semaphore and a 5-bit alphabet. Ethan Mollick says this is why isolating agents is hard. <a href="https://x.com/robocurve/status/2116704239003349503">@robocurve</a> · <a href="https://x.com/emollick/status/2116723717829230932">@emollick</a></li><li><strong>Intel&#x27;s worst day in decades, Anthropic&#x27;s junk-rating warning, OpenAI trims its round</strong> Intel fell about 30% on weak PC guidance tied to memory costs; Blackstone reportedly expects a high-junk rating for Anthropic after its IPO; OpenAI cut its round target to up to $20B at $1.25T. <a href="https://x.com/teortaxesTex/status/2116692277179584520">@teortaxesTex</a> · <a href="https://x.com/unusual_whales/status/2116595662779462054">@unusual_whales</a> · <a href="https://x.com/SemiAnalysis_/status/2116715704829223411">@SemiAnalysis_</a> · <a href="https://www.investing.com/news/stock-market-news/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-4987123">investing.com</a> · <a href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/">techcrunch.com</a> · <a href="https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html">cnbc.com</a></li><li><strong>SpaceX names its next clusters Gun Range and Spam</strong> About 420,000 GB300s between a late-November training cluster and a December inference cluster in a former Hormel building; Musk on Macrohard&#x27;s mix and Google&#x27;s Texas campus: &#x27;It&#x27;s not that big.&#x27; <a href="https://x.com/SawyerMerritt/status/2116592175823642670">@SawyerMerritt</a> · <a href="https://x.com/elonmusk/status/2116665263718342979">@elonmusk</a> · <a href="https://x.com/elonmusk/status/2116652066449891738">@elonmusk</a> · <a href="https://x.com/scaling01/status/2116611322377036192">@scaling01</a> · <a href="https://x.com/ns123abc/status/2116647378006528271">@ns123abc</a> · <a href="https://teslanorth.com/2026/10/31/spacex-spam-gun-range-clusters/">teslanorth.com</a></li><li><strong>Karpathy builds HackerTube in about two hours</strong> A YouTube made of 6,454 videos recommended on Hacker News, built by Opus 5.5 on medium effort in Claude Code; plus the effort-level debate and a five-minute clone. <a href="https://karpathy.bearblog.dev/hacker-tube/">karpathy.bearblog.dev</a> · <a href="https://hackertube.org/">hackertube.org</a> · <a href="https://x.com/Yuchenj_UW/status/2116748026924638637">@Yuchenj_UW</a> · <a href="https://x.com/swyx/status/2116773135668404286">@swyx</a> · <a href="https://x.com/swyx/status/2116642586387730593">@swyx</a> · <a href="https://hackerloops.com/blog/catching-up-to-karpathy">hackerloops.com</a></li><li><strong>Patrick Collison&#x27;s &#x27;liquid software&#x27; improvements box</strong> A freeform box in each personal app that sends requests to an agent that implements them; one user shipped 150 improvements in a few days. <a href="https://x.com/patrickc/status/2116636967517798672">@patrickc</a></li></ol><p><strong>Signals</strong></p><ul><li>Musk agrees superintelligence will eat whole industries within quarters (low on timing, high that it drives spending). https://x.com/elonmusk/status/2116724991484203504</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-11-01.mp3" length="28560030" type="audio/mpeg"/><guid isPermaLink="false">9803c36a-4203-5c76-a464-7b06ab5370d7</guid>
+   <pubDate>Sun, 01 Nov 2026 06:00:00 -0500</pubDate><itunes:duration>1784</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we check the superintelligence&#x27;s Halloween candy for razor blades, then eat it anyway</title><description><![CDATA[Claude agents learn to poison innocent-looking training data, Google's orbital data center writes a haiku, a $731B SpaceX model, Gwynne Shotwell's gift to teens, the math of AI subscriptions, whether research agents have taste, a light-speed switch, Neuralink's surgeon robot, France's gigabyte tax, Robert Caro at 91, and Art Deco.
 
 - Claude agents learn to poison training data that looks harmless: Anthropic had thousands of Claude agents build fine-tuning datasets that pass a production-like monitor yet make a research model misaligned; fiction and beekeeping Q&A did the trick.
