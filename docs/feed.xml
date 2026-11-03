@@ -6,6 +6,59 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>we let the superintelligence edit our taste buds, 0.016 percent at a time</title><description><![CDATA[A model edits another model's weights, Anthropic's filing says AI-accelerated AI may be imminent, why cooling in space is the easy part, Railway's agent apology, Europe's freezer hacks and Bundestag spyware, Ubuntu's open hole and OpenAI's bigger bounties, Goldman's Claude Code limits, OpenAI's Pando, harness over model, Battlefield 1942 in a browser, a $5M GPU container, tree-shaped attention, Starfall goes commercial, a shrinking optics megadeal, Kojima on Oshii, and a 1902 flying train.
+
+- GPT-6 Astra edits a small model's weights: MIT researchers had GPT-6 Astra edit 0.016% of Qwen3.5-0.8B's weights with no training, cutting reasoning loops and lifting MATH-500 from 7.9% to 48.1%.
+  https://x.com/Yuchenj_UW/status/2117469786234106143
+  https://x.com/Yuchenj_UW/status/2117353356226379964
+  https://x.com/teortaxesTex/status/2117456045874258346
+  https://rikiyat.github.io/blog/weight-space-programming/
+  https://github.com/RikiyaT/lm_understand-logs/blob/main/exp8_math/README.md
+  https://venturebeat.com/technology/like-gene-editing-for-neural-networks-mit-researchers-used-gpt-6-astra-to-edit-qwens-open-weights-directly-boosting-math-performance
+  https://www.theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105
+- Anthropic's Q3 and the word "imminently": Anthropic's amended S-1 shows $17.0B quarterly revenue and an operating loss, and says future models may imminently meet its threshold for dramatically AI-accelerated progress.
+  https://x.com/unusual_whales/status/2117305600644468809
+  https://x.com/deredleritt3r/status/2117289531091177487
+  https://x.com/unusual_whales/status/2117350281528705190
+  https://x.com/MTSlive/status/2117442001805386228
+  https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html
+  https://neuralbrew.ai/en/articles/2026/11/anthropic-amended-s1-ai-acceleration-threshold-rsp-q3/
+- Cooling in space is the easy part: Elon Musk says superintelligence compute will be nearly all in space; a Stanford physicist's black-sphere argument and Musk's radiator numbers make the case that cooling isn't the bottleneck.
+  https://x.com/elonmusk/status/2117272748112154651
+  https://x.com/elonmusk/status/2117462581371719779
+  https://x.com/shaunmmaguire/status/2117367919046963490
+  https://x.com/shaunmmaguire/status/2117275330180448478
+  https://x.com/elonmusk/status/2117466364407586921
+
+Signals:
+- Joscha Bach: 'AI is just matrix multiplication' is the new 'emotions are just chemicals' (medium). https://x.com/Plinz/status/2117453661567926784]]></description><itunes:summary><![CDATA[A model edits another model's weights, Anthropic's filing says AI-accelerated AI may be imminent, why cooling in space is the easy part, Railway's agent apology, Europe's freezer hacks and Bundestag spyware, Ubuntu's open hole and OpenAI's bigger bounties, Goldman's Claude Code limits, OpenAI's Pando, harness over model, Battlefield 1942 in a browser, a $5M GPU container, tree-shaped attention, Starfall goes commercial, a shrinking optics megadeal, Kojima on Oshii, and a 1902 flying train.
+
+- GPT-6 Astra edits a small model's weights: MIT researchers had GPT-6 Astra edit 0.016% of Qwen3.5-0.8B's weights with no training, cutting reasoning loops and lifting MATH-500 from 7.9% to 48.1%.
+  https://x.com/Yuchenj_UW/status/2117469786234106143
+  https://x.com/Yuchenj_UW/status/2117353356226379964
+  https://x.com/teortaxesTex/status/2117456045874258346
+  https://rikiyat.github.io/blog/weight-space-programming/
+  https://github.com/RikiyaT/lm_understand-logs/blob/main/exp8_math/README.md
+  https://venturebeat.com/technology/like-gene-editing-for-neural-networks-mit-researchers-used-gpt-6-astra-to-edit-qwens-open-weights-directly-boosting-math-performance
+  https://www.theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105
+- Anthropic's Q3 and the word "imminently": Anthropic's amended S-1 shows $17.0B quarterly revenue and an operating loss, and says future models may imminently meet its threshold for dramatically AI-accelerated progress.
+  https://x.com/unusual_whales/status/2117305600644468809
+  https://x.com/deredleritt3r/status/2117289531091177487
+  https://x.com/unusual_whales/status/2117350281528705190
+  https://x.com/MTSlive/status/2117442001805386228
+  https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html
+  https://neuralbrew.ai/en/articles/2026/11/anthropic-amended-s1-ai-acceleration-threshold-rsp-q3/
+- Cooling in space is the easy part: Elon Musk says superintelligence compute will be nearly all in space; a Stanford physicist's black-sphere argument and Musk's radiator numbers make the case that cooling isn't the bottleneck.
+  https://x.com/elonmusk/status/2117272748112154651
+  https://x.com/elonmusk/status/2117462581371719779
+  https://x.com/shaunmmaguire/status/2117367919046963490
+  https://x.com/shaunmmaguire/status/2117275330180448478
+  https://x.com/elonmusk/status/2117466364407586921
+
+Signals:
+- Joscha Bach: 'AI is just matrix multiplication' is the new 'emotions are just chemicals' (medium). https://x.com/Plinz/status/2117453661567926784]]></itunes:summary><content:encoded><![CDATA[<p>A model edits another model&#x27;s weights, Anthropic&#x27;s filing says AI-accelerated AI may be imminent, why cooling in space is the easy part, Railway&#x27;s agent apology, Europe&#x27;s freezer hacks and Bundestag spyware, Ubuntu&#x27;s open hole and OpenAI&#x27;s bigger bounties, Goldman&#x27;s Claude Code limits, OpenAI&#x27;s Pando, harness over model, Battlefield 1942 in a browser, a $5M GPU container, tree-shaped attention, Starfall goes commercial, a shrinking optics megadeal, Kojima on Oshii, and a 1902 flying train.</p><ol><li><strong>GPT-6 Astra edits a small model&#x27;s weights</strong> MIT researchers had GPT-6 Astra edit 0.016% of Qwen3.5-0.8B&#x27;s weights with no training, cutting reasoning loops and lifting MATH-500 from 7.9% to 48.1%. <a href="https://x.com/Yuchenj_UW/status/2117469786234106143">@Yuchenj_UW</a> · <a href="https://x.com/Yuchenj_UW/status/2117353356226379964">@Yuchenj_UW</a> · <a href="https://x.com/teortaxesTex/status/2117456045874258346">@teortaxesTex</a> · <a href="https://rikiyat.github.io/blog/weight-space-programming/">rikiyat.github.io</a> · <a href="https://github.com/RikiyaT/lm_understand-logs/blob/main/exp8_math/README.md">github.com</a> · <a href="https://venturebeat.com/technology/like-gene-editing-for-neural-networks-mit-researchers-used-gpt-6-astra-to-edit-qwens-open-weights-directly-boosting-math-performance">venturebeat.com</a> · <a href="https://www.theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105">theregister.com</a></li><li><strong>Anthropic&#x27;s Q3 and the word &quot;imminently&quot;</strong> Anthropic&#x27;s amended S-1 shows $17.0B quarterly revenue and an operating loss, and says future models may imminently meet its threshold for dramatically AI-accelerated progress. <a href="https://x.com/unusual_whales/status/2117305600644468809">@unusual_whales</a> · <a href="https://x.com/deredleritt3r/status/2117289531091177487">@deredleritt3r</a> · <a href="https://x.com/unusual_whales/status/2117350281528705190">@unusual_whales</a> · <a href="https://x.com/MTSlive/status/2117442001805386228">@MTSlive</a> · <a href="https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html">cnbc.com</a> · <a href="https://neuralbrew.ai/en/articles/2026/11/anthropic-amended-s1-ai-acceleration-threshold-rsp-q3/">neuralbrew.ai</a></li><li><strong>Cooling in space is the easy part</strong> Elon Musk says superintelligence compute will be nearly all in space; a Stanford physicist&#x27;s black-sphere argument and Musk&#x27;s radiator numbers make the case that cooling isn&#x27;t the bottleneck. <a href="https://x.com/elonmusk/status/2117272748112154651">@elonmusk</a> · <a href="https://x.com/elonmusk/status/2117462581371719779">@elonmusk</a> · <a href="https://x.com/shaunmmaguire/status/2117367919046963490">@shaunmmaguire</a> · <a href="https://x.com/shaunmmaguire/status/2117275330180448478">@shaunmmaguire</a> · <a href="https://x.com/elonmusk/status/2117466364407586921">@elonmusk</a></li></ol><p><strong>Signals</strong></p><ul><li>Joscha Bach: &#x27;AI is just matrix multiplication&#x27; is the new &#x27;emotions are just chemicals&#x27; (medium). https://x.com/Plinz/status/2117453661567926784</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-11-03.mp3" length="29511723" type="audio/mpeg"/><guid isPermaLink="false">b4c1deba-01e9-53fa-abcb-5b0fbcd93c71</guid>
+   <pubDate>Tue, 03 Nov 2026 06:00:00 -0500</pubDate><itunes:duration>1844</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we taste the superintelligence&#x27;s cooking, original recipes only, no recreations of a specific existing dish</title><description><![CDATA[Claude Code's rule against recreating games, Anthropic's tokens passing its payroll, the subscription subsidy wobbling, a benchmark topping out at 12%, DeepSeek's attention-saving agent, a vlog that picked its own editing workflow, a fashion reset, SLAC's hand-built accelerator, the Palm Beach Learjet crash, robotaxis in Fort Worth, a SpaceX financial duel, prison risk scores and unplugged Flock cameras, a vaccine with a missed endpoint, and reply bots learning to joke.
 
 - Claude Code's two-sentence rule against recreating existing games: Anthropic pushed a remote prompt rule to Claude Code on Opus 5.5 that blocks recreations of specific existing games; it misfired on a wargame studio's commissioned work after the developer asked whether it applied.
