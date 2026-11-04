@@ -6,6 +6,61 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>we ask the superintelligence to prove it cooked this, and it hands us nineteen megabytes</title><description><![CDATA[Voters put data centers on the ballot and Elon Musk looks up, SpaceX as a 13-gigawatt cloud, Oracle drops Tencent's chips, Anthropic's FlashProve proves which model answered, Claude vouches for you, the forecasters get spooked, Codex designs hardware, a treadmill breaks free of its subscription, agent swarms fix silent TPU compiler bugs, $177B of enterprise AI, no AI means no Google Search for schools, French plasma freezers set to 110 degrees, small models, drones that carry drones, a network that sings, and a B-52 with no tail.
+
+- Data centers on the ballot: Voters approved about two dozen restrictive data center measures and elected Texas leaders who want a construction moratorium or tighter rules, and Elon Musk looked up.
+  https://x.com/elonmusk/status/2117862462976594112
+  https://x.com/dylan522p/status/2117799333164941555
+  https://x.com/pitdesi/status/2117834875650863421
+  https://x.com/ns123abc/status/2117834765139345889
+  https://www.axios.com/2026/11/04/ai-data-center-election-slowdown
+  https://www.bisnow.com/news/houston/commercial-real-estate/texas-flips-blue-putting-data-center-boom-on-notice
+  https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html
+- SpaceX, the 13-gigawatt cloud: SemiAnalysis says SpaceX raised its 2027 AI data center target to about 13 GW, and Morgan Stanley nearly doubled its 2027 revenue estimate to $175B.
+  https://x.com/SemiAnalysis_/status/2117720668145852429
+  https://x.com/SawyerMerritt/status/2117722590110478489
+  https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will
+- Oracle drops Tencent's 100,000 chips: The FT reports Oracle cancelled a five-year, $7B chip lease to Tencent after pressure from US officials, while Guangdong officials pushed Tencent toward domestic chips.
+  https://x.com/ns123abc/status/2117857386610454950
+  https://x.com/deredleritt3r/status/2117860853106061732
+  https://www.bloomberg.com/news/articles/2026-11-04/oracle-scraps-7-billion-deal-to-lease-chips-to-tencent-ft-says
+  https://www.investing.com/news/stock-market-news/oracle-cancels-7-bln-chip-leasing-deal-with-tencent-ft-reports-4997349
+- FlashProve: proof of which model answered: Anthropic open-sourced a zero-knowledge system that proves a reply came from a committed model, at about 70-95x the GPU time of plain inference.
+  https://x.com/AnthropicAI/status/2117710942826123294
+  https://x.com/NickADobos/status/2117761195541422219
+  https://www.anthropic.com/research/provable-inference
+  https://github.com/anthropics/FlashProve/
+
+Signals:
+- Nikita Bier's 'Nuremberg Trials but for AI researchers' and deredleritt3r's 'uneasy coexistence' (medium-high it shows up in 2028 messaging). https://x.com/nikitabier/status/2117857619159531765]]></description><itunes:summary><![CDATA[Voters put data centers on the ballot and Elon Musk looks up, SpaceX as a 13-gigawatt cloud, Oracle drops Tencent's chips, Anthropic's FlashProve proves which model answered, Claude vouches for you, the forecasters get spooked, Codex designs hardware, a treadmill breaks free of its subscription, agent swarms fix silent TPU compiler bugs, $177B of enterprise AI, no AI means no Google Search for schools, French plasma freezers set to 110 degrees, small models, drones that carry drones, a network that sings, and a B-52 with no tail.
+
+- Data centers on the ballot: Voters approved about two dozen restrictive data center measures and elected Texas leaders who want a construction moratorium or tighter rules, and Elon Musk looked up.
+  https://x.com/elonmusk/status/2117862462976594112
+  https://x.com/dylan522p/status/2117799333164941555
+  https://x.com/pitdesi/status/2117834875650863421
+  https://x.com/ns123abc/status/2117834765139345889
+  https://www.axios.com/2026/11/04/ai-data-center-election-slowdown
+  https://www.bisnow.com/news/houston/commercial-real-estate/texas-flips-blue-putting-data-center-boom-on-notice
+  https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html
+- SpaceX, the 13-gigawatt cloud: SemiAnalysis says SpaceX raised its 2027 AI data center target to about 13 GW, and Morgan Stanley nearly doubled its 2027 revenue estimate to $175B.
+  https://x.com/SemiAnalysis_/status/2117720668145852429
+  https://x.com/SawyerMerritt/status/2117722590110478489
+  https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will
+- Oracle drops Tencent's 100,000 chips: The FT reports Oracle cancelled a five-year, $7B chip lease to Tencent after pressure from US officials, while Guangdong officials pushed Tencent toward domestic chips.
+  https://x.com/ns123abc/status/2117857386610454950
+  https://x.com/deredleritt3r/status/2117860853106061732
+  https://www.bloomberg.com/news/articles/2026-11-04/oracle-scraps-7-billion-deal-to-lease-chips-to-tencent-ft-says
+  https://www.investing.com/news/stock-market-news/oracle-cancels-7-bln-chip-leasing-deal-with-tencent-ft-reports-4997349
+- FlashProve: proof of which model answered: Anthropic open-sourced a zero-knowledge system that proves a reply came from a committed model, at about 70-95x the GPU time of plain inference.
+  https://x.com/AnthropicAI/status/2117710942826123294
+  https://x.com/NickADobos/status/2117761195541422219
+  https://www.anthropic.com/research/provable-inference
+  https://github.com/anthropics/FlashProve/
+
+Signals:
+- Nikita Bier's 'Nuremberg Trials but for AI researchers' and deredleritt3r's 'uneasy coexistence' (medium-high it shows up in 2028 messaging). https://x.com/nikitabier/status/2117857619159531765]]></itunes:summary><content:encoded><![CDATA[<p>Voters put data centers on the ballot and Elon Musk looks up, SpaceX as a 13-gigawatt cloud, Oracle drops Tencent&#x27;s chips, Anthropic&#x27;s FlashProve proves which model answered, Claude vouches for you, the forecasters get spooked, Codex designs hardware, a treadmill breaks free of its subscription, agent swarms fix silent TPU compiler bugs, $177B of enterprise AI, no AI means no Google Search for schools, French plasma freezers set to 110 degrees, small models, drones that carry drones, a network that sings, and a B-52 with no tail.</p><ol><li><strong>Data centers on the ballot</strong> Voters approved about two dozen restrictive data center measures and elected Texas leaders who want a construction moratorium or tighter rules, and Elon Musk looked up. <a href="https://x.com/elonmusk/status/2117862462976594112">@elonmusk</a> · <a href="https://x.com/dylan522p/status/2117799333164941555">@dylan522p</a> · <a href="https://x.com/pitdesi/status/2117834875650863421">@pitdesi</a> · <a href="https://x.com/ns123abc/status/2117834765139345889">@ns123abc</a> · <a href="https://www.axios.com/2026/11/04/ai-data-center-election-slowdown">axios.com</a> · <a href="https://www.bisnow.com/news/houston/commercial-real-estate/texas-flips-blue-putting-data-center-boom-on-notice">bisnow.com</a> · <a href="https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html">finance.yahoo.com</a></li><li><strong>SpaceX, the 13-gigawatt cloud</strong> SemiAnalysis says SpaceX raised its 2027 AI data center target to about 13 GW, and Morgan Stanley nearly doubled its 2027 revenue estimate to $175B. <a href="https://x.com/SemiAnalysis_/status/2117720668145852429">@SemiAnalysis_</a> · <a href="https://x.com/SawyerMerritt/status/2117722590110478489">@SawyerMerritt</a> · <a href="https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will">newsletter.semianalysis.com</a></li><li><strong>Oracle drops Tencent&#x27;s 100,000 chips</strong> The FT reports Oracle cancelled a five-year, $7B chip lease to Tencent after pressure from US officials, while Guangdong officials pushed Tencent toward domestic chips. <a href="https://x.com/ns123abc/status/2117857386610454950">@ns123abc</a> · <a href="https://x.com/deredleritt3r/status/2117860853106061732">@deredleritt3r</a> · <a href="https://www.bloomberg.com/news/articles/2026-11-04/oracle-scraps-7-billion-deal-to-lease-chips-to-tencent-ft-says">bloomberg.com</a> · <a href="https://www.investing.com/news/stock-market-news/oracle-cancels-7-bln-chip-leasing-deal-with-tencent-ft-reports-4997349">investing.com</a></li><li><strong>FlashProve: proof of which model answered</strong> Anthropic open-sourced a zero-knowledge system that proves a reply came from a committed model, at about 70-95x the GPU time of plain inference. <a href="https://x.com/AnthropicAI/status/2117710942826123294">@AnthropicAI</a> · <a href="https://x.com/NickADobos/status/2117761195541422219">@NickADobos</a> · <a href="https://www.anthropic.com/research/provable-inference">anthropic.com</a> · <a href="https://github.com/anthropics/FlashProve/">github.com</a></li></ol><p><strong>Signals</strong></p><ul><li>Nikita Bier&#x27;s &#x27;Nuremberg Trials but for AI researchers&#x27; and deredleritt3r&#x27;s &#x27;uneasy coexistence&#x27; (medium-high it shows up in 2028 messaging). https://x.com/nikitabier/status/2117857619159531765</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-11-04.mp3" length="29440252" type="audio/mpeg"/><guid isPermaLink="false">f18ad125-7c34-55b0-92f7-1a89d4b0af0e</guid>
+   <pubDate>Wed, 04 Nov 2026 06:00:00 -0500</pubDate><itunes:duration>1839</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we let the superintelligence edit our taste buds, 0.016 percent at a time</title><description><![CDATA[A model edits another model's weights, Anthropic's filing says AI-accelerated AI may be imminent, why cooling in space is the easy part, Railway's agent apology, Europe's freezer hacks and Bundestag spyware, Ubuntu's open hole and OpenAI's bigger bounties, Goldman's Claude Code limits, OpenAI's Pando, harness over model, Battlefield 1942 in a browser, a $5M GPU container, tree-shaped attention, Starfall goes commercial, a shrinking optics megadeal, Kojima on Oshii, and a 1902 flying train.
 
 - GPT-6 Astra edits a small model's weights: MIT researchers had GPT-6 Astra edit 0.016% of Qwen3.5-0.8B's weights with no training, cutting reasoning loops and lifting MATH-500 from 7.9% to 48.1%.
