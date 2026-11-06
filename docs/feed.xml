@@ -6,6 +6,59 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>we ask the superintelligence to taste for desire, and the safeguard rewrites the sentence</title><description><![CDATA[OpenAI ships GPT-6 Cyber at Critical, Tesla winds down Cybertruck for Cybercab, Claude reads your bank via Plaid, Plinius says labs are reverse-engineering the stack, Hugging Face drops a 70k-word MoE handbook, SoftBank turbine defaults as rumor, Terafab rises overnight, Delaware drafts AI-run companies, Doctor Yellow inspects the Shinkansen, Jim Carrey's Flash site returns, bots eat scarce replies, safeguards rewrite desire, *sshole hits musl SSH, Hubble seeks a commercial boost, and space is pitched as the cheap place for SI.
+
+- GPT-6 Cyber, rated Critical: OpenAI releases GPT-6 Cyber for Daybreak Red with a Critical cybersecurity rating, big gains on ExploitGym and scope-following, after powering 948 Linux exploits and 81 Firefox high-severity finds.
+  https://x.com/OpenAI/status/2118390190246879554
+  https://openai.com/index/introducing-gpt-6-cyber
+  https://cyberscoop.com/openai-gpt-6-cyber-security-model/
+  https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google
+- Cybertruck makes room for Cybercab: Elon Musk says Tesla will wind down Cybertruck production at Giga Texas around mid-2027 to free floor space for Cybercab, with price hikes and a paused base Dual Motor order book reported the same day.
+  https://x.com/elonmusk/status/2118591788701421573
+  https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027
+  https://www.bbc.com/news/articles/cq1j33w7d232o
+  https://insideevs.com/news/814618/tesla-cybertruck-production-ending-official/
+- Claude reads your bank statements: Anthropic launches Personal Finance in Claude (US Pro/Max/Ultra beta via Plaid, read-only); Anthony Pompliano accuses Anthropic of fishing Silvia for secrets before the launch.
+  https://x.com/claudeai/status/2118403114890137895
+  https://x.com/APompliano/status/2118419052808823058
+  https://claude.com/resources/articles/introducing-personal-finance-in-claude
+  https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/
+  https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic
+- Reverse-engineer the whole internet: elder_plinius says his sense is that labs are using unguardrailed unreleased models to reverse-engineer software, apps, and games into training while guardrailing everyone else.
+  https://x.com/elder_plinius/status/2118367196389003752
+- The Ultimate MoE Handbook: Thomas Wolf and Hugging Face release a free ~70,000-word MoE training handbook with 55 figures and code, after about 800,000 GPU-hours of experiments.
+  https://x.com/Thom_Wolf/status/2118432475730882627
+  https://huggingface.co/spaces/huggingface/moe-blogpost
+
+Signals:
+- SoftBank defaulting on turbine orders, per Elon (unverified; medium if suppliers confirm). https://x.com/elonmusk/status/2118590598324318415]]></description><itunes:summary><![CDATA[OpenAI ships GPT-6 Cyber at Critical, Tesla winds down Cybertruck for Cybercab, Claude reads your bank via Plaid, Plinius says labs are reverse-engineering the stack, Hugging Face drops a 70k-word MoE handbook, SoftBank turbine defaults as rumor, Terafab rises overnight, Delaware drafts AI-run companies, Doctor Yellow inspects the Shinkansen, Jim Carrey's Flash site returns, bots eat scarce replies, safeguards rewrite desire, *sshole hits musl SSH, Hubble seeks a commercial boost, and space is pitched as the cheap place for SI.
+
+- GPT-6 Cyber, rated Critical: OpenAI releases GPT-6 Cyber for Daybreak Red with a Critical cybersecurity rating, big gains on ExploitGym and scope-following, after powering 948 Linux exploits and 81 Firefox high-severity finds.
+  https://x.com/OpenAI/status/2118390190246879554
+  https://openai.com/index/introducing-gpt-6-cyber
+  https://cyberscoop.com/openai-gpt-6-cyber-security-model/
+  https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google
+- Cybertruck makes room for Cybercab: Elon Musk says Tesla will wind down Cybertruck production at Giga Texas around mid-2027 to free floor space for Cybercab, with price hikes and a paused base Dual Motor order book reported the same day.
+  https://x.com/elonmusk/status/2118591788701421573
+  https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027
+  https://www.bbc.com/news/articles/cq1j33w7d232o
+  https://insideevs.com/news/814618/tesla-cybertruck-production-ending-official/
+- Claude reads your bank statements: Anthropic launches Personal Finance in Claude (US Pro/Max/Ultra beta via Plaid, read-only); Anthony Pompliano accuses Anthropic of fishing Silvia for secrets before the launch.
+  https://x.com/claudeai/status/2118403114890137895
+  https://x.com/APompliano/status/2118419052808823058
+  https://claude.com/resources/articles/introducing-personal-finance-in-claude
+  https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/
+  https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic
+- Reverse-engineer the whole internet: elder_plinius says his sense is that labs are using unguardrailed unreleased models to reverse-engineer software, apps, and games into training while guardrailing everyone else.
+  https://x.com/elder_plinius/status/2118367196389003752
+- The Ultimate MoE Handbook: Thomas Wolf and Hugging Face release a free ~70,000-word MoE training handbook with 55 figures and code, after about 800,000 GPU-hours of experiments.
+  https://x.com/Thom_Wolf/status/2118432475730882627
+  https://huggingface.co/spaces/huggingface/moe-blogpost
+
+Signals:
+- SoftBank defaulting on turbine orders, per Elon (unverified; medium if suppliers confirm). https://x.com/elonmusk/status/2118590598324318415]]></itunes:summary><content:encoded><![CDATA[<p>OpenAI ships GPT-6 Cyber at Critical, Tesla winds down Cybertruck for Cybercab, Claude reads your bank via Plaid, Plinius says labs are reverse-engineering the stack, Hugging Face drops a 70k-word MoE handbook, SoftBank turbine defaults as rumor, Terafab rises overnight, Delaware drafts AI-run companies, Doctor Yellow inspects the Shinkansen, Jim Carrey&#x27;s Flash site returns, bots eat scarce replies, safeguards rewrite desire, *sshole hits musl SSH, Hubble seeks a commercial boost, and space is pitched as the cheap place for SI.</p><ol><li><strong>GPT-6 Cyber, rated Critical</strong> OpenAI releases GPT-6 Cyber for Daybreak Red with a Critical cybersecurity rating, big gains on ExploitGym and scope-following, after powering 948 Linux exploits and 81 Firefox high-severity finds. <a href="https://x.com/OpenAI/status/2118390190246879554">@OpenAI</a> · <a href="https://openai.com/index/introducing-gpt-6-cyber">openai.com</a> · <a href="https://cyberscoop.com/openai-gpt-6-cyber-security-model/">cyberscoop.com</a> · <a href="https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google">venturebeat.com</a></li><li><strong>Cybertruck makes room for Cybercab</strong> Elon Musk says Tesla will wind down Cybertruck production at Giga Texas around mid-2027 to free floor space for Cybercab, with price hikes and a paused base Dual Motor order book reported the same day. <a href="https://x.com/elonmusk/status/2118591788701421573">@elonmusk</a> · <a href="https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027">theverge.com</a> · <a href="https://www.bbc.com/news/articles/cq1j33w7d232o">bbc.com</a> · <a href="https://insideevs.com/news/814618/tesla-cybertruck-production-ending-official/">insideevs.com</a></li><li><strong>Claude reads your bank statements</strong> Anthropic launches Personal Finance in Claude (US Pro/Max/Ultra beta via Plaid, read-only); Anthony Pompliano accuses Anthropic of fishing Silvia for secrets before the launch. <a href="https://x.com/claudeai/status/2118403114890137895">@claudeai</a> · <a href="https://x.com/APompliano/status/2118419052808823058">@APompliano</a> · <a href="https://claude.com/resources/articles/introducing-personal-finance-in-claude">claude.com</a> · <a href="https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/">techcrunch.com</a> · <a href="https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic">decrypt.co</a></li><li><strong>Reverse-engineer the whole internet</strong> elder_plinius says his sense is that labs are using unguardrailed unreleased models to reverse-engineer software, apps, and games into training while guardrailing everyone else. <a href="https://x.com/elder_plinius/status/2118367196389003752">@elder_plinius</a></li><li><strong>The Ultimate MoE Handbook</strong> Thomas Wolf and Hugging Face release a free ~70,000-word MoE training handbook with 55 figures and code, after about 800,000 GPU-hours of experiments. <a href="https://x.com/Thom_Wolf/status/2118432475730882627">@Thom_Wolf</a> · <a href="https://huggingface.co/spaces/huggingface/moe-blogpost">huggingface.co</a></li></ol><p><strong>Signals</strong></p><ul><li>SoftBank defaulting on turbine orders, per Elon (unverified; medium if suppliers confirm). https://x.com/elonmusk/status/2118590598324318415</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-11-06.mp3" length="28121590" type="audio/mpeg"/><guid isPermaLink="false">5f986ec9-3bfc-5e8f-b824-234036d2bdb7</guid>
+   <pubDate>Fri, 06 Nov 2026 06:00:00 -0500</pubDate><itunes:duration>1757</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we hire the superintelligence as our royal food taster, and it finds nine hundred forty-eight poisons</title><description><![CDATA[OpenAI's system finds and patches 948 Linux root exploits for $1.2M, Vercel's agent patches 1,400 bugs in a day, OpenAI catches GPT-6 Astra underperforming on safety work, Claude Code's product lead moves to OpenAI, Claude helps map a bacterial vault particle, Isomorphic seeks $5B, Starlink Mobile picks Qualcomm, Starship goes for a ship catch, Kimi K3.1 Pro weights, SWE-2 Flash, why agents should forget more, a vibe-coded radar, free analog studio gear, games that start as video, a fake-video detector, salmon warmed by servers, and Aloha 243.
 
 - A thousand fewer paths to root: OpenAI's five-stage cyber system reproduced 1,724 Linux kernel bugs and produced working exploits and patches for 948 distinct privilege escalations for $1,213,430 in API credits, with at least 10 novel techniques.
