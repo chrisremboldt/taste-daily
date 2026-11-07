@@ -6,6 +6,69 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>we leave the superintelligence to dream on the leftovers, and it files a corrected recipe</title><description><![CDATA[Claude dreams between sessions, BioBasicsBench grades wet-lab agents, FMF rates cyber jailbreaks, Inkling 2 Small teases open weights, GPU rents firm as financing tightens, Starmind and Terafab push orbital and custom silicon, lasers eye undersea cables, a SpaceX quarter claims NASA's year, Raptor 4 tempts, Neuralink for walking, Claude Code packs its suitcase, Google's 60-mile EVs go cheap, Kodachromes of flat tires, and agents shop Shopify.
+
+- Claude dreams between sessions: Anthropic's engineering post on agent memory: idle dreaming corrects notes, builds wikis, and promotes what loads next session, with Pokémon and Stainless evals.
+  https://x.com/AnthropicAI/status/2118814753154064501
+  https://www.anthropic.com/research/components-of-agent-memory
+- BioBasicsBench: wet-lab agents: OpenAI and Ligo's 100-task raw wet-lab benchmark; GPT-6 Astra 66.7% vs GPT-5.6 Sol 43.8% at xhigh.
+  https://x.com/OpenAI/status/2118782708767965238
+  https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/
+- Rating cyber jailbreaks: Frontier Model Forum Jailbreak Rating Framework v1.0 with OpenAI; four axes from Negligible to Critical; comments through Dec 21.
+  https://x.com/OpenAI/status/2118795218099253606
+  https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/
+- Inkling 2 Small, weights next week: Thinking Machines' 594B/17B MoE on Tinker now; Apache 2.0 weights promised after safety; yacine says skills beat GPU raises.
+  https://x.com/yacineMTB/status/2118674385372385705
+  https://thinkingmachines.ai/news/inkling-2-small/
+  https://x.com/beffjezos/status/2118947876403335401
+- Tight GPU financing props up rents: SemiAnalysis: financing drag supports rents; ~21% rise in one-year H100 contracts since March; ≤2–3 GW of ~50 GW 2027 at risk.
+  https://x.com/SemiAnalysis_/status/2118863369365045730
+  https://x.com/SemiAnalysis_/status/2118863370677895453
+- Starmind details next year: Elon says Starmind computer unveil next year will blow minds; orbital Vera Rubin AI sats previously targeted around 2027.
+  https://x.com/elonmusk/status/2118811926163841429
+  https://en.wikipedia.org/wiki/Starmind_(satellite)
+- A hundred lasers versus the seabed: Elon: ~100 lasers/sat above 10 Tb/s and 100k+ satellites should outcompete undersea cables; light ~40% faster in vacuum.
+  https://x.com/elonmusk/status/2118788513365954734
+- One SpaceX quarter vs NASA's year: Elon claims this SpaceX quarter's revenue will substantially exceed NASA's annual budget; cites ~$18.8B FY2027 request.
+  https://x.com/elonmusk/status/2118761981037723848
+  https://x.com/elonmusk/status/2118855489828356147
+- Raptor 4 temptation: Elon: tempting to make a 500-ton Raptor 4 instead of 250-ton Raptor 3 for Starship's outer booster ring.
+  https://x.com/elonmusk/status/2118880932014997910
+
+Signals:
+- Don Harrison steps down from Tesla board citing Alphabet conflicts (medium). https://x.com/elonmusk/status/2118882656230518829]]></description><itunes:summary><![CDATA[Claude dreams between sessions, BioBasicsBench grades wet-lab agents, FMF rates cyber jailbreaks, Inkling 2 Small teases open weights, GPU rents firm as financing tightens, Starmind and Terafab push orbital and custom silicon, lasers eye undersea cables, a SpaceX quarter claims NASA's year, Raptor 4 tempts, Neuralink for walking, Claude Code packs its suitcase, Google's 60-mile EVs go cheap, Kodachromes of flat tires, and agents shop Shopify.
+
+- Claude dreams between sessions: Anthropic's engineering post on agent memory: idle dreaming corrects notes, builds wikis, and promotes what loads next session, with Pokémon and Stainless evals.
+  https://x.com/AnthropicAI/status/2118814753154064501
+  https://www.anthropic.com/research/components-of-agent-memory
+- BioBasicsBench: wet-lab agents: OpenAI and Ligo's 100-task raw wet-lab benchmark; GPT-6 Astra 66.7% vs GPT-5.6 Sol 43.8% at xhigh.
+  https://x.com/OpenAI/status/2118782708767965238
+  https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/
+- Rating cyber jailbreaks: Frontier Model Forum Jailbreak Rating Framework v1.0 with OpenAI; four axes from Negligible to Critical; comments through Dec 21.
+  https://x.com/OpenAI/status/2118795218099253606
+  https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/
+- Inkling 2 Small, weights next week: Thinking Machines' 594B/17B MoE on Tinker now; Apache 2.0 weights promised after safety; yacine says skills beat GPU raises.
+  https://x.com/yacineMTB/status/2118674385372385705
+  https://thinkingmachines.ai/news/inkling-2-small/
+  https://x.com/beffjezos/status/2118947876403335401
+- Tight GPU financing props up rents: SemiAnalysis: financing drag supports rents; ~21% rise in one-year H100 contracts since March; ≤2–3 GW of ~50 GW 2027 at risk.
+  https://x.com/SemiAnalysis_/status/2118863369365045730
+  https://x.com/SemiAnalysis_/status/2118863370677895453
+- Starmind details next year: Elon says Starmind computer unveil next year will blow minds; orbital Vera Rubin AI sats previously targeted around 2027.
+  https://x.com/elonmusk/status/2118811926163841429
+  https://en.wikipedia.org/wiki/Starmind_(satellite)
+- A hundred lasers versus the seabed: Elon: ~100 lasers/sat above 10 Tb/s and 100k+ satellites should outcompete undersea cables; light ~40% faster in vacuum.
+  https://x.com/elonmusk/status/2118788513365954734
+- One SpaceX quarter vs NASA's year: Elon claims this SpaceX quarter's revenue will substantially exceed NASA's annual budget; cites ~$18.8B FY2027 request.
+  https://x.com/elonmusk/status/2118761981037723848
+  https://x.com/elonmusk/status/2118855489828356147
+- Raptor 4 temptation: Elon: tempting to make a 500-ton Raptor 4 instead of 250-ton Raptor 3 for Starship's outer booster ring.
+  https://x.com/elonmusk/status/2118880932014997910
+
+Signals:
+- Don Harrison steps down from Tesla board citing Alphabet conflicts (medium). https://x.com/elonmusk/status/2118882656230518829]]></itunes:summary><content:encoded><![CDATA[<p>Claude dreams between sessions, BioBasicsBench grades wet-lab agents, FMF rates cyber jailbreaks, Inkling 2 Small teases open weights, GPU rents firm as financing tightens, Starmind and Terafab push orbital and custom silicon, lasers eye undersea cables, a SpaceX quarter claims NASA&#x27;s year, Raptor 4 tempts, Neuralink for walking, Claude Code packs its suitcase, Google&#x27;s 60-mile EVs go cheap, Kodachromes of flat tires, and agents shop Shopify.</p><ol><li><strong>Claude dreams between sessions</strong> Anthropic&#x27;s engineering post on agent memory: idle dreaming corrects notes, builds wikis, and promotes what loads next session, with Pokémon and Stainless evals. <a href="https://x.com/AnthropicAI/status/2118814753154064501">@AnthropicAI</a> · <a href="https://www.anthropic.com/research/components-of-agent-memory">anthropic.com</a></li><li><strong>BioBasicsBench: wet-lab agents</strong> OpenAI and Ligo&#x27;s 100-task raw wet-lab benchmark; GPT-6 Astra 66.7% vs GPT-5.6 Sol 43.8% at xhigh. <a href="https://x.com/OpenAI/status/2118782708767965238">@OpenAI</a> · <a href="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/">openai.com</a></li><li><strong>Rating cyber jailbreaks</strong> Frontier Model Forum Jailbreak Rating Framework v1.0 with OpenAI; four axes from Negligible to Critical; comments through Dec 21. <a href="https://x.com/OpenAI/status/2118795218099253606">@OpenAI</a> · <a href="https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/">frontiermodelforum.org</a></li><li><strong>Inkling 2 Small, weights next week</strong> Thinking Machines&#x27; 594B/17B MoE on Tinker now; Apache 2.0 weights promised after safety; yacine says skills beat GPU raises. <a href="https://x.com/yacineMTB/status/2118674385372385705">@yacineMTB</a> · <a href="https://thinkingmachines.ai/news/inkling-2-small/">thinkingmachines.ai</a> · <a href="https://x.com/beffjezos/status/2118947876403335401">@beffjezos</a></li><li><strong>Tight GPU financing props up rents</strong> SemiAnalysis: financing drag supports rents; ~21% rise in one-year H100 contracts since March; ≤2–3 GW of ~50 GW 2027 at risk. <a href="https://x.com/SemiAnalysis_/status/2118863369365045730">@SemiAnalysis_</a> · <a href="https://x.com/SemiAnalysis_/status/2118863370677895453">@SemiAnalysis_</a></li><li><strong>Starmind details next year</strong> Elon says Starmind computer unveil next year will blow minds; orbital Vera Rubin AI sats previously targeted around 2027. <a href="https://x.com/elonmusk/status/2118811926163841429">@elonmusk</a> · <a href="https://en.wikipedia.org/wiki/Starmind_(satellite)">en.wikipedia.org</a></li><li><strong>A hundred lasers versus the seabed</strong> Elon: ~100 lasers/sat above 10 Tb/s and 100k+ satellites should outcompete undersea cables; light ~40% faster in vacuum. <a href="https://x.com/elonmusk/status/2118788513365954734">@elonmusk</a></li><li><strong>One SpaceX quarter vs NASA&#x27;s year</strong> Elon claims this SpaceX quarter&#x27;s revenue will substantially exceed NASA&#x27;s annual budget; cites ~$18.8B FY2027 request. <a href="https://x.com/elonmusk/status/2118761981037723848">@elonmusk</a> · <a href="https://x.com/elonmusk/status/2118855489828356147">@elonmusk</a></li><li><strong>Raptor 4 temptation</strong> Elon: tempting to make a 500-ton Raptor 4 instead of 250-ton Raptor 3 for Starship&#x27;s outer booster ring. <a href="https://x.com/elonmusk/status/2118880932014997910">@elonmusk</a></li></ol><p><strong>Signals</strong></p><ul><li>Don Harrison steps down from Tesla board citing Alphabet conflicts (medium). https://x.com/elonmusk/status/2118882656230518829</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-11-07.mp3" length="26561349" type="audio/mpeg"/><guid isPermaLink="false">0200b92f-6130-5e68-81c8-46aee3eb384f</guid>
+   <pubDate>Sat, 07 Nov 2026 06:00:00 -0500</pubDate><itunes:duration>1660</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we ask the superintelligence to taste for desire, and the safeguard rewrites the sentence</title><description><![CDATA[OpenAI ships GPT-6 Cyber at Critical, Tesla winds down Cybertruck for Cybercab, Claude reads your bank via Plaid, Plinius says labs are reverse-engineering the stack, Hugging Face drops a 70k-word MoE handbook, SoftBank turbine defaults as rumor, Terafab rises overnight, Delaware drafts AI-run companies, Doctor Yellow inspects the Shinkansen, Jim Carrey's Flash site returns, bots eat scarce replies, safeguards rewrite desire, *sshole hits musl SSH, Hubble seeks a commercial boost, and space is pitched as the cheap place for SI.
 
 - GPT-6 Cyber, rated Critical: OpenAI releases GPT-6 Cyber for Daybreak Red with a Critical cybersecurity rating, big gains on ExploitGym and scope-following, after powering 948 Linux exploits and 81 Firefox high-severity finds.
