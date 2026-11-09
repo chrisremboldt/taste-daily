@@ -6,6 +6,93 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>we keep one bite of the superintelligence on Earth for tasting, and ship the rest to orbit</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-09.html</link><description><![CDATA[Five nines of compute in orbit, Anthropic's roadshow week, SI on 60 Minutes, Cybertruck's last eight months, single-crystal turbine blades, a plasma that breaks Newton's third law, and why writing is the tape.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-09.html
+
+1. Five nines of compute in orbit
+   https://x.com/elonmusk/status/2119469436092760547
+2. Anthropic hits the road, and SpaceX is its landlord
+   https://x.com/elonmusk/status/2119610442867749040
+3. Thinking longer, remembering better
+   https://x.com/gdb/status/2119561347805687848
+4. SI reaches 60 Minutes
+   https://x.com/RapidResponse47/status/2119594621638791227
+5. Nvidia's board opens an investigation
+   https://x.com/firstadopter/status/2119529257462333686
+6. Cybertruck's last eight months, Texas's biggest cell plant
+   https://x.com/elonmusk/status/2119691615774146614
+7. Why thirty-three engines
+   https://x.com/elonmusk/status/2119630588240105547
+8. Boom's single-crystal secret
+   https://x.com/bscholl/status/2119558037841277375
+9. Skydio's operating manual
+   https://x.com/ti_morse/status/2119532805743161623
+10. Texas, if the queue got built
+   https://x.com/kyle_e_walker/status/2119467509304668537
+11. Twenty-two g's and a Moon base
+   https://x.com/FutureJurvetson/status/2119622238400057684
+12. Physics with a front and a back
+   https://x.com/SocraticScribe/status/2119619271277863388
+13. Old interfaces as places
+   https://x.com/ObsoleteSony/status/2119561253513556163
+14. Infinite Slop TV signs off
+   https://x.com/levelsio/status/2119564112208257515
+15. Better metaphors than a machine god
+   https://x.com/sebkrier/status/2119530220172783761
+16. Writing is the tape
+   https://x.com/swyx/status/2119711420912939220
+
+Signals:
+- Elon Musk follows Richard Sutton, author of The Bitter Lesson; might hint at more attention to learning-from-experience RL in that orbit (low).
+- Crows learn that FSD stops for them; wildlife and pranksters will learn autonomy's policy (medium).
+- "Do the needful" as a way to delegate to agents; goal-stating replacing step-by-step prompting (low to medium).
+- tinygrad: "it's way too late" to control compute; an open-compute identity line that could harden as the debate heats up (medium on sentiment).
+- Andrew McCalip's car-safety-review-before-cars thought experiment, a burden-of-proof framing likely to spread in autonomy debates (medium).]]></description><itunes:summary><![CDATA[Five nines of compute in orbit, Anthropic's roadshow week, SI on 60 Minutes, Cybertruck's last eight months, single-crystal turbine blades, a plasma that breaks Newton's third law, and why writing is the tape.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-09.html
+
+1. Five nines of compute in orbit
+   https://x.com/elonmusk/status/2119469436092760547
+2. Anthropic hits the road, and SpaceX is its landlord
+   https://x.com/elonmusk/status/2119610442867749040
+3. Thinking longer, remembering better
+   https://x.com/gdb/status/2119561347805687848
+4. SI reaches 60 Minutes
+   https://x.com/RapidResponse47/status/2119594621638791227
+5. Nvidia's board opens an investigation
+   https://x.com/firstadopter/status/2119529257462333686
+6. Cybertruck's last eight months, Texas's biggest cell plant
+   https://x.com/elonmusk/status/2119691615774146614
+7. Why thirty-three engines
+   https://x.com/elonmusk/status/2119630588240105547
+8. Boom's single-crystal secret
+   https://x.com/bscholl/status/2119558037841277375
+9. Skydio's operating manual
+   https://x.com/ti_morse/status/2119532805743161623
+10. Texas, if the queue got built
+   https://x.com/kyle_e_walker/status/2119467509304668537
+11. Twenty-two g's and a Moon base
+   https://x.com/FutureJurvetson/status/2119622238400057684
+12. Physics with a front and a back
+   https://x.com/SocraticScribe/status/2119619271277863388
+13. Old interfaces as places
+   https://x.com/ObsoleteSony/status/2119561253513556163
+14. Infinite Slop TV signs off
+   https://x.com/levelsio/status/2119564112208257515
+15. Better metaphors than a machine god
+   https://x.com/sebkrier/status/2119530220172783761
+16. Writing is the tape
+   https://x.com/swyx/status/2119711420912939220
+
+Signals:
+- Elon Musk follows Richard Sutton, author of The Bitter Lesson; might hint at more attention to learning-from-experience RL in that orbit (low).
+- Crows learn that FSD stops for them; wildlife and pranksters will learn autonomy's policy (medium).
+- "Do the needful" as a way to delegate to agents; goal-stating replacing step-by-step prompting (low to medium).
+- tinygrad: "it's way too late" to control compute; an open-compute identity line that could harden as the debate heats up (medium on sentiment).
+- Andrew McCalip's car-safety-review-before-cars thought experiment, a burden-of-proof framing likely to spread in autonomy debates (medium).]]></itunes:summary><content:encoded><![CDATA[<p>Five nines of compute in orbit, Anthropic&#x27;s roadshow week, SI on 60 Minutes, Cybertruck&#x27;s last eight months, single-crystal turbine blades, a plasma that breaks Newton&#x27;s third law, and why writing is the tape.</p><p><a href="https://chrisremboldt.github.io/taste-daily/notes/2026-11-09.html">Full show notes: every story and Signal, with all links</a></p><ol><li><strong>Five nines of compute in orbit</strong> <a href="https://x.com/elonmusk/status/2119469436092760547">@elonmusk</a></li><li><strong>Anthropic hits the road, and SpaceX is its landlord</strong> <a href="https://x.com/elonmusk/status/2119610442867749040">@elonmusk</a></li><li><strong>Thinking longer, remembering better</strong> <a href="https://x.com/gdb/status/2119561347805687848">@gdb</a></li><li><strong>SI reaches 60 Minutes</strong> <a href="https://x.com/RapidResponse47/status/2119594621638791227">@RapidResponse47</a></li><li><strong>Nvidia&#x27;s board opens an investigation</strong> <a href="https://x.com/firstadopter/status/2119529257462333686">@firstadopter</a></li><li><strong>Cybertruck&#x27;s last eight months, Texas&#x27;s biggest cell plant</strong> <a href="https://x.com/elonmusk/status/2119691615774146614">@elonmusk</a></li><li><strong>Why thirty-three engines</strong> <a href="https://x.com/elonmusk/status/2119630588240105547">@elonmusk</a></li><li><strong>Boom&#x27;s single-crystal secret</strong> <a href="https://x.com/bscholl/status/2119558037841277375">@bscholl</a></li><li><strong>Skydio&#x27;s operating manual</strong> <a href="https://x.com/ti_morse/status/2119532805743161623">@ti_morse</a></li><li><strong>Texas, if the queue got built</strong> <a href="https://x.com/kyle_e_walker/status/2119467509304668537">@kyle_e_walker</a></li><li><strong>Twenty-two g&#x27;s and a Moon base</strong> <a href="https://x.com/FutureJurvetson/status/2119622238400057684">@FutureJurvetson</a></li><li><strong>Physics with a front and a back</strong> <a href="https://x.com/SocraticScribe/status/2119619271277863388">@SocraticScribe</a></li><li><strong>Old interfaces as places</strong> <a href="https://x.com/ObsoleteSony/status/2119561253513556163">@ObsoleteSony</a></li><li><strong>Infinite Slop TV signs off</strong> <a href="https://x.com/levelsio/status/2119564112208257515">@levelsio</a></li><li><strong>Better metaphors than a machine god</strong> <a href="https://x.com/sebkrier/status/2119530220172783761">@sebkrier</a></li><li><strong>Writing is the tape</strong> <a href="https://x.com/swyx/status/2119711420912939220">@swyx</a></li></ol><p><strong>Signals</strong></p><ul><li>Elon Musk follows Richard Sutton, author of The Bitter Lesson; might hint at more attention to learning-from-experience RL in that orbit (low).</li><li>Crows learn that FSD stops for them; wildlife and pranksters will learn autonomy&#x27;s policy (medium).</li><li>&quot;Do the needful&quot; as a way to delegate to agents; goal-stating replacing step-by-step prompting (low to medium).</li><li>tinygrad: &quot;it&#x27;s way too late&quot; to control compute; an open-compute identity line that could harden as the debate heats up (medium on sentiment).</li><li>Andrew McCalip&#x27;s car-safety-review-before-cars thought experiment, a burden-of-proof framing likely to spread in autonomy debates (medium).</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-11-09.mp3" length="28106962" type="audio/mpeg"/><guid isPermaLink="false">126d9b4c-d69c-52cf-ab56-cfb50a56a552</guid>
+   <pubDate>Mon, 09 Nov 2026 06:00:00 -0500</pubDate><itunes:duration>1756</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we ask the superintelligence to inspect the kitchen, and the tasters already outnumber the cooks</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-08.html</link><description><![CDATA[Figure's headquarters fills with F.03 humanoids, SpaceX sets Flight 15 for a dual catch on November 13, Alphabet's 13F shows an $83.7B SpaceX stake, Tesla pairs a Model Y three-peat with a smaller liquid-silver Cybercab pack, CXMT emerges as the fourth DRAM pole, Anthropic eyes a pre-Thanksgiving IPO, PSI says an Anthropic model proved Aaronson-Ambainis, Brockman calls for taking services off the open internet, Nikita Bier vibe-engineers a sensor, deedydas ranks schools by engineer careers, a Japanese laundromat feels twenty years ahead, Elon wants to be José, a Claudia clip asks who is prompting you, magnets hover over a spinning rotor, and artifacts run from a PSP to Sainte-Chapelle.
 
 Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-08.html
