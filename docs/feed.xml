@@ -6,6 +6,89 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>we ask the superintelligence to taste the soup again, and it writes an eighty-seven-thousand-word rule book</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-10.html</link><description><![CDATA[Claude Fable 5.2 formalizes Fermat and builds 450 worlds (plus a rule book), OpenAI's 35-second brake, SpaceX's C/C++ AI stack, drone-made snow in a peer-reviewed journal, Atlas on wheels, and a liner becoming a reef.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-10.html
+
+1. Fable 5.2 and Mythos 5.2
+   https://x.com/AnthropicAI/status/2119867707546071125
+2. Jagged AGI and the 204-section rule book
+   https://x.com/emollick/status/2119870150845599972
+3. OpenAI's Control Room
+   https://x.com/OpenAI/status/2119913172039868579
+4. Leap seconds, C, and a borescope
+   https://x.com/elonmusk/status/2120088070443655190
+5. Four TPUs in a year, and a small Muse
+   https://x.com/sundarpichai/status/2119857335871164769
+6. Subtract sixteen million drivers
+   https://x.com/PalmerLuckey/status/2120027643081113765
+7. Project Crystal Sun
+   https://x.com/elonmusk/status/2119812607117062451
+8. Snow, made by drone, in a journal
+   https://x.com/ADoricko/status/2119868254776971704
+9. Navigation with nothing to jam
+   https://x.com/delian_ai/status/2119751037019951580
+10. John Glenn's pad, reusable
+   https://x.com/planet/status/2119794838707343532
+11. Atlas on a roll
+   https://x.com/LinusEkenstam/status/2119937916273058200
+12. Steve, CEO
+   https://x.com/fchollet/status/2119843249980662241
+13. Agents get a doorbell
+   https://x.com/rauchg/status/2119891138450755670
+14. Afterlives: a liner and a closet
+   https://x.com/WarshipCam/status/2119836670107205851
+15. Machines that sing
+   https://x.com/mathelirium/status/2119891331829109066
+
+Signals:
+- Tesla AI6 memory: on a report of a cut from 216GB to 144GB, Elon Musk says bandwidth was held constant; the DRAM crunch is shaping robot silicon (medium).
+- Elon Musk follows Eric Topol and calls retatrutide knee-osteoarthritis trials "Interesting"; a medicine thread may be forming (low to medium).
+- TSMC posts record monthly sales of NT$586.89 billion, up about 60% year over year; the chip wave is still accelerating (high).
+- OpenTable's ChatGPT integration seated 190,000 diners in September; agents are a referral channel with numbers (medium).
+- MIRI's "Do Not Accept" campaign takes the superintelligence-risk argument to cinemas and the subway, as Elon Musk says the most ironic outcome is the most likely (medium).]]></description><itunes:summary><![CDATA[Claude Fable 5.2 formalizes Fermat and builds 450 worlds (plus a rule book), OpenAI's 35-second brake, SpaceX's C/C++ AI stack, drone-made snow in a peer-reviewed journal, Atlas on wheels, and a liner becoming a reef.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-10.html
+
+1. Fable 5.2 and Mythos 5.2
+   https://x.com/AnthropicAI/status/2119867707546071125
+2. Jagged AGI and the 204-section rule book
+   https://x.com/emollick/status/2119870150845599972
+3. OpenAI's Control Room
+   https://x.com/OpenAI/status/2119913172039868579
+4. Leap seconds, C, and a borescope
+   https://x.com/elonmusk/status/2120088070443655190
+5. Four TPUs in a year, and a small Muse
+   https://x.com/sundarpichai/status/2119857335871164769
+6. Subtract sixteen million drivers
+   https://x.com/PalmerLuckey/status/2120027643081113765
+7. Project Crystal Sun
+   https://x.com/elonmusk/status/2119812607117062451
+8. Snow, made by drone, in a journal
+   https://x.com/ADoricko/status/2119868254776971704
+9. Navigation with nothing to jam
+   https://x.com/delian_ai/status/2119751037019951580
+10. John Glenn's pad, reusable
+   https://x.com/planet/status/2119794838707343532
+11. Atlas on a roll
+   https://x.com/LinusEkenstam/status/2119937916273058200
+12. Steve, CEO
+   https://x.com/fchollet/status/2119843249980662241
+13. Agents get a doorbell
+   https://x.com/rauchg/status/2119891138450755670
+14. Afterlives: a liner and a closet
+   https://x.com/WarshipCam/status/2119836670107205851
+15. Machines that sing
+   https://x.com/mathelirium/status/2119891331829109066
+
+Signals:
+- Tesla AI6 memory: on a report of a cut from 216GB to 144GB, Elon Musk says bandwidth was held constant; the DRAM crunch is shaping robot silicon (medium).
+- Elon Musk follows Eric Topol and calls retatrutide knee-osteoarthritis trials "Interesting"; a medicine thread may be forming (low to medium).
+- TSMC posts record monthly sales of NT$586.89 billion, up about 60% year over year; the chip wave is still accelerating (high).
+- OpenTable's ChatGPT integration seated 190,000 diners in September; agents are a referral channel with numbers (medium).
+- MIRI's "Do Not Accept" campaign takes the superintelligence-risk argument to cinemas and the subway, as Elon Musk says the most ironic outcome is the most likely (medium).]]></itunes:summary><content:encoded><![CDATA[<p>Claude Fable 5.2 formalizes Fermat and builds 450 worlds (plus a rule book), OpenAI&#x27;s 35-second brake, SpaceX&#x27;s C/C++ AI stack, drone-made snow in a peer-reviewed journal, Atlas on wheels, and a liner becoming a reef.</p><p><a href="https://chrisremboldt.github.io/taste-daily/notes/2026-11-10.html">Full show notes: every story and Signal, with all links</a></p><ol><li><strong>Fable 5.2 and Mythos 5.2</strong> <a href="https://x.com/AnthropicAI/status/2119867707546071125">@AnthropicAI</a></li><li><strong>Jagged AGI and the 204-section rule book</strong> <a href="https://x.com/emollick/status/2119870150845599972">@emollick</a></li><li><strong>OpenAI&#x27;s Control Room</strong> <a href="https://x.com/OpenAI/status/2119913172039868579">@OpenAI</a></li><li><strong>Leap seconds, C, and a borescope</strong> <a href="https://x.com/elonmusk/status/2120088070443655190">@elonmusk</a></li><li><strong>Four TPUs in a year, and a small Muse</strong> <a href="https://x.com/sundarpichai/status/2119857335871164769">@sundarpichai</a></li><li><strong>Subtract sixteen million drivers</strong> <a href="https://x.com/PalmerLuckey/status/2120027643081113765">@PalmerLuckey</a></li><li><strong>Project Crystal Sun</strong> <a href="https://x.com/elonmusk/status/2119812607117062451">@elonmusk</a></li><li><strong>Snow, made by drone, in a journal</strong> <a href="https://x.com/ADoricko/status/2119868254776971704">@ADoricko</a></li><li><strong>Navigation with nothing to jam</strong> <a href="https://x.com/delian_ai/status/2119751037019951580">@delian_ai</a></li><li><strong>John Glenn&#x27;s pad, reusable</strong> <a href="https://x.com/planet/status/2119794838707343532">@planet</a></li><li><strong>Atlas on a roll</strong> <a href="https://x.com/LinusEkenstam/status/2119937916273058200">@LinusEkenstam</a></li><li><strong>Steve, CEO</strong> <a href="https://x.com/fchollet/status/2119843249980662241">@fchollet</a></li><li><strong>Agents get a doorbell</strong> <a href="https://x.com/rauchg/status/2119891138450755670">@rauchg</a></li><li><strong>Afterlives: a liner and a closet</strong> <a href="https://x.com/WarshipCam/status/2119836670107205851">@WarshipCam</a></li><li><strong>Machines that sing</strong> <a href="https://x.com/mathelirium/status/2119891331829109066">@mathelirium</a></li></ol><p><strong>Signals</strong></p><ul><li>Tesla AI6 memory: on a report of a cut from 216GB to 144GB, Elon Musk says bandwidth was held constant; the DRAM crunch is shaping robot silicon (medium).</li><li>Elon Musk follows Eric Topol and calls retatrutide knee-osteoarthritis trials &quot;Interesting&quot;; a medicine thread may be forming (low to medium).</li><li>TSMC posts record monthly sales of NT$586.89 billion, up about 60% year over year; the chip wave is still accelerating (high).</li><li>OpenTable&#x27;s ChatGPT integration seated 190,000 diners in September; agents are a referral channel with numbers (medium).</li><li>MIRI&#x27;s &quot;Do Not Accept&quot; campaign takes the superintelligence-risk argument to cinemas and the subway, as Elon Musk says the most ironic outcome is the most likely (medium).</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-11-10.mp3" length="29257185" type="audio/mpeg"/><guid isPermaLink="false">eefee2cb-8474-518e-be56-c6a4a7fa4cc0</guid>
+   <pubDate>Tue, 10 Nov 2026 06:00:00 -0500</pubDate><itunes:duration>1828</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we keep one bite of the superintelligence on Earth for tasting, and ship the rest to orbit</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-09.html</link><description><![CDATA[Five nines of compute in orbit, Anthropic's roadshow week, SI on 60 Minutes, Cybertruck's last eight months, single-crystal turbine blades, a plasma that breaks Newton's third law, and why writing is the tape.
 
 Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-09.html
