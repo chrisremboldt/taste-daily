@@ -6,6 +6,87 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>where the superintelligence finally gets its own wallet, and we still make it taste everything first</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-14.html</link><description><![CDATA[Starship Flight 15 reaches orbit and heads for a ship catch, US airspace empties for four hours, a four-bit training recipe, robots get general brains, and a floating island for seaplanes.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-14.html
+
+1. Starship Flight 15 reaches orbit; the ship comes home today
+   https://x.com/thejackbeyer/status/2121404926320636301
+2. The day American airspace emptied
+   https://x.com/flightradar24/status/2121417701885390932
+3. The avalanche coming for AI development
+   https://x.com/danrobinson/status/2121408362344751274
+4. Training in four bits, end to end
+   https://x.com/thinkymachines/status/2121353292878110868
+5. Robots get general brains: OpenAI folds robotics, PAN 2 opens
+   https://x.com/deredleritt3r/status/2121329797842493943
+6. ChatGPT Wallet: agents that pay
+   https://x.com/ChatGPT/status/2121283151729496235
+7. Claude Code Projects get a proactive coordinator, and mods
+   https://x.com/ClaudeDevs/status/2121375309287301360
+8. Price the harness, not just the model
+   https://x.com/garrytan/status/2121464508225053153
+9. Cybercab you can own
+   https://x.com/MKBHD/status/2121420350160302304
+10. UFORCE raises $700M
+   https://x.com/KyivIndependent/status/2121254908791857154
+11. Electron's hundredth, and a sequel to Wild Wild Space
+   https://x.com/DJSnM/status/2121473366788133269
+12. The Enterprise reaches Mobile
+   https://x.com/WarshipCam/status/2121283104098660821
+13. Henri Defrasse's floating island
+   https://x.com/AviationMarlene/status/2121268114260128162
+14. A detector that sees through the lens
+   https://x.com/goodside/status/2121286789176451331
+15. One student, ten teams
+   https://x.com/emollick/status/2121328191755218946
+
+Signals:
+- tinygrad says it launches half-price Qwen 3.8 Flash tokens next Friday: small hardware shops turning into inference sellers (medium that it ships, low that the discount lasts).
+- A benchmark poster says Baidu's Ernie 5.5 Flash Preview leads open models on GameFeel with 280B total parameters: a possible third Chinese lab back near the frontier (low to medium).
+- Baykar landed and launched an Akinci and a TB2 from a Turkish highway: large drones without runways make airbases less of a single point of failure (medium-high).
+- Elon Musk's one-word "True" to a post calling government an IT and software problem: a possible push to rebuild federal systems as software projects (medium).]]></description><itunes:summary><![CDATA[Starship Flight 15 reaches orbit and heads for a ship catch, US airspace empties for four hours, a four-bit training recipe, robots get general brains, and a floating island for seaplanes.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-14.html
+
+1. Starship Flight 15 reaches orbit; the ship comes home today
+   https://x.com/thejackbeyer/status/2121404926320636301
+2. The day American airspace emptied
+   https://x.com/flightradar24/status/2121417701885390932
+3. The avalanche coming for AI development
+   https://x.com/danrobinson/status/2121408362344751274
+4. Training in four bits, end to end
+   https://x.com/thinkymachines/status/2121353292878110868
+5. Robots get general brains: OpenAI folds robotics, PAN 2 opens
+   https://x.com/deredleritt3r/status/2121329797842493943
+6. ChatGPT Wallet: agents that pay
+   https://x.com/ChatGPT/status/2121283151729496235
+7. Claude Code Projects get a proactive coordinator, and mods
+   https://x.com/ClaudeDevs/status/2121375309287301360
+8. Price the harness, not just the model
+   https://x.com/garrytan/status/2121464508225053153
+9. Cybercab you can own
+   https://x.com/MKBHD/status/2121420350160302304
+10. UFORCE raises $700M
+   https://x.com/KyivIndependent/status/2121254908791857154
+11. Electron's hundredth, and a sequel to Wild Wild Space
+   https://x.com/DJSnM/status/2121473366788133269
+12. The Enterprise reaches Mobile
+   https://x.com/WarshipCam/status/2121283104098660821
+13. Henri Defrasse's floating island
+   https://x.com/AviationMarlene/status/2121268114260128162
+14. A detector that sees through the lens
+   https://x.com/goodside/status/2121286789176451331
+15. One student, ten teams
+   https://x.com/emollick/status/2121328191755218946
+
+Signals:
+- tinygrad says it launches half-price Qwen 3.8 Flash tokens next Friday: small hardware shops turning into inference sellers (medium that it ships, low that the discount lasts).
+- A benchmark poster says Baidu's Ernie 5.5 Flash Preview leads open models on GameFeel with 280B total parameters: a possible third Chinese lab back near the frontier (low to medium).
+- Baykar landed and launched an Akinci and a TB2 from a Turkish highway: large drones without runways make airbases less of a single point of failure (medium-high).
+- Elon Musk's one-word "True" to a post calling government an IT and software problem: a possible push to rebuild federal systems as software projects (medium).]]></itunes:summary><content:encoded><![CDATA[<p>Starship Flight 15 reaches orbit and heads for a ship catch, US airspace empties for four hours, a four-bit training recipe, robots get general brains, and a floating island for seaplanes.</p><p><a href="https://chrisremboldt.github.io/taste-daily/notes/2026-11-14.html">Full show notes: every story and Signal, with all links</a></p><ol><li><strong>Starship Flight 15 reaches orbit; the ship comes home today</strong> <a href="https://x.com/thejackbeyer/status/2121404926320636301">@thejackbeyer</a></li><li><strong>The day American airspace emptied</strong> <a href="https://x.com/flightradar24/status/2121417701885390932">@flightradar24</a></li><li><strong>The avalanche coming for AI development</strong> <a href="https://x.com/danrobinson/status/2121408362344751274">@danrobinson</a></li><li><strong>Training in four bits, end to end</strong> <a href="https://x.com/thinkymachines/status/2121353292878110868">@thinkymachines</a></li><li><strong>Robots get general brains: OpenAI folds robotics, PAN 2 opens</strong> <a href="https://x.com/deredleritt3r/status/2121329797842493943">@deredleritt3r</a></li><li><strong>ChatGPT Wallet: agents that pay</strong> <a href="https://x.com/ChatGPT/status/2121283151729496235">@ChatGPT</a></li><li><strong>Claude Code Projects get a proactive coordinator, and mods</strong> <a href="https://x.com/ClaudeDevs/status/2121375309287301360">@ClaudeDevs</a></li><li><strong>Price the harness, not just the model</strong> <a href="https://x.com/garrytan/status/2121464508225053153">@garrytan</a></li><li><strong>Cybercab you can own</strong> <a href="https://x.com/MKBHD/status/2121420350160302304">@MKBHD</a></li><li><strong>UFORCE raises $700M</strong> <a href="https://x.com/KyivIndependent/status/2121254908791857154">@KyivIndependent</a></li><li><strong>Electron&#x27;s hundredth, and a sequel to Wild Wild Space</strong> <a href="https://x.com/DJSnM/status/2121473366788133269">@DJSnM</a></li><li><strong>The Enterprise reaches Mobile</strong> <a href="https://x.com/WarshipCam/status/2121283104098660821">@WarshipCam</a></li><li><strong>Henri Defrasse&#x27;s floating island</strong> <a href="https://x.com/AviationMarlene/status/2121268114260128162">@AviationMarlene</a></li><li><strong>A detector that sees through the lens</strong> <a href="https://x.com/goodside/status/2121286789176451331">@goodside</a></li><li><strong>One student, ten teams</strong> <a href="https://x.com/emollick/status/2121328191755218946">@emollick</a></li></ol><p><strong>Signals</strong></p><ul><li>tinygrad says it launches half-price Qwen 3.8 Flash tokens next Friday: small hardware shops turning into inference sellers (medium that it ships, low that the discount lasts).</li><li>A benchmark poster says Baidu&#x27;s Ernie 5.5 Flash Preview leads open models on GameFeel with 280B total parameters: a possible third Chinese lab back near the frontier (low to medium).</li><li>Baykar landed and launched an Akinci and a TB2 from a Turkish highway: large drones without runways make airbases less of a single point of failure (medium-high).</li><li>Elon Musk&#x27;s one-word &quot;True&quot; to a post calling government an IT and software problem: a possible push to rebuild federal systems as software projects (medium).</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-11-14.mp3" length="28099856" type="audio/mpeg"/><guid isPermaLink="false">8aedf1c6-1f06-557f-8603-c4e973b11fac</guid>
+   <pubDate>Sat, 14 Nov 2026 06:00:00 -0500</pubDate><itunes:duration>1756</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we taste-test the superintelligence before launch, and the label says don&#x27;t panic</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-13.html</link><description><![CDATA[Starship Flight 15 aims to catch both stages, Jensen Huang leaves Nvidia, GPU fingerprints in open weights, Inkling 2 Small goes open, and a jet trailing a five-mile wire over Michigan.
 
 Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-13.html
