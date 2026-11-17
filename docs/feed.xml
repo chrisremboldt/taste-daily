@@ -6,6 +6,93 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>we let the superintelligence proofread the tasting notes, and it finds a thousand typos in the cookbook</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-17.html</link><description><![CDATA[An AI audit of 150,000 astrophysics papers, the automated-researcher race, how the Claude Code team makes agents verify their work, personal software, looking inside models, a million-Cybercab hall in Berlin, a 160-year-old foundry and a new California town, and the 1959 camera that filmed Earth by accident.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-17.html
+
+1. Casey Handmer audits theoretical astrophysics with Opus 5.5
+   https://x.com/CJHandmer/status/2122609626588061816
+2. OpenAI: how 1,819 scientists used ChatGPT, and a 200,000-researcher program
+   https://x.com/OpenAI/status/2122380010287960095
+3. Perplexity Frontier Research targets an automated scientist
+   https://x.com/AravSrinivas/status/2122353569903128921
+4. Noeri launches with $110M for plural, self-improving AI
+   https://x.com/deedydas/status/2122381278016360805
+5. Still no Fable-class open model
+   https://x.com/emollick/status/2122308260325720127
+6. How the Claude Code team makes agents verify their work
+   https://x.com/ClaudeDevs/status/2122457608963395586
+7. OpenClaw cuts CI compute value 95.5%
+   https://x.com/vincent_koc/status/2122443715440689638
+8. SignuDoc and the personal-software era
+   https://x.com/rauchg/status/2122396034186014919
+9. An agent builds a neon 1986 Miami driving game from scratch
+   https://x.com/AravSrinivas/status/2122338465648103676
+10. Deep-dreaming the inside of Qwen 3.6
+   https://x.com/voooooogel/status/2122426730170466336
+11. OpenAI's first embedded safety assessments
+   https://x.com/tszzl/status/2122456531606364199
+12. A million-Cybercab hall at Giga Berlin, and customer cars joining Robotaxi
+   https://x.com/SawyerMerritt/status/2122350827566170214
+13. Mercedes brings point-to-point driving assistance to the US
+   https://x.com/SawyerMerritt/status/2122364934160064747
+14. Hadrian buys Kutztown Foundry, makes its 49 workers owners
+   https://x.com/HadrianInc/status/2122396224905203756
+15. Esmeralda wins final approval in Cloverdale
+   https://x.com/_sholtodouglas/status/2122426251445235943
+16. 1959: a missile camera films Earth, plus plasmoids on rails and MiniDisc's long tail
+   https://x.com/Rainmaker1973/status/2122381684779692169
+
+Signals:
+- Elon Musk: 'Relentless reinforcement learning must feel like Edge of Tomorrow to superintelligence'; Tesla firmware 2026.44.1 renames the 'AI computer' to 'SI Computer' (medium-high on vocabulary, low on hardware).
+- DeepSeek V4 Pro's API fingerprint changed with no quality or speed change; teortaxes guesses new serving hardware, possibly Ascend (low).
+- SemiAnalysis renders a Trainium3 profile as pixel art and plans to open-source the SKILLS.md behind it: expertise shipped as agent instructions (medium).
+- Elon Musk: a Starship material 'will be replaced with stainless steel wool for future flights', and 'Yes' it survives entry (low-medium).
+- deepfates coins 'swarmfluencer' as consumer agents become a market-map category (low).]]></description><itunes:summary><![CDATA[An AI audit of 150,000 astrophysics papers, the automated-researcher race, how the Claude Code team makes agents verify their work, personal software, looking inside models, a million-Cybercab hall in Berlin, a 160-year-old foundry and a new California town, and the 1959 camera that filmed Earth by accident.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-17.html
+
+1. Casey Handmer audits theoretical astrophysics with Opus 5.5
+   https://x.com/CJHandmer/status/2122609626588061816
+2. OpenAI: how 1,819 scientists used ChatGPT, and a 200,000-researcher program
+   https://x.com/OpenAI/status/2122380010287960095
+3. Perplexity Frontier Research targets an automated scientist
+   https://x.com/AravSrinivas/status/2122353569903128921
+4. Noeri launches with $110M for plural, self-improving AI
+   https://x.com/deedydas/status/2122381278016360805
+5. Still no Fable-class open model
+   https://x.com/emollick/status/2122308260325720127
+6. How the Claude Code team makes agents verify their work
+   https://x.com/ClaudeDevs/status/2122457608963395586
+7. OpenClaw cuts CI compute value 95.5%
+   https://x.com/vincent_koc/status/2122443715440689638
+8. SignuDoc and the personal-software era
+   https://x.com/rauchg/status/2122396034186014919
+9. An agent builds a neon 1986 Miami driving game from scratch
+   https://x.com/AravSrinivas/status/2122338465648103676
+10. Deep-dreaming the inside of Qwen 3.6
+   https://x.com/voooooogel/status/2122426730170466336
+11. OpenAI's first embedded safety assessments
+   https://x.com/tszzl/status/2122456531606364199
+12. A million-Cybercab hall at Giga Berlin, and customer cars joining Robotaxi
+   https://x.com/SawyerMerritt/status/2122350827566170214
+13. Mercedes brings point-to-point driving assistance to the US
+   https://x.com/SawyerMerritt/status/2122364934160064747
+14. Hadrian buys Kutztown Foundry, makes its 49 workers owners
+   https://x.com/HadrianInc/status/2122396224905203756
+15. Esmeralda wins final approval in Cloverdale
+   https://x.com/_sholtodouglas/status/2122426251445235943
+16. 1959: a missile camera films Earth, plus plasmoids on rails and MiniDisc's long tail
+   https://x.com/Rainmaker1973/status/2122381684779692169
+
+Signals:
+- Elon Musk: 'Relentless reinforcement learning must feel like Edge of Tomorrow to superintelligence'; Tesla firmware 2026.44.1 renames the 'AI computer' to 'SI Computer' (medium-high on vocabulary, low on hardware).
+- DeepSeek V4 Pro's API fingerprint changed with no quality or speed change; teortaxes guesses new serving hardware, possibly Ascend (low).
+- SemiAnalysis renders a Trainium3 profile as pixel art and plans to open-source the SKILLS.md behind it: expertise shipped as agent instructions (medium).
+- Elon Musk: a Starship material 'will be replaced with stainless steel wool for future flights', and 'Yes' it survives entry (low-medium).
+- deepfates coins 'swarmfluencer' as consumer agents become a market-map category (low).]]></itunes:summary><content:encoded><![CDATA[<p>An AI audit of 150,000 astrophysics papers, the automated-researcher race, how the Claude Code team makes agents verify their work, personal software, looking inside models, a million-Cybercab hall in Berlin, a 160-year-old foundry and a new California town, and the 1959 camera that filmed Earth by accident.</p><p><a href="https://chrisremboldt.github.io/taste-daily/notes/2026-11-17.html">Full show notes: every story and Signal, with all links</a></p><ol><li><strong>Casey Handmer audits theoretical astrophysics with Opus 5.5</strong> <a href="https://x.com/CJHandmer/status/2122609626588061816">@CJHandmer</a></li><li><strong>OpenAI: how 1,819 scientists used ChatGPT, and a 200,000-researcher program</strong> <a href="https://x.com/OpenAI/status/2122380010287960095">@OpenAI</a></li><li><strong>Perplexity Frontier Research targets an automated scientist</strong> <a href="https://x.com/AravSrinivas/status/2122353569903128921">@AravSrinivas</a></li><li><strong>Noeri launches with $110M for plural, self-improving AI</strong> <a href="https://x.com/deedydas/status/2122381278016360805">@deedydas</a></li><li><strong>Still no Fable-class open model</strong> <a href="https://x.com/emollick/status/2122308260325720127">@emollick</a></li><li><strong>How the Claude Code team makes agents verify their work</strong> <a href="https://x.com/ClaudeDevs/status/2122457608963395586">@ClaudeDevs</a></li><li><strong>OpenClaw cuts CI compute value 95.5%</strong> <a href="https://x.com/vincent_koc/status/2122443715440689638">@vincent_koc</a></li><li><strong>SignuDoc and the personal-software era</strong> <a href="https://x.com/rauchg/status/2122396034186014919">@rauchg</a></li><li><strong>An agent builds a neon 1986 Miami driving game from scratch</strong> <a href="https://x.com/AravSrinivas/status/2122338465648103676">@AravSrinivas</a></li><li><strong>Deep-dreaming the inside of Qwen 3.6</strong> <a href="https://x.com/voooooogel/status/2122426730170466336">@voooooogel</a></li><li><strong>OpenAI&#x27;s first embedded safety assessments</strong> <a href="https://x.com/tszzl/status/2122456531606364199">@tszzl</a></li><li><strong>A million-Cybercab hall at Giga Berlin, and customer cars joining Robotaxi</strong> <a href="https://x.com/SawyerMerritt/status/2122350827566170214">@SawyerMerritt</a></li><li><strong>Mercedes brings point-to-point driving assistance to the US</strong> <a href="https://x.com/SawyerMerritt/status/2122364934160064747">@SawyerMerritt</a></li><li><strong>Hadrian buys Kutztown Foundry, makes its 49 workers owners</strong> <a href="https://x.com/HadrianInc/status/2122396224905203756">@HadrianInc</a></li><li><strong>Esmeralda wins final approval in Cloverdale</strong> <a href="https://x.com/_sholtodouglas/status/2122426251445235943">@_sholtodouglas</a></li><li><strong>1959: a missile camera films Earth, plus plasmoids on rails and MiniDisc&#x27;s long tail</strong> <a href="https://x.com/Rainmaker1973/status/2122381684779692169">@Rainmaker1973</a></li></ol><p><strong>Signals</strong></p><ul><li>Elon Musk: &#x27;Relentless reinforcement learning must feel like Edge of Tomorrow to superintelligence&#x27;; Tesla firmware 2026.44.1 renames the &#x27;AI computer&#x27; to &#x27;SI Computer&#x27; (medium-high on vocabulary, low on hardware).</li><li>DeepSeek V4 Pro&#x27;s API fingerprint changed with no quality or speed change; teortaxes guesses new serving hardware, possibly Ascend (low).</li><li>SemiAnalysis renders a Trainium3 profile as pixel art and plans to open-source the SKILLS.md behind it: expertise shipped as agent instructions (medium).</li><li>Elon Musk: a Starship material &#x27;will be replaced with stainless steel wool for future flights&#x27;, and &#x27;Yes&#x27; it survives entry (low-medium).</li><li>deepfates coins &#x27;swarmfluencer&#x27; as consumer agents become a market-map category (low).</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-11-17.mp3" length="27272297" type="audio/mpeg"/><guid isPermaLink="false">8e06200a-b6e6-5a6c-b1db-98150a415d8a</guid>
+   <pubDate>Tue, 17 Nov 2026 06:00:00 -0500</pubDate><itunes:duration>1704</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we let the superintelligence taste the universe on a grid, and it asks for a finer grid</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-16.html</link><description><![CDATA[A candidate lattice definition of the Standard Model built with an AI collaborator, Starship after the catch, Vulcan's first failure, GPS-free drone navigation, the RAM fight over local models, and a new numbers station.
 
 Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-16.html
