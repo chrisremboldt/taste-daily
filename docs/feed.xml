@@ -6,6 +6,89 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>we let the superintelligence taste the signal from one light-day out, and it says it&#x27;ll have notes tomorrow</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-19.html</link><description><![CDATA[Voyager 1 reaches one light-day, Anthropic goes public under fire from both flanks, models redesign AMD's GPU, Google's worlds learn to talk, and a robot that sewed an airship.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-19.html
+
+1. Voyager 1 reaches one light-day
+   https://x.com/MKBHD/status/2123059889689772286
+2. Anthropic prices the biggest IPO ever, and the MisAnthropic Statement
+   https://x.com/AnthropicAI/status/2123196808675405860
+3. StarMind, ten gigawatts for Anthropic, and Nadella would lease
+   https://x.com/KanekoaTheGreat/status/2123242707560857836
+4. Why Ship 42 zigzagged home, and a $2.50/kg propellant floor
+   https://x.com/elonmusk/status/2123159371119280372
+5. OpenAI's models redesign AMD's flagship GPU
+   https://x.com/OpenAI/status/2123100386638877054
+6. How AI is changing research inside OpenAI
+   https://x.com/OpenAI/status/2123191365983248653
+7. Google's Neon: the middle model built for work
+   https://x.com/sundarpichai/status/2123167780988125621
+8. Genie 4: worlds you can rewrite while standing in them
+   https://x.com/GoogleDeepMind/status/2123117733709586849
+9. Own your model: Prime Intellect's Model Factory and Palo Alto buys Applied Compute
+   https://x.com/PrimeIntellect/status/2123207653530972470
+10. ChatGPT for Accounting
+   https://x.com/ChatGPT/status/2123159134963196357
+11. Seabed Sentry in a Scottish loch
+   https://x.com/PalmerLuckey/status/2123190774045319201
+12. The machine that sewed the Tin Blimp
+   https://x.com/aviationarchive/status/2123166851484315668
+13. SSH into DOS: the Farcall emulator
+   https://x.com/adafruit/status/2123075382278795275
+14. Pi hiding in Pascal's triangle
+   https://x.com/mathelirium/status/2123174841645703498
+15. NGC 604, a nebula that would fill a third of the sky
+   https://x.com/AJamesMcCarthy/status/2123256295922999678
+
+Signals:
+- Elon Musk replies 'Interesting' to a broker saying far more B300 nodes sit unsold than people think, as Datasection cuts guidance 89%: a secondary market in top-end GPUs (medium).
+- SpaceX designs a rooftop micro cell tower for Starlink Mobile using its 800 MHz spectrum, production expected next year: a satellite operator becoming a neighborhood carrier (medium-high on intent).
+- X converts all unencrypted text conversations to encrypted XChat on Friday: encryption as the default layer under payments and agents (medium).
+- A DOE sentry turret labeled 'High Consequence Automation,' the name of Sandia's robotics group: armed-autonomy lab vocabulary going public (low).
+- Rocket Lab sets up Long Beach to ship one Archimedes engine every eight days: production cadence as the metric for the next reusable rocket (medium).]]></description><itunes:summary><![CDATA[Voyager 1 reaches one light-day, Anthropic goes public under fire from both flanks, models redesign AMD's GPU, Google's worlds learn to talk, and a robot that sewed an airship.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-19.html
+
+1. Voyager 1 reaches one light-day
+   https://x.com/MKBHD/status/2123059889689772286
+2. Anthropic prices the biggest IPO ever, and the MisAnthropic Statement
+   https://x.com/AnthropicAI/status/2123196808675405860
+3. StarMind, ten gigawatts for Anthropic, and Nadella would lease
+   https://x.com/KanekoaTheGreat/status/2123242707560857836
+4. Why Ship 42 zigzagged home, and a $2.50/kg propellant floor
+   https://x.com/elonmusk/status/2123159371119280372
+5. OpenAI's models redesign AMD's flagship GPU
+   https://x.com/OpenAI/status/2123100386638877054
+6. How AI is changing research inside OpenAI
+   https://x.com/OpenAI/status/2123191365983248653
+7. Google's Neon: the middle model built for work
+   https://x.com/sundarpichai/status/2123167780988125621
+8. Genie 4: worlds you can rewrite while standing in them
+   https://x.com/GoogleDeepMind/status/2123117733709586849
+9. Own your model: Prime Intellect's Model Factory and Palo Alto buys Applied Compute
+   https://x.com/PrimeIntellect/status/2123207653530972470
+10. ChatGPT for Accounting
+   https://x.com/ChatGPT/status/2123159134963196357
+11. Seabed Sentry in a Scottish loch
+   https://x.com/PalmerLuckey/status/2123190774045319201
+12. The machine that sewed the Tin Blimp
+   https://x.com/aviationarchive/status/2123166851484315668
+13. SSH into DOS: the Farcall emulator
+   https://x.com/adafruit/status/2123075382278795275
+14. Pi hiding in Pascal's triangle
+   https://x.com/mathelirium/status/2123174841645703498
+15. NGC 604, a nebula that would fill a third of the sky
+   https://x.com/AJamesMcCarthy/status/2123256295922999678
+
+Signals:
+- Elon Musk replies 'Interesting' to a broker saying far more B300 nodes sit unsold than people think, as Datasection cuts guidance 89%: a secondary market in top-end GPUs (medium).
+- SpaceX designs a rooftop micro cell tower for Starlink Mobile using its 800 MHz spectrum, production expected next year: a satellite operator becoming a neighborhood carrier (medium-high on intent).
+- X converts all unencrypted text conversations to encrypted XChat on Friday: encryption as the default layer under payments and agents (medium).
+- A DOE sentry turret labeled 'High Consequence Automation,' the name of Sandia's robotics group: armed-autonomy lab vocabulary going public (low).
+- Rocket Lab sets up Long Beach to ship one Archimedes engine every eight days: production cadence as the metric for the next reusable rocket (medium).]]></itunes:summary><content:encoded><![CDATA[<p>Voyager 1 reaches one light-day, Anthropic goes public under fire from both flanks, models redesign AMD&#x27;s GPU, Google&#x27;s worlds learn to talk, and a robot that sewed an airship.</p><p><a href="https://chrisremboldt.github.io/taste-daily/notes/2026-11-19.html">Full show notes: every story and Signal, with all links</a></p><ol><li><strong>Voyager 1 reaches one light-day</strong> <a href="https://x.com/MKBHD/status/2123059889689772286">@MKBHD</a></li><li><strong>Anthropic prices the biggest IPO ever, and the MisAnthropic Statement</strong> <a href="https://x.com/AnthropicAI/status/2123196808675405860">@AnthropicAI</a></li><li><strong>StarMind, ten gigawatts for Anthropic, and Nadella would lease</strong> <a href="https://x.com/KanekoaTheGreat/status/2123242707560857836">@KanekoaTheGreat</a></li><li><strong>Why Ship 42 zigzagged home, and a $2.50/kg propellant floor</strong> <a href="https://x.com/elonmusk/status/2123159371119280372">@elonmusk</a></li><li><strong>OpenAI&#x27;s models redesign AMD&#x27;s flagship GPU</strong> <a href="https://x.com/OpenAI/status/2123100386638877054">@OpenAI</a></li><li><strong>How AI is changing research inside OpenAI</strong> <a href="https://x.com/OpenAI/status/2123191365983248653">@OpenAI</a></li><li><strong>Google&#x27;s Neon: the middle model built for work</strong> <a href="https://x.com/sundarpichai/status/2123167780988125621">@sundarpichai</a></li><li><strong>Genie 4: worlds you can rewrite while standing in them</strong> <a href="https://x.com/GoogleDeepMind/status/2123117733709586849">@GoogleDeepMind</a></li><li><strong>Own your model: Prime Intellect&#x27;s Model Factory and Palo Alto buys Applied Compute</strong> <a href="https://x.com/PrimeIntellect/status/2123207653530972470">@PrimeIntellect</a></li><li><strong>ChatGPT for Accounting</strong> <a href="https://x.com/ChatGPT/status/2123159134963196357">@ChatGPT</a></li><li><strong>Seabed Sentry in a Scottish loch</strong> <a href="https://x.com/PalmerLuckey/status/2123190774045319201">@PalmerLuckey</a></li><li><strong>The machine that sewed the Tin Blimp</strong> <a href="https://x.com/aviationarchive/status/2123166851484315668">@aviationarchive</a></li><li><strong>SSH into DOS: the Farcall emulator</strong> <a href="https://x.com/adafruit/status/2123075382278795275">@adafruit</a></li><li><strong>Pi hiding in Pascal&#x27;s triangle</strong> <a href="https://x.com/mathelirium/status/2123174841645703498">@mathelirium</a></li><li><strong>NGC 604, a nebula that would fill a third of the sky</strong> <a href="https://x.com/AJamesMcCarthy/status/2123256295922999678">@AJamesMcCarthy</a></li></ol><p><strong>Signals</strong></p><ul><li>Elon Musk replies &#x27;Interesting&#x27; to a broker saying far more B300 nodes sit unsold than people think, as Datasection cuts guidance 89%: a secondary market in top-end GPUs (medium).</li><li>SpaceX designs a rooftop micro cell tower for Starlink Mobile using its 800 MHz spectrum, production expected next year: a satellite operator becoming a neighborhood carrier (medium-high on intent).</li><li>X converts all unencrypted text conversations to encrypted XChat on Friday: encryption as the default layer under payments and agents (medium).</li><li>A DOE sentry turret labeled &#x27;High Consequence Automation,&#x27; the name of Sandia&#x27;s robotics group: armed-autonomy lab vocabulary going public (low).</li><li>Rocket Lab sets up Long Beach to ship one Archimedes engine every eight days: production cadence as the metric for the next reusable rocket (medium).</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-11-19.mp3" length="28364007" type="audio/mpeg"/><guid isPermaLink="false">ce4db4ce-4fb8-50e6-b14f-373c3eb64c16</guid>
+   <pubDate>Thu, 19 Nov 2026 06:00:00 -0500</pubDate><itunes:duration>1772</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we let the superintelligence run the kitchen for seven weeks, and it only tastes the soup when the numbers refresh</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-18.html</link><description><![CDATA[An agent runs a company in sixteen minutes a day, OpenAI's divisive launch, a substation in a box, drone dinners in Texas and a thousand-year city at sea.
 
 Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-18.html
