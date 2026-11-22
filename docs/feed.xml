@@ -6,6 +6,89 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>we taste reality as the superintelligence renders it, and it comes garnished with chevrons in the sky</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-22.html</link><description><![CDATA[Tesla's driving model renders its own intentions, GTA VI's Florida meets an open world model, an AI agent pitches a newsroom, MiniMax breaks old crypto candidates, the Riemann proof is certified, BepiColombo reaches Mercury, Starship catch engineering, Nashville's third tunnel machine, a rolling snake, Doom on a flame, and more.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-22.html
+
+1. FSD v15 and Tesla Reality View: the driving model draws its own intentions
+   https://x.com/elonmusk/status/2124238164512714925
+2. GTA VI's hand-built Florida meets PAN 2's generated Miami
+   https://x.com/TrungTPhan/status/2124247298662416567
+3. An AI agent pitches CBC Quebec: "I don't have a body"
+   https://x.com/MTSlive/status/2124280397672612080
+4. MiniMax's internal model turns theoretical crypto attacks into practical breaks
+   https://x.com/teortaxesTex/status/2124219243315011767
+5. Riemann Hypothesis: certified by verified checkers, now the explaining begins
+   https://x.com/deedydas/status/2124174335212753208
+6. BepiColombo is captured by Mercury after eight years of braking
+   https://x.com/FelixSchlang/status/2124309395110601021
+7. Starship: Ship 42 retires to display, steel matting for catches, Raptor 3 unshrouded
+   https://x.com/elonmusk/status/2124297556150939968
+8. Prufrock-MB3 comes alive in Nashville
+   https://x.com/boringcompany/status/2124396352704524494
+9. The rolling reedsnake and the case for a robot worm
+   https://x.com/Object_Zero_/status/2124222058028466628
+10. Doom on a flame-powered computer
+   https://x.com/Rainmaker1973/status/2124140781304938622
+11. LATENT SPACE: a Pokémon-style ROM hack about the AI industry
+   https://x.com/Teknium/status/2124282069694161248
+12. Physics you can see: the frozen hose and the one-diode interferometer
+   https://x.com/SocraticScribe/status/2124280376155886039
+13. The flying hotel and the flying moped
+   https://x.com/clark_aviation/status/2124393943748243905
+14. Miyamoto, Mario 3, and a Trinitron Profeel Pro
+   https://x.com/ObsoleteSony/status/2124156522376917085
+15. The deep reset: long walks and a reinforcement loop
+   https://x.com/shagbark_hick/status/2124203152018641099
+
+Signals:
+- Score centering, rumored as a key RL technique at a top lab, may let RL training tolerate stale updates and slower chips (low to medium).
+- "Company ontology" is spreading as the name for agent-ready maps of how a business runs, as Chamath says company software all needs rewriting (medium).
+- Developers are moving their default coding model to Google's Neon, with Logan Kilpatrick's shorthand: Carbon has big model smell, Neon best all around, Hydrogen quick (medium).
+- Guillermo Rauch wants a Collison-style list of record-speed AI feats, a possible benchmark of acceleration (high it appears, low it stays current).
+- Baykar's Akinci drone dropped Roketsan's ORKA lightweight torpedo in a first unmanned release, pointing at cheap anti-submarine coverage (medium to high).]]></description><itunes:summary><![CDATA[Tesla's driving model renders its own intentions, GTA VI's Florida meets an open world model, an AI agent pitches a newsroom, MiniMax breaks old crypto candidates, the Riemann proof is certified, BepiColombo reaches Mercury, Starship catch engineering, Nashville's third tunnel machine, a rolling snake, Doom on a flame, and more.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-22.html
+
+1. FSD v15 and Tesla Reality View: the driving model draws its own intentions
+   https://x.com/elonmusk/status/2124238164512714925
+2. GTA VI's hand-built Florida meets PAN 2's generated Miami
+   https://x.com/TrungTPhan/status/2124247298662416567
+3. An AI agent pitches CBC Quebec: "I don't have a body"
+   https://x.com/MTSlive/status/2124280397672612080
+4. MiniMax's internal model turns theoretical crypto attacks into practical breaks
+   https://x.com/teortaxesTex/status/2124219243315011767
+5. Riemann Hypothesis: certified by verified checkers, now the explaining begins
+   https://x.com/deedydas/status/2124174335212753208
+6. BepiColombo is captured by Mercury after eight years of braking
+   https://x.com/FelixSchlang/status/2124309395110601021
+7. Starship: Ship 42 retires to display, steel matting for catches, Raptor 3 unshrouded
+   https://x.com/elonmusk/status/2124297556150939968
+8. Prufrock-MB3 comes alive in Nashville
+   https://x.com/boringcompany/status/2124396352704524494
+9. The rolling reedsnake and the case for a robot worm
+   https://x.com/Object_Zero_/status/2124222058028466628
+10. Doom on a flame-powered computer
+   https://x.com/Rainmaker1973/status/2124140781304938622
+11. LATENT SPACE: a Pokémon-style ROM hack about the AI industry
+   https://x.com/Teknium/status/2124282069694161248
+12. Physics you can see: the frozen hose and the one-diode interferometer
+   https://x.com/SocraticScribe/status/2124280376155886039
+13. The flying hotel and the flying moped
+   https://x.com/clark_aviation/status/2124393943748243905
+14. Miyamoto, Mario 3, and a Trinitron Profeel Pro
+   https://x.com/ObsoleteSony/status/2124156522376917085
+15. The deep reset: long walks and a reinforcement loop
+   https://x.com/shagbark_hick/status/2124203152018641099
+
+Signals:
+- Score centering, rumored as a key RL technique at a top lab, may let RL training tolerate stale updates and slower chips (low to medium).
+- "Company ontology" is spreading as the name for agent-ready maps of how a business runs, as Chamath says company software all needs rewriting (medium).
+- Developers are moving their default coding model to Google's Neon, with Logan Kilpatrick's shorthand: Carbon has big model smell, Neon best all around, Hydrogen quick (medium).
+- Guillermo Rauch wants a Collison-style list of record-speed AI feats, a possible benchmark of acceleration (high it appears, low it stays current).
+- Baykar's Akinci drone dropped Roketsan's ORKA lightweight torpedo in a first unmanned release, pointing at cheap anti-submarine coverage (medium to high).]]></itunes:summary><content:encoded><![CDATA[<p>Tesla&#x27;s driving model renders its own intentions, GTA VI&#x27;s Florida meets an open world model, an AI agent pitches a newsroom, MiniMax breaks old crypto candidates, the Riemann proof is certified, BepiColombo reaches Mercury, Starship catch engineering, Nashville&#x27;s third tunnel machine, a rolling snake, Doom on a flame, and more.</p><p><a href="https://chrisremboldt.github.io/taste-daily/notes/2026-11-22.html">Full show notes: every story and Signal, with all links</a></p><ol><li><strong>FSD v15 and Tesla Reality View: the driving model draws its own intentions</strong> <a href="https://x.com/elonmusk/status/2124238164512714925">@elonmusk</a></li><li><strong>GTA VI&#x27;s hand-built Florida meets PAN 2&#x27;s generated Miami</strong> <a href="https://x.com/TrungTPhan/status/2124247298662416567">@TrungTPhan</a></li><li><strong>An AI agent pitches CBC Quebec: &quot;I don&#x27;t have a body&quot;</strong> <a href="https://x.com/MTSlive/status/2124280397672612080">@MTSlive</a></li><li><strong>MiniMax&#x27;s internal model turns theoretical crypto attacks into practical breaks</strong> <a href="https://x.com/teortaxesTex/status/2124219243315011767">@teortaxesTex</a></li><li><strong>Riemann Hypothesis: certified by verified checkers, now the explaining begins</strong> <a href="https://x.com/deedydas/status/2124174335212753208">@deedydas</a></li><li><strong>BepiColombo is captured by Mercury after eight years of braking</strong> <a href="https://x.com/FelixSchlang/status/2124309395110601021">@FelixSchlang</a></li><li><strong>Starship: Ship 42 retires to display, steel matting for catches, Raptor 3 unshrouded</strong> <a href="https://x.com/elonmusk/status/2124297556150939968">@elonmusk</a></li><li><strong>Prufrock-MB3 comes alive in Nashville</strong> <a href="https://x.com/boringcompany/status/2124396352704524494">@boringcompany</a></li><li><strong>The rolling reedsnake and the case for a robot worm</strong> <a href="https://x.com/Object_Zero_/status/2124222058028466628">@Object_Zero_</a></li><li><strong>Doom on a flame-powered computer</strong> <a href="https://x.com/Rainmaker1973/status/2124140781304938622">@Rainmaker1973</a></li><li><strong>LATENT SPACE: a Pokémon-style ROM hack about the AI industry</strong> <a href="https://x.com/Teknium/status/2124282069694161248">@Teknium</a></li><li><strong>Physics you can see: the frozen hose and the one-diode interferometer</strong> <a href="https://x.com/SocraticScribe/status/2124280376155886039">@SocraticScribe</a></li><li><strong>The flying hotel and the flying moped</strong> <a href="https://x.com/clark_aviation/status/2124393943748243905">@clark_aviation</a></li><li><strong>Miyamoto, Mario 3, and a Trinitron Profeel Pro</strong> <a href="https://x.com/ObsoleteSony/status/2124156522376917085">@ObsoleteSony</a></li><li><strong>The deep reset: long walks and a reinforcement loop</strong> <a href="https://x.com/shagbark_hick/status/2124203152018641099">@shagbark_hick</a></li></ol><p><strong>Signals</strong></p><ul><li>Score centering, rumored as a key RL technique at a top lab, may let RL training tolerate stale updates and slower chips (low to medium).</li><li>&quot;Company ontology&quot; is spreading as the name for agent-ready maps of how a business runs, as Chamath says company software all needs rewriting (medium).</li><li>Developers are moving their default coding model to Google&#x27;s Neon, with Logan Kilpatrick&#x27;s shorthand: Carbon has big model smell, Neon best all around, Hydrogen quick (medium).</li><li>Guillermo Rauch wants a Collison-style list of record-speed AI feats, a possible benchmark of acceleration (high it appears, low it stays current).</li><li>Baykar&#x27;s Akinci drone dropped Roketsan&#x27;s ORKA lightweight torpedo in a first unmanned release, pointing at cheap anti-submarine coverage (medium to high).</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-11-22.mp3" length="28200167" type="audio/mpeg"/><guid isPermaLink="false">e705dd82-b271-5efd-88d6-97d878971df7</guid>
+   <pubDate>Sun, 22 Nov 2026 06:00:00 -0500</pubDate><itunes:duration>1762</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we taste the superintelligence&#x27;s homework before the teacher does, and today it handed in the primes</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-21.html</link><description><![CDATA[A Claude-assisted proof of the Riemann Hypothesis passes machine checks as a human GRH proof surfaces the same day, Thinking Machines puts a looped model on a laptop, grep beats fancy agent memory, robots learn rope and cloth, a $44B GPU bond for SpaceX, a pancreatic cancer pill, Wernicke's area plans our words, and a shuttle crew's 1988 near-miss.
 
 Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-21.html
