@@ -6,6 +6,83 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>we taste the superintelligence&#x27;s proofs before a single mathematician has checked the seasoning</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-24.html</link><description><![CDATA[A claimed machine proof of Valiant's 1979 conjecture, research taste as a compute multiplier, a theorem prover that found two missing Mario A presses, live kernel shields for agents, a kite sled on the Antarctic plateau, and the first computer-animated cat.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-24.html
+
+1. Claude-discovered proof claims VP ≠ VNP over every field
+   https://x.com/MTSlive/status/2125021498545172963
+2. Research taste, measured: TasteVal and SnyderBench
+   https://x.com/pzeroresearch/status/2124973722989957377
+3. A theorem prover finds two A presses in Super Mario 64
+   https://x.com/mgostIH/status/2124819572821807173
+4. Shirudo: signed eBPF shields for running Linux systems
+   https://x.com/OpenAI/status/2124980590717911527
+5. Desktops for agent work: Spaceman and herdr
+   https://x.com/kitlangton/status/2124929281352671499
+6. Anthropic's "Working with AI": value comes from reorganizing
+   https://x.com/emollick/status/2125098309928812898
+7. GPT-5.6 retirement and the question of model identity
+   https://x.com/ChatGPT/status/2124981905380569283
+8. Embo's world-model robot brain, and the moved-table test
+   https://x.com/danijar/status/2124911019562811820
+9. Hadrian's million-square-foot San Francisco factory
+   https://x.com/2112Power/status/2124902439535137240
+10. Andrew McCarthy's video of the first Starship ship catch
+   https://x.com/AJamesMcCarthy/status/2124887397037216215
+11. The Wind Sled crosses the Antarctic plateau
+   https://x.com/RamonLarramendi/status/2124846851299975486
+12. Koshechka (1968), the first computer-animated cat
+   https://x.com/Rainmaker1973/status/2125050520180322406
+13. Land of Giants: pylons as striding figures
+   https://x.com/Rainmaker1973/status/2125117209689133474
+14. Fred Lyon's San Francisco Noir
+   https://x.com/thomashawk/status/2125019191313080528
+
+Signals:
+- Elon answers a claim that xAI undervalues researchers: "The researcher/engineer divide is a false dichotomy. Work on the limiting factor." Possible recruiting stance in the talent war (moderate).
+- X adds structured work experience to profiles for all users: the professional graph moving onto X (high on direction).
+- Nathan Lambert: interpretable chain of thought is an inefficiency that optimization will remove, with looped architectures the first step (moderate).
+- Epoch AI rates one of four reviewed benchmarks Verified; Lucas Beyer notes the good one came from a shitpost account, hinting eval credibility is shifting to outsiders (low to moderate).]]></description><itunes:summary><![CDATA[A claimed machine proof of Valiant's 1979 conjecture, research taste as a compute multiplier, a theorem prover that found two missing Mario A presses, live kernel shields for agents, a kite sled on the Antarctic plateau, and the first computer-animated cat.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-24.html
+
+1. Claude-discovered proof claims VP ≠ VNP over every field
+   https://x.com/MTSlive/status/2125021498545172963
+2. Research taste, measured: TasteVal and SnyderBench
+   https://x.com/pzeroresearch/status/2124973722989957377
+3. A theorem prover finds two A presses in Super Mario 64
+   https://x.com/mgostIH/status/2124819572821807173
+4. Shirudo: signed eBPF shields for running Linux systems
+   https://x.com/OpenAI/status/2124980590717911527
+5. Desktops for agent work: Spaceman and herdr
+   https://x.com/kitlangton/status/2124929281352671499
+6. Anthropic's "Working with AI": value comes from reorganizing
+   https://x.com/emollick/status/2125098309928812898
+7. GPT-5.6 retirement and the question of model identity
+   https://x.com/ChatGPT/status/2124981905380569283
+8. Embo's world-model robot brain, and the moved-table test
+   https://x.com/danijar/status/2124911019562811820
+9. Hadrian's million-square-foot San Francisco factory
+   https://x.com/2112Power/status/2124902439535137240
+10. Andrew McCarthy's video of the first Starship ship catch
+   https://x.com/AJamesMcCarthy/status/2124887397037216215
+11. The Wind Sled crosses the Antarctic plateau
+   https://x.com/RamonLarramendi/status/2124846851299975486
+12. Koshechka (1968), the first computer-animated cat
+   https://x.com/Rainmaker1973/status/2125050520180322406
+13. Land of Giants: pylons as striding figures
+   https://x.com/Rainmaker1973/status/2125117209689133474
+14. Fred Lyon's San Francisco Noir
+   https://x.com/thomashawk/status/2125019191313080528
+
+Signals:
+- Elon answers a claim that xAI undervalues researchers: "The researcher/engineer divide is a false dichotomy. Work on the limiting factor." Possible recruiting stance in the talent war (moderate).
+- X adds structured work experience to profiles for all users: the professional graph moving onto X (high on direction).
+- Nathan Lambert: interpretable chain of thought is an inefficiency that optimization will remove, with looped architectures the first step (moderate).
+- Epoch AI rates one of four reviewed benchmarks Verified; Lucas Beyer notes the good one came from a shitpost account, hinting eval credibility is shifting to outsiders (low to moderate).]]></itunes:summary><content:encoded><![CDATA[<p>A claimed machine proof of Valiant&#x27;s 1979 conjecture, research taste as a compute multiplier, a theorem prover that found two missing Mario A presses, live kernel shields for agents, a kite sled on the Antarctic plateau, and the first computer-animated cat.</p><p><a href="https://chrisremboldt.github.io/taste-daily/notes/2026-11-24.html">Full show notes: every story and Signal, with all links</a></p><ol><li><strong>Claude-discovered proof claims VP ≠ VNP over every field</strong> <a href="https://x.com/MTSlive/status/2125021498545172963">@MTSlive</a></li><li><strong>Research taste, measured: TasteVal and SnyderBench</strong> <a href="https://x.com/pzeroresearch/status/2124973722989957377">@pzeroresearch</a></li><li><strong>A theorem prover finds two A presses in Super Mario 64</strong> <a href="https://x.com/mgostIH/status/2124819572821807173">@mgostIH</a></li><li><strong>Shirudo: signed eBPF shields for running Linux systems</strong> <a href="https://x.com/OpenAI/status/2124980590717911527">@OpenAI</a></li><li><strong>Desktops for agent work: Spaceman and herdr</strong> <a href="https://x.com/kitlangton/status/2124929281352671499">@kitlangton</a></li><li><strong>Anthropic&#x27;s &quot;Working with AI&quot;: value comes from reorganizing</strong> <a href="https://x.com/emollick/status/2125098309928812898">@emollick</a></li><li><strong>GPT-5.6 retirement and the question of model identity</strong> <a href="https://x.com/ChatGPT/status/2124981905380569283">@ChatGPT</a></li><li><strong>Embo&#x27;s world-model robot brain, and the moved-table test</strong> <a href="https://x.com/danijar/status/2124911019562811820">@danijar</a></li><li><strong>Hadrian&#x27;s million-square-foot San Francisco factory</strong> <a href="https://x.com/2112Power/status/2124902439535137240">@2112Power</a></li><li><strong>Andrew McCarthy&#x27;s video of the first Starship ship catch</strong> <a href="https://x.com/AJamesMcCarthy/status/2124887397037216215">@AJamesMcCarthy</a></li><li><strong>The Wind Sled crosses the Antarctic plateau</strong> <a href="https://x.com/RamonLarramendi/status/2124846851299975486">@RamonLarramendi</a></li><li><strong>Koshechka (1968), the first computer-animated cat</strong> <a href="https://x.com/Rainmaker1973/status/2125050520180322406">@Rainmaker1973</a></li><li><strong>Land of Giants: pylons as striding figures</strong> <a href="https://x.com/Rainmaker1973/status/2125117209689133474">@Rainmaker1973</a></li><li><strong>Fred Lyon&#x27;s San Francisco Noir</strong> <a href="https://x.com/thomashawk/status/2125019191313080528">@thomashawk</a></li></ol><p><strong>Signals</strong></p><ul><li>Elon answers a claim that xAI undervalues researchers: &quot;The researcher/engineer divide is a false dichotomy. Work on the limiting factor.&quot; Possible recruiting stance in the talent war (moderate).</li><li>X adds structured work experience to profiles for all users: the professional graph moving onto X (high on direction).</li><li>Nathan Lambert: interpretable chain of thought is an inefficiency that optimization will remove, with looped architectures the first step (moderate).</li><li>Epoch AI rates one of four reviewed benchmarks Verified; Lucas Beyer notes the good one came from a shitpost account, hinting eval credibility is shifting to outsiders (low to moderate).</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-11-24.mp3" length="28456794" type="audio/mpeg"/><guid isPermaLink="false">249caf6b-3f86-5dd6-b539-79eff9c1096a</guid>
+   <pubDate>Tue, 24 Nov 2026 06:00:00 -0500</pubDate><itunes:duration>1778</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we read the superintelligence&#x27;s tasting notes, and every vintage is a little less perplexed</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-23.html</link><description><![CDATA[An AI lab publishes its loss curve and proposes shared limits, an agent swarm locks out its own cofounder, Prometheus re-derives the Mars helicopter, sea drones reach Libya, and a trackpad learns to talk.
 
 Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-23.html
