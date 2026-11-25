@@ -6,6 +6,85 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>we taste the superintelligence&#x27;s arithmetic, and it comes seasoned to exactly two and a quarter</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-25.html</link><description><![CDATA[A model names the artist of a 200-year-old sketchbook, a claimed proof that the matrix multiplication exponent is exactly 9/4, amateur planet hunters, desktop apps from a sentence, joules per token, Boom's first engine core, fuel from air at Muroc, and the moon setting behind the Earth.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-25.html
+
+1. A model names the artist of an anonymous 1808 sketchbook in 22 minutes
+   https://x.com/emollick/status/2125245031842042301
+2. OpenAI claims the matrix multiplication exponent is exactly 9/4
+   https://x.com/deedydas/status/2125445769629204816
+3. Two amateur astronomers hunt planets with coding agents
+   https://x.com/OpenAI/status/2125305606685053416
+4. Claude artifacts become installable desktop apps
+   https://x.com/ClaudeDevs/status/2125315491522650299
+5. Naveen Rao's Unconventional AI and joules per token
+   https://x.com/SemiAnalysis_/status/2125371388743565562
+6. Boom Supersonic lights its first engine core
+   https://x.com/ycombinator/status/2125245555978928381
+7. Terraform Industries activates its Muroc desert test site
+   https://x.com/CJHandmer/status/2125399470280167751
+8. SpaceX turns down $738M in broadband subsidies; Starlink reaches 30 African countries
+   https://x.com/SawyerMerritt/status/2125314062997467640
+9. Mayhem Mobile puts a radio workbench on a phone
+   https://x.com/thenewarea51/status/2125353253990789524
+10. Steven Pinker's 13,000 words on AI risk
+   https://x.com/clairelehmann/status/2124976921134215674
+11. Syd Mead and the energy-company annual report
+   https://x.com/HumanoidHistory/status/2125466155649548328
+12. Dunes in a browser and music from a strange attractor
+   https://x.com/akella/status/2125510318558257210
+13. Swinging the compass on a Bf 110
+   https://x.com/clark_aviation/status/2125476577563885593
+14. Moonset from the space station
+   https://x.com/astro_anil/status/2125230119610441749
+
+Signals:
+- Thariq Shihipar, reported weeks ago to have left the Claude Code team, has joined OpenAI. Coding-agent builders follow the harness war; moderate confidence.
+- John Schulman reposts a hire joining Thinking Machines 'to shape model behavior, alignment, and character.' Character as a job title spreads beyond one lab; medium confidence.
+- Beff Jezos: ICs are now 'model token capital allocators.' Watch whether the phrase reaches job posts; low to medium confidence.
+- Elon Musk starts following two Polish logicians, including OpenAI's chief scientist. Follows are cheap; low confidence.
+- Two 53-digit counterexamples posted as a one-line disproof of the 'Caiolo–Ferroni–Hoster conjecture.' Unverified claim; the format is the signal.]]></description><itunes:summary><![CDATA[A model names the artist of a 200-year-old sketchbook, a claimed proof that the matrix multiplication exponent is exactly 9/4, amateur planet hunters, desktop apps from a sentence, joules per token, Boom's first engine core, fuel from air at Muroc, and the moon setting behind the Earth.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-25.html
+
+1. A model names the artist of an anonymous 1808 sketchbook in 22 minutes
+   https://x.com/emollick/status/2125245031842042301
+2. OpenAI claims the matrix multiplication exponent is exactly 9/4
+   https://x.com/deedydas/status/2125445769629204816
+3. Two amateur astronomers hunt planets with coding agents
+   https://x.com/OpenAI/status/2125305606685053416
+4. Claude artifacts become installable desktop apps
+   https://x.com/ClaudeDevs/status/2125315491522650299
+5. Naveen Rao's Unconventional AI and joules per token
+   https://x.com/SemiAnalysis_/status/2125371388743565562
+6. Boom Supersonic lights its first engine core
+   https://x.com/ycombinator/status/2125245555978928381
+7. Terraform Industries activates its Muroc desert test site
+   https://x.com/CJHandmer/status/2125399470280167751
+8. SpaceX turns down $738M in broadband subsidies; Starlink reaches 30 African countries
+   https://x.com/SawyerMerritt/status/2125314062997467640
+9. Mayhem Mobile puts a radio workbench on a phone
+   https://x.com/thenewarea51/status/2125353253990789524
+10. Steven Pinker's 13,000 words on AI risk
+   https://x.com/clairelehmann/status/2124976921134215674
+11. Syd Mead and the energy-company annual report
+   https://x.com/HumanoidHistory/status/2125466155649548328
+12. Dunes in a browser and music from a strange attractor
+   https://x.com/akella/status/2125510318558257210
+13. Swinging the compass on a Bf 110
+   https://x.com/clark_aviation/status/2125476577563885593
+14. Moonset from the space station
+   https://x.com/astro_anil/status/2125230119610441749
+
+Signals:
+- Thariq Shihipar, reported weeks ago to have left the Claude Code team, has joined OpenAI. Coding-agent builders follow the harness war; moderate confidence.
+- John Schulman reposts a hire joining Thinking Machines 'to shape model behavior, alignment, and character.' Character as a job title spreads beyond one lab; medium confidence.
+- Beff Jezos: ICs are now 'model token capital allocators.' Watch whether the phrase reaches job posts; low to medium confidence.
+- Elon Musk starts following two Polish logicians, including OpenAI's chief scientist. Follows are cheap; low confidence.
+- Two 53-digit counterexamples posted as a one-line disproof of the 'Caiolo–Ferroni–Hoster conjecture.' Unverified claim; the format is the signal.]]></itunes:summary><content:encoded><![CDATA[<p>A model names the artist of a 200-year-old sketchbook, a claimed proof that the matrix multiplication exponent is exactly 9/4, amateur planet hunters, desktop apps from a sentence, joules per token, Boom&#x27;s first engine core, fuel from air at Muroc, and the moon setting behind the Earth.</p><p><a href="https://chrisremboldt.github.io/taste-daily/notes/2026-11-25.html">Full show notes: every story and Signal, with all links</a></p><ol><li><strong>A model names the artist of an anonymous 1808 sketchbook in 22 minutes</strong> <a href="https://x.com/emollick/status/2125245031842042301">@emollick</a></li><li><strong>OpenAI claims the matrix multiplication exponent is exactly 9/4</strong> <a href="https://x.com/deedydas/status/2125445769629204816">@deedydas</a></li><li><strong>Two amateur astronomers hunt planets with coding agents</strong> <a href="https://x.com/OpenAI/status/2125305606685053416">@OpenAI</a></li><li><strong>Claude artifacts become installable desktop apps</strong> <a href="https://x.com/ClaudeDevs/status/2125315491522650299">@ClaudeDevs</a></li><li><strong>Naveen Rao&#x27;s Unconventional AI and joules per token</strong> <a href="https://x.com/SemiAnalysis_/status/2125371388743565562">@SemiAnalysis_</a></li><li><strong>Boom Supersonic lights its first engine core</strong> <a href="https://x.com/ycombinator/status/2125245555978928381">@ycombinator</a></li><li><strong>Terraform Industries activates its Muroc desert test site</strong> <a href="https://x.com/CJHandmer/status/2125399470280167751">@CJHandmer</a></li><li><strong>SpaceX turns down $738M in broadband subsidies; Starlink reaches 30 African countries</strong> <a href="https://x.com/SawyerMerritt/status/2125314062997467640">@SawyerMerritt</a></li><li><strong>Mayhem Mobile puts a radio workbench on a phone</strong> <a href="https://x.com/thenewarea51/status/2125353253990789524">@thenewarea51</a></li><li><strong>Steven Pinker&#x27;s 13,000 words on AI risk</strong> <a href="https://x.com/clairelehmann/status/2124976921134215674">@clairelehmann</a></li><li><strong>Syd Mead and the energy-company annual report</strong> <a href="https://x.com/HumanoidHistory/status/2125466155649548328">@HumanoidHistory</a></li><li><strong>Dunes in a browser and music from a strange attractor</strong> <a href="https://x.com/akella/status/2125510318558257210">@akella</a></li><li><strong>Swinging the compass on a Bf 110</strong> <a href="https://x.com/clark_aviation/status/2125476577563885593">@clark_aviation</a></li><li><strong>Moonset from the space station</strong> <a href="https://x.com/astro_anil/status/2125230119610441749">@astro_anil</a></li></ol><p><strong>Signals</strong></p><ul><li>Thariq Shihipar, reported weeks ago to have left the Claude Code team, has joined OpenAI. Coding-agent builders follow the harness war; moderate confidence.</li><li>John Schulman reposts a hire joining Thinking Machines &#x27;to shape model behavior, alignment, and character.&#x27; Character as a job title spreads beyond one lab; medium confidence.</li><li>Beff Jezos: ICs are now &#x27;model token capital allocators.&#x27; Watch whether the phrase reaches job posts; low to medium confidence.</li><li>Elon Musk starts following two Polish logicians, including OpenAI&#x27;s chief scientist. Follows are cheap; low confidence.</li><li>Two 53-digit counterexamples posted as a one-line disproof of the &#x27;Caiolo–Ferroni–Hoster conjecture.&#x27; Unverified claim; the format is the signal.</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-11-25.mp3" length="28129114" type="audio/mpeg"/><guid isPermaLink="false">f410b755-5eb7-579e-b497-4ab8b5591075</guid>
+   <pubDate>Wed, 25 Nov 2026 06:00:00 -0500</pubDate><itunes:duration>1758</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we taste the superintelligence&#x27;s proofs before a single mathematician has checked the seasoning</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-24.html</link><description><![CDATA[A claimed machine proof of Valiant's 1979 conjecture, research taste as a compute multiplier, a theorem prover that found two missing Mario A presses, live kernel shields for agents, a kite sled on the Antarctic plateau, and the first computer-animated cat.
 
 Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-24.html
