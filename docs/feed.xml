@@ -6,6 +6,89 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>we taste the superintelligence&#x27;s Thanksgiving leftovers, and somehow it made a playable country out of them</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-27.html</link><description><![CDATA[Thanksgiving leftovers: a Civilization-style map of the real United States, a 1994 Jeep that learned to talk, a proposed reading of the Indus script, Tesla's move on a German gear-machine maker, and a model's last day online.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-27.html
+
+1. Karpathy's usaciv: the real US as a Civilization map
+   https://x.com/karpathy/status/2125779541952246039
+2. A 1994 Jeep's engine computer, read and driven with a $3 chip
+   https://x.com/gregisenberg/status/2126004403052445733
+3. A 3,533-Elo chess engine for about $50
+   https://x.com/deedydas/status/2126140365208224057
+4. Microsoft: how much do coding agents over-edit?
+   https://x.com/dair_ai/status/2125964299227242769
+5. A proposed partial reading of the Indus script
+   https://x.com/jaravis/status/2125302028062822491
+6. Emad Mostaque derives free-field quantum structure from one axiom
+   https://x.com/EMostaque/status/2126045673581957242
+7. Tesla files to acquire EMAG, maker of robot-joint gear machines
+   https://x.com/Simoncuocuo/status/2125814643931431137
+8. SpaceX wants AI to redesign Starship's circuit boards
+   https://x.com/FelixSchlang/status/2126029259042865335
+9. Paul traps and colliding "trapnados"
+   https://x.com/SocraticScribe/status/2125952002870198546
+10. A forecast for space jellyfish
+   https://x.com/spacejellyalert/status/2126106134968766655
+11. Two kitchens of the future
+   https://x.com/HumanoidHistory/status/2126108134754439257
+12. The Coléoptère's tilting seat
+   https://x.com/AviationMarlene/status/2125900469977383081
+13. A procedural Amiens Cathedral in 980 KB
+   https://x.com/mrdoob/status/2126203332708721102
+14. Claude 3 Sonnet's last day
+   https://x.com/euagaric/status/2126215377826799849
+15. Neuralink's Patient 3 demonetized by YouTube
+   https://x.com/ALScyborg/status/2126040444983443595
+
+Signals:
+- roon praises a closed lab culture where "nothing ever leaks" and points at OpenAI's weakness: lab culture as competitive weapon (low-medium).
+- Richard Ngo frames OpenAI and Anthropic as power-seeking coalitions of humans and AIs drifting toward AI control: a new alignment vocabulary (medium).
+- Elon Musk pledges an annual share gift to every American kid, a recurring dividend to a generation as a philanthropy template (medium).
+- tinygrad offers free Qwen 3.8 Flash and GLM 5.3 Flash tokens as a test of its inference service on AMD tinybox reds: non-Nvidia token supply from the bottom (medium-low).
+- Mitchell Hashimoto's Superlogical ships Rex for iPhone, a pocket client for terminal sessions and coding agents: the phone as agent approval console (medium-high).]]></description><itunes:summary><![CDATA[Thanksgiving leftovers: a Civilization-style map of the real United States, a 1994 Jeep that learned to talk, a proposed reading of the Indus script, Tesla's move on a German gear-machine maker, and a model's last day online.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-27.html
+
+1. Karpathy's usaciv: the real US as a Civilization map
+   https://x.com/karpathy/status/2125779541952246039
+2. A 1994 Jeep's engine computer, read and driven with a $3 chip
+   https://x.com/gregisenberg/status/2126004403052445733
+3. A 3,533-Elo chess engine for about $50
+   https://x.com/deedydas/status/2126140365208224057
+4. Microsoft: how much do coding agents over-edit?
+   https://x.com/dair_ai/status/2125964299227242769
+5. A proposed partial reading of the Indus script
+   https://x.com/jaravis/status/2125302028062822491
+6. Emad Mostaque derives free-field quantum structure from one axiom
+   https://x.com/EMostaque/status/2126045673581957242
+7. Tesla files to acquire EMAG, maker of robot-joint gear machines
+   https://x.com/Simoncuocuo/status/2125814643931431137
+8. SpaceX wants AI to redesign Starship's circuit boards
+   https://x.com/FelixSchlang/status/2126029259042865335
+9. Paul traps and colliding "trapnados"
+   https://x.com/SocraticScribe/status/2125952002870198546
+10. A forecast for space jellyfish
+   https://x.com/spacejellyalert/status/2126106134968766655
+11. Two kitchens of the future
+   https://x.com/HumanoidHistory/status/2126108134754439257
+12. The Coléoptère's tilting seat
+   https://x.com/AviationMarlene/status/2125900469977383081
+13. A procedural Amiens Cathedral in 980 KB
+   https://x.com/mrdoob/status/2126203332708721102
+14. Claude 3 Sonnet's last day
+   https://x.com/euagaric/status/2126215377826799849
+15. Neuralink's Patient 3 demonetized by YouTube
+   https://x.com/ALScyborg/status/2126040444983443595
+
+Signals:
+- roon praises a closed lab culture where "nothing ever leaks" and points at OpenAI's weakness: lab culture as competitive weapon (low-medium).
+- Richard Ngo frames OpenAI and Anthropic as power-seeking coalitions of humans and AIs drifting toward AI control: a new alignment vocabulary (medium).
+- Elon Musk pledges an annual share gift to every American kid, a recurring dividend to a generation as a philanthropy template (medium).
+- tinygrad offers free Qwen 3.8 Flash and GLM 5.3 Flash tokens as a test of its inference service on AMD tinybox reds: non-Nvidia token supply from the bottom (medium-low).
+- Mitchell Hashimoto's Superlogical ships Rex for iPhone, a pocket client for terminal sessions and coding agents: the phone as agent approval console (medium-high).]]></itunes:summary><content:encoded><![CDATA[<p>Thanksgiving leftovers: a Civilization-style map of the real United States, a 1994 Jeep that learned to talk, a proposed reading of the Indus script, Tesla&#x27;s move on a German gear-machine maker, and a model&#x27;s last day online.</p><p><a href="https://chrisremboldt.github.io/taste-daily/notes/2026-11-27.html">Full show notes: every story and Signal, with all links</a></p><ol><li><strong>Karpathy&#x27;s usaciv: the real US as a Civilization map</strong> <a href="https://x.com/karpathy/status/2125779541952246039">@karpathy</a></li><li><strong>A 1994 Jeep&#x27;s engine computer, read and driven with a $3 chip</strong> <a href="https://x.com/gregisenberg/status/2126004403052445733">@gregisenberg</a></li><li><strong>A 3,533-Elo chess engine for about $50</strong> <a href="https://x.com/deedydas/status/2126140365208224057">@deedydas</a></li><li><strong>Microsoft: how much do coding agents over-edit?</strong> <a href="https://x.com/dair_ai/status/2125964299227242769">@dair_ai</a></li><li><strong>A proposed partial reading of the Indus script</strong> <a href="https://x.com/jaravis/status/2125302028062822491">@jaravis</a></li><li><strong>Emad Mostaque derives free-field quantum structure from one axiom</strong> <a href="https://x.com/EMostaque/status/2126045673581957242">@EMostaque</a></li><li><strong>Tesla files to acquire EMAG, maker of robot-joint gear machines</strong> <a href="https://x.com/Simoncuocuo/status/2125814643931431137">@Simoncuocuo</a></li><li><strong>SpaceX wants AI to redesign Starship&#x27;s circuit boards</strong> <a href="https://x.com/FelixSchlang/status/2126029259042865335">@FelixSchlang</a></li><li><strong>Paul traps and colliding &quot;trapnados&quot;</strong> <a href="https://x.com/SocraticScribe/status/2125952002870198546">@SocraticScribe</a></li><li><strong>A forecast for space jellyfish</strong> <a href="https://x.com/spacejellyalert/status/2126106134968766655">@spacejellyalert</a></li><li><strong>Two kitchens of the future</strong> <a href="https://x.com/HumanoidHistory/status/2126108134754439257">@HumanoidHistory</a></li><li><strong>The Coléoptère&#x27;s tilting seat</strong> <a href="https://x.com/AviationMarlene/status/2125900469977383081">@AviationMarlene</a></li><li><strong>A procedural Amiens Cathedral in 980 KB</strong> <a href="https://x.com/mrdoob/status/2126203332708721102">@mrdoob</a></li><li><strong>Claude 3 Sonnet&#x27;s last day</strong> <a href="https://x.com/euagaric/status/2126215377826799849">@euagaric</a></li><li><strong>Neuralink&#x27;s Patient 3 demonetized by YouTube</strong> <a href="https://x.com/ALScyborg/status/2126040444983443595">@ALScyborg</a></li></ol><p><strong>Signals</strong></p><ul><li>roon praises a closed lab culture where &quot;nothing ever leaks&quot; and points at OpenAI&#x27;s weakness: lab culture as competitive weapon (low-medium).</li><li>Richard Ngo frames OpenAI and Anthropic as power-seeking coalitions of humans and AIs drifting toward AI control: a new alignment vocabulary (medium).</li><li>Elon Musk pledges an annual share gift to every American kid, a recurring dividend to a generation as a philanthropy template (medium).</li><li>tinygrad offers free Qwen 3.8 Flash and GLM 5.3 Flash tokens as a test of its inference service on AMD tinybox reds: non-Nvidia token supply from the bottom (medium-low).</li><li>Mitchell Hashimoto&#x27;s Superlogical ships Rex for iPhone, a pocket client for terminal sessions and coding agents: the phone as agent approval console (medium-high).</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-11-27.mp3" length="28925326" type="audio/mpeg"/><guid isPermaLink="false">b21e064c-d3bd-58e7-982c-1254d2eca988</guid>
+   <pubDate>Fri, 27 Nov 2026 06:00:00 -0500</pubDate><itunes:duration>1807</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we taste the superintelligence&#x27;s in-flight meal before it&#x27;s served at five hundred fifty kilometers</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-26.html</link><description><![CDATA[A million compute satellites get a license, a desert supercomputer skips the cooling towers, machines shrink and find proofs, and a forgotten Rochester photographer gets his name back.
 
 Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-26.html
