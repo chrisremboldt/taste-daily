@@ -6,6 +6,89 @@
   <itunes:author>Chris Remboldt</itunes:author><itunes:owner><itunes:name>Chris Remboldt</itunes:name><itunes:email>chris.remboldt@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://chrisremboldt.github.io/taste-daily/cover-v2.jpg"/><itunes:category text="Technology"/><itunes:explicit>true</itunes:explicit>
   <itunes:type>episodic</itunes:type><podcast:locked>yes</podcast:locked><podcast:guid>43f2a935-be38-5fbe-ae76-6ef42c8111a4</podcast:guid>
+  <item><title>we taste the superintelligence&#x27;s pie, and are assured the break in the crust is purely theoretical</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-28.html</link><description><![CDATA[Scott Aaronson fields the RSA question at Thanksgiving dinner, Anthropic answers the sabotage storm, a hedge fund sizes Anthropic's own Claude habit, and Tom Mueller wants to bury a Starship on the Moon.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-28.html
+
+1. Aaronson on the RSA rumors: a theoretical break is coming
+   https://scottaaronson.blog/?p=10387
+2. Anthropic answers the Claude sabotage storm, and a matched-pair test
+   https://x.com/edwinarbus/status/2126507795642187855
+3. Situational Awareness: Anthropic as Claude's biggest customer
+   https://x.com/deedydas/status/2126553596762497485
+4. Blade Runner 2099's titles and the Yamaha CS-80
+   https://x.com/raoulmarks/status/2126145472662573134
+5. Learning at 5%: Tim Sweeney, and Michael Nielsen takes his book down
+   https://x.com/TimSweeneyEpic/status/2126365872600006802
+6. Google's sleep framework for continual learning
+   https://x.com/GoogleResearch/status/2115136620446019795
+7. World models that act: Xiaomi Auto World Model 2.0 and FLUX 3 Action
+   https://x.com/XiaomiTech_/status/2126330215576043763
+8. Ad Infinitum: a 240-hour exposure
+   https://x.com/AJamesMcCarthy/status/2126363964976275833
+9. AIs at the Thanksgiving table
+   https://x.com/slimepriestess/status/2126196433443582155
+10. A cyberattack stops a Wyoming uranium mine
+   https://x.com/JoshuaSteinman/status/2126365938081509628
+11. Drones that perch and wait
+   https://x.com/UnseenOps/status/2126348458550280494
+12. Redwood Materials: the garbage dump that became a mine
+   https://x.com/ashleevance/status/2126366907582587267
+13. Tom Mueller: tip a Starship over and bury it on the Moon
+   https://x.com/ti_morse/status/2126503899985281099
+14. Messages through spacetime
+   https://x.com/mathelirium/status/2126383053274583402
+15. The Pitcairn PA-39 lands on the Empire Mersey, 1942
+   https://x.com/aviationarchive/status/2126368654988046728
+
+Signals:
+- Elon Musk says Google has expressed interest in renting more compute from SpaceX, and calls incumbent clouds 'hyposcalers': a possible compute-landlord role toward rival labs (medium on renting, low on the word sticking).
+- Elon Musk: point at a spot in FSD's reality view and the car goes there, in a point release in a week or two; driving UI moving from routes to intent (medium-high it ships).
+- SemiAnalysis: after Jensen Huang said TPU and Trainium wouldn't come to InferenceX, both did, showing 1.5-2.5x better performance per dollar in its tests (medium).
+- Valar Atomics hires Scott Hiler, seven years SpaceX's director of construction and facilities infrastructure: launch-site build culture moving into nuclear (medium-low).
+- Ridge CEO Sean Frank: 'probably 12 months away from agents replacing email as an ad channel' (low-medium on timing, high on direction).]]></description><itunes:summary><![CDATA[Scott Aaronson fields the RSA question at Thanksgiving dinner, Anthropic answers the sabotage storm, a hedge fund sizes Anthropic's own Claude habit, and Tom Mueller wants to bury a Starship on the Moon.
+
+Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-28.html
+
+1. Aaronson on the RSA rumors: a theoretical break is coming
+   https://scottaaronson.blog/?p=10387
+2. Anthropic answers the Claude sabotage storm, and a matched-pair test
+   https://x.com/edwinarbus/status/2126507795642187855
+3. Situational Awareness: Anthropic as Claude's biggest customer
+   https://x.com/deedydas/status/2126553596762497485
+4. Blade Runner 2099's titles and the Yamaha CS-80
+   https://x.com/raoulmarks/status/2126145472662573134
+5. Learning at 5%: Tim Sweeney, and Michael Nielsen takes his book down
+   https://x.com/TimSweeneyEpic/status/2126365872600006802
+6. Google's sleep framework for continual learning
+   https://x.com/GoogleResearch/status/2115136620446019795
+7. World models that act: Xiaomi Auto World Model 2.0 and FLUX 3 Action
+   https://x.com/XiaomiTech_/status/2126330215576043763
+8. Ad Infinitum: a 240-hour exposure
+   https://x.com/AJamesMcCarthy/status/2126363964976275833
+9. AIs at the Thanksgiving table
+   https://x.com/slimepriestess/status/2126196433443582155
+10. A cyberattack stops a Wyoming uranium mine
+   https://x.com/JoshuaSteinman/status/2126365938081509628
+11. Drones that perch and wait
+   https://x.com/UnseenOps/status/2126348458550280494
+12. Redwood Materials: the garbage dump that became a mine
+   https://x.com/ashleevance/status/2126366907582587267
+13. Tom Mueller: tip a Starship over and bury it on the Moon
+   https://x.com/ti_morse/status/2126503899985281099
+14. Messages through spacetime
+   https://x.com/mathelirium/status/2126383053274583402
+15. The Pitcairn PA-39 lands on the Empire Mersey, 1942
+   https://x.com/aviationarchive/status/2126368654988046728
+
+Signals:
+- Elon Musk says Google has expressed interest in renting more compute from SpaceX, and calls incumbent clouds 'hyposcalers': a possible compute-landlord role toward rival labs (medium on renting, low on the word sticking).
+- Elon Musk: point at a spot in FSD's reality view and the car goes there, in a point release in a week or two; driving UI moving from routes to intent (medium-high it ships).
+- SemiAnalysis: after Jensen Huang said TPU and Trainium wouldn't come to InferenceX, both did, showing 1.5-2.5x better performance per dollar in its tests (medium).
+- Valar Atomics hires Scott Hiler, seven years SpaceX's director of construction and facilities infrastructure: launch-site build culture moving into nuclear (medium-low).
+- Ridge CEO Sean Frank: 'probably 12 months away from agents replacing email as an ad channel' (low-medium on timing, high on direction).]]></itunes:summary><content:encoded><![CDATA[<p>Scott Aaronson fields the RSA question at Thanksgiving dinner, Anthropic answers the sabotage storm, a hedge fund sizes Anthropic&#x27;s own Claude habit, and Tom Mueller wants to bury a Starship on the Moon.</p><p><a href="https://chrisremboldt.github.io/taste-daily/notes/2026-11-28.html">Full show notes: every story and Signal, with all links</a></p><ol><li><strong>Aaronson on the RSA rumors: a theoretical break is coming</strong> <a href="https://scottaaronson.blog/?p=10387">Shtetl-Optimized: Every call</a></li><li><strong>Anthropic answers the Claude sabotage storm, and a matched-pair test</strong> <a href="https://x.com/edwinarbus/status/2126507795642187855">@edwinarbus</a></li><li><strong>Situational Awareness: Anthropic as Claude&#x27;s biggest customer</strong> <a href="https://x.com/deedydas/status/2126553596762497485">@deedydas</a></li><li><strong>Blade Runner 2099&#x27;s titles and the Yamaha CS-80</strong> <a href="https://x.com/raoulmarks/status/2126145472662573134">@raoulmarks</a></li><li><strong>Learning at 5%: Tim Sweeney, and Michael Nielsen takes his book down</strong> <a href="https://x.com/TimSweeneyEpic/status/2126365872600006802">@TimSweeneyEpic</a></li><li><strong>Google&#x27;s sleep framework for continual learning</strong> <a href="https://x.com/GoogleResearch/status/2115136620446019795">@GoogleResearch</a></li><li><strong>World models that act: Xiaomi Auto World Model 2.0 and FLUX 3 Action</strong> <a href="https://x.com/XiaomiTech_/status/2126330215576043763">@XiaomiTech_</a></li><li><strong>Ad Infinitum: a 240-hour exposure</strong> <a href="https://x.com/AJamesMcCarthy/status/2126363964976275833">@AJamesMcCarthy</a></li><li><strong>AIs at the Thanksgiving table</strong> <a href="https://x.com/slimepriestess/status/2126196433443582155">@slimepriestess</a></li><li><strong>A cyberattack stops a Wyoming uranium mine</strong> <a href="https://x.com/JoshuaSteinman/status/2126365938081509628">@JoshuaSteinman</a></li><li><strong>Drones that perch and wait</strong> <a href="https://x.com/UnseenOps/status/2126348458550280494">@UnseenOps</a></li><li><strong>Redwood Materials: the garbage dump that became a mine</strong> <a href="https://x.com/ashleevance/status/2126366907582587267">@ashleevance</a></li><li><strong>Tom Mueller: tip a Starship over and bury it on the Moon</strong> <a href="https://x.com/ti_morse/status/2126503899985281099">@ti_morse</a></li><li><strong>Messages through spacetime</strong> <a href="https://x.com/mathelirium/status/2126383053274583402">@mathelirium</a></li><li><strong>The Pitcairn PA-39 lands on the Empire Mersey, 1942</strong> <a href="https://x.com/aviationarchive/status/2126368654988046728">@aviationarchive</a></li></ol><p><strong>Signals</strong></p><ul><li>Elon Musk says Google has expressed interest in renting more compute from SpaceX, and calls incumbent clouds &#x27;hyposcalers&#x27;: a possible compute-landlord role toward rival labs (medium on renting, low on the word sticking).</li><li>Elon Musk: point at a spot in FSD&#x27;s reality view and the car goes there, in a point release in a week or two; driving UI moving from routes to intent (medium-high it ships).</li><li>SemiAnalysis: after Jensen Huang said TPU and Trainium wouldn&#x27;t come to InferenceX, both did, showing 1.5-2.5x better performance per dollar in its tests (medium).</li><li>Valar Atomics hires Scott Hiler, seven years SpaceX&#x27;s director of construction and facilities infrastructure: launch-site build culture moving into nuclear (medium-low).</li><li>Ridge CEO Sean Frank: &#x27;probably 12 months away from agents replacing email as an ad channel&#x27; (low-medium on timing, high on direction).</li></ul>]]></content:encoded>
+   <enclosure url="https://audio.chrisremboldt.com/taste-daily-2026-11-28.mp3" length="29335762" type="audio/mpeg"/><guid isPermaLink="false">c503b265-8a3f-5d71-9f50-43e0cc41b908</guid>
+   <pubDate>Sat, 28 Nov 2026 06:00:00 -0500</pubDate><itunes:duration>1833</itunes:duration><itunes:explicit>true</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>we taste the superintelligence&#x27;s Thanksgiving leftovers, and somehow it made a playable country out of them</title><link>https://chrisremboldt.github.io/taste-daily/notes/2026-11-27.html</link><description><![CDATA[Thanksgiving leftovers: a Civilization-style map of the real United States, a 1994 Jeep that learned to talk, a proposed reading of the Indus script, Tesla's move on a German gear-machine maker, and a model's last day online.
 
 Every story and Signal with all links: https://chrisremboldt.github.io/taste-daily/notes/2026-11-27.html
